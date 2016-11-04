@@ -15,8 +15,5 @@ for line in open("peptide_o.txt","r") :
         found = re.match(arr[0][count-1],f[0])
         if found : 
             arr[1][count-1] = f[1]## return the description 
+    
     count=count+1
-c=0
-for x in range(1,330) : 
-    c=c+1
-print c
