@@ -1,4 +1,5 @@
 import re
+import time
 ## creates the two-dimensional array
 def binary_search(array, target):
     lower = 0
@@ -18,20 +19,28 @@ def binary_search(array, target):
 arr = []
 for i in range(0,5) : 
     arr.append([])
-count=0
+count=1
+start = time.time()
 ## puts the ipi in the first column of the array
 for line in open("peptide_o.txt","r") : 
     fragment = line.split("\t")
     arr[0].append(fragment[0])
     arr[1].append(fragment[1])
     
-    for line2 in open("mouse_qualitative.txt","r") : 
-        f = line2.split("\t")
+    for line1 in open("mouse_qualitative.txt","r") : 
+        f = line1.split("\t")
         found = re.match(arr[0][count-1],f[0])
         if found : 
-            arr[1][count-1] = f[1] ## return the description 
+            arr[2].append(f[1]) ## return the description 
+            break
+    for line2 in open("mouse1_loopstat.txt","r") : 
+        f = line2.split("\t")
+        found = re.match(arr[0][count-1],f[0])
+        if found:
+            arr[3].append(f[2])
+            break
+    count=count+1;
 
-
-for line in open("mouse1_loopstat.txt","r") : 
-    f = line.split("\t")
-    print f[0]
+print "time elapsed = %f"%(time.time() - start)
+for i in range(1,10) : 
+    print "ipi = %s, seq = %s, desc = %s, len = %s" %(arr[0][i],arr[1][i][:-1],arr[2][i],arr[3][i])
