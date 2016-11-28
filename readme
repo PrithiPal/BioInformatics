@@ -1,0 +1,7 @@
+This is the readme for processing of worm file.
+
+Initially the worm.fasta file is not of format that fasta.cpp expects for. 
+
+1. worm.fasta ------> script.py -------> output.fasta
+
+output.fasta corrects the format that would be acceptable to the fasta file. 
