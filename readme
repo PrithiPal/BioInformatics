@@ -1,0 +1,27 @@
+Date : 29 November 2016
+
+This documents tell which files are used to obtain what output. This helps to add the meaning to the different files which may seem absurd otherwise.
+
+File descriptions : 
+
+1) mouse.fasta : Fasta file for the mouse. use open -e to view it’s contents
+2) fasta.cpp : Input -> fasta file. Output -> file with <IPI> <Some Number>
+
+mouse.fasta —> fasta.cp —> mouse.fasta.idx
+
+3) mouse_seq.txt : file with <IPI> <Indentified Sequences>
+4) mouse_seq2hash.txt : same as mouse_eq.txt however * are replaced with hash. The script name is replace_withhash.sh .
+
+mouse.fasta.idx + mouse_seq2hash.txt ——> find_glyco_pep.cpp ——> peptide output(peptide_o.tt)
+
+
+***************************__________________*******&&&&&&&&&&&&&&^^^^^^^^^^^^^^
+Here comes the purpose for the first_loopstat_prepare.py for which it was created.
+It helps produce the loopstat and the transloop file for the corresponding given peptide_o.txt which of format <IPI> <found NXG/T sequence>
+
+it takes the data such as the Description, protein length etc from multiple files such as the mouse_qualitative.txt, mouse_human.fasta.txt etc..
+
+Look at the code to determine which files are being reffered to pick certain column entries for loopstat/transloop file.
+
+
+**************************____________________***********************************^^
