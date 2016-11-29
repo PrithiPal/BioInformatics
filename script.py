@@ -1,6 +1,6 @@
 arr = []
 count = 0
-for line in open("short_worm.fasta" ) : 
+for line in open("worm.fasta" ) : 
     if line[0] == ">" : 
         
         fragments = line.split("\t")
