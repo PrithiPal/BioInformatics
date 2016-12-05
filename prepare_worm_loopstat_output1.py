@@ -3,7 +3,7 @@
 
 #format in arr : <identifer> <description> <length> <total_seq.> <seq.list>
 arr = []
-ofile = open("worm_transloop_output1.txt","w")
+ofile = open("worm_loopstat_input1.txt","w")
 
 for i in range(5) : 
     arr.append([]) ## creates the 5 columns for the data 
@@ -22,7 +22,7 @@ for lines in open("peptide_worm_o.txt","r") :
         if (identifier == frag3[0]) : 
             description =  frag3[1][:-1] # cuts of the end "\n" character 
             break
-    for line3 in open("worm_transloop_output2.txt","r") : 
+    for line3 in open("worm_loopstat_input2.txt","r") : 
         frag4 = line3.split("\t")
         if identifier == frag4[0] : 
             protein_length = frag4[1]
