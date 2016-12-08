@@ -1,0 +1,182 @@
+WGA	F14F4.3b	CE23650	locus:mrp-5	808	825	K	GHDETTTITNGTEFLEMK	K	T	00000000001000000000	676.323	3+	"2,025.95"	"2,025.91"	0.04	19	34.1	25.4	8.7	16	1	1	817		1	2	F14F4.3b
+Con A	F14F9.5	CE35275		51	71	K	HILMVNPDVVALQEVYANVTR	R	N	00000000000000000010000	795.520	3+	"2,383.54"	"2,383.25"	0.29	123	62.7	18.0	44.7	19	1	1	68		2	1	F14F9.5
+Con A	F14F9.5	CE35275		51	71	K	HILMVNPDVVALQEVYANVTR	R	N	00002000000000000010000	"1,200.732"	2+	"2,399.45"	"2,399.24"	0.21	87	48.2	16.8	31.4	19	1	1	68		2	1	F14F9.5
+WGA	F14F9.5	CE35275		51	71	K	HILMVNPDVVALQEVYANVTR	R	N	00000000000000000010000	795.416	3+	"2,383.23"	"2,383.25"	-0.02	-8	42.2	20.9	21.2	16	1	1	68		1	1	F14F9.5
+Con A	F15B9.6	CE09411	phospholipase A2	122	145	R	ELENNCTVQIMEGDDNLRVEQLFK	K	L	00000100000000000000000000	966.457	3+	"2,896.35"	"2,896.35"	0.00	1	42.4	24.8	17.6	12	1	1	126		2	1	F15B9.6
+Con A	F15E6.2	CE36293		69	82	R	THIQTTYQNATDNK	K	T	0000000001000000	819.410	2+	"1,636.81"	"1,636.76"	0.05	29	79.2	21.0	58.2	11	1	1	77		2	1	F15E6.2
+GaL6	F15E6.2	CE36293		69	82	R	THIQTTYQNATDNK	K	T	0000000001000000	819.375	2+	"1,636.74"	"1,636.76"	-0.02	-13	42.3	23.9	18.4	8	1	1	77		1	1	F15E6.2
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	159	173	K	QSSVVFVMTGDCGNR	R	T	00000000000000100	830.350	2+	"1,658.68"	"1,658.73"	-0.04	-26	54.9	21.6	33.3	9	1	1	172		1	2	F15G9.4a
+																											
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	159	173	K	QSSVVFVMTGDCGNR	R	T	00000000000000100	830.354	2+	"1,658.69"	"1,658.73"	-0.03	-20	29.9	23.6	6.3	10	1	1	172		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595		501	511	R	VISNNGNYSVK	K	T	0000000100000	599.281	2+	"1,196.55"	"1,196.59"	-0.05	-38	47.3	27.0	20.2	9	1	1	507		1	2	F15G9.4a
+																											
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	501	511	R	VISNNGNYSVK	K	T	0000000100000	599.281	2+	"1,196.55"	"1,196.59"	-0.04	-37	66.3	31.5	34.8	8	1	1	507		1	2	F15G9.4a
+																											
+																											
+WGA	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	501	511	R	VISNNGNYSVK	K	T	0000000100000	599.302	2+	"1,196.59"	"1,196.59"	0.00	-2	19.9	18.7	1.1	6	1	1	507		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	518	544	R	ESPPEIFGVRNVSVPLGEAAFLHCSTR	R	S	00000000000100000000000000000	991.561	3+	"2,971.66"	"2,971.47"	0.19	62	50.9	20.9	29.9	16	1	1	528		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	556	576	R	YGATVFNGPNTERNPTNGTLK	K	I	00000000000000000100000	"1,127.652"	2+	"2,253.29"	"2,253.09"	0.20	88	37.6	16.6	21.0	17	1	1	572		3	2	F15G9.4a
+																											
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	556	576	R	YGATVFNGPNTERNPTNGTLK	K	I	00000000000000000100000	"1,127.521"	2+	"2,253.03"	"2,253.09"	-0.06	-28	33.1	21.1	12.0	15	1	1	572		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	626	647	R	EGVNLSCEAMGDPKPEVHWYFK	K	G	000010000000000000000000	"1,298.570"	2+	"2,595.13"	"2,595.17"	-0.04	-15	34.3	21.1	13.1	18	1	1	629		3	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	626	647	R	EGVNLSCEAMGDPKPEVHWYFK	K	G	000010000020000000000000	871.402	3+	"2,611.18"	"2,611.16"	0.02	9	26.2	18.2	8.1	9	1	1	629		1	2	F15G9.4a
+																											
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	781	791	K	DVQVANLSVGR	R	V	0000001000000	580.802	2+	"1,159.59"	"1,159.61"	-0.02	-17	60.0	31.4	28.6	10	1	1	786		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	781	803	K	DVQVANLSVGRVPTIIESPHTVR	R	V	0000001000000000000000000	623.403	4+	"2,489.58"	"2,489.35"	0.23	94	28.7	19.9	8.9	10	1	1	786		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	1154	1169	R	GTFTCHAQNAAGNDTR	R	T	000000000000010000	862.443	2+	"1,722.87"	"1,722.73"	0.14	84	59.4	25.5	34.0	13	1	1	1166		3	2	F15G9.4a
+																											
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	1154	1169	R	GTFTCHAQNAAGNDTR	R	T	000000000000010000	575.237	3+	"1,722.69"	"1,722.73"	-0.04	-22	47.7	22.2	25.5	8	1	1	1166		2	2	F15G9.4a
+																											
+																											
+WGA	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	1154	1169	R	GTFTCHAQNAAGNDTR	R	T	000000000000010000	575.255	3+	"1,722.74"	"1,722.73"	0.02	9	50.4	28.4	22.0	6	1	1	1166		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	1880	1917	R	LTILNANRDHEDIYTCVANNTAGQVSKDFDVVVQVLPK	K	I	0000000000000000000100000000000000000000	"1,065.907"	4+	"4,259.60"	"4,259.14"	0.46	108	23.1	19.2	4.0	18	1	1	1898		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	1959	1976	K	EAVFVNNNHTVVVNNVTK	K	Y	00000000100000010000	"1,002.631"	2+	"2,003.25"	"2,003.01"	0.24	119	80.1	25.8	54.3	19	2	2	1966	1973	1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	2003	2022	R	TKPRFESGLTESELTVNLTR	R	S	0000000000000000010000	761.121	3+	"2,280.34"	"2,280.18"	0.16	69	65.7	23.9	41.7	12	1	1	2019		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	2007	2022	R	FESGLTESELTVNLTR	R	S	000000000000010000	900.003	2+	"1,797.99"	"1,797.89"	0.10	58	92.6	25.2	67.3	15	1	1	2019		3	2	F15G9.4a
+																											
+			locus:him-4 Ig superfamily repeats (I- type)																								
+Con A	F15G9.4a	CE18595		2251	2267	R	LTILNVTENDEGQYSCR	R	V	0000010000000000000	"1,007.971"	2+	"2,013.93"	"2,013.92"	0.01	4	41.7	16.7	25.0	12	1	1	2255		2	2	F15G9.4a
+			locus:him-4 Ig superfamily repeats (I- type)																								
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	2251	2267	R	LTILNVTENDEGQYSCR	R	V	0000010000000000000	"1,007.969"	2+	"2,013.92"	"2,013.92"	0.00	2	55.8	17.4	38.4	10	1	1	2255		1	2	F15G9.4a
+																											
+			locus:him-4 Ig superfamily repeats (I- type)																								
+Con A	F15G9.4a	CE18595		2817	2843	K	TLNVTNIQLDDEGFYYCTAVNEAGITK	K	K	00010000000000000000000000000	"1,018.148"	3+	"3,051.42"	"3,051.43"	0.00	-2	51.1	21.0	30.1	10	1	1	2819		3	2	F15G9.4a
+			locus:him-4 Ig superfamily repeats (I- type)																								
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	2817	2844	K	TLNVTNIQLDDEGFYYCTAVNEAGITKK	K	F	000100000000000000000000000000	"1,060.838"	3+	"3,179.49"	"3,179.52"	-0.03	-9	43.1	19.0	24.1	9	1	1	2819		3	2	F15G9.4a
+																											
+			locus:him-4 Ig superfamily repeats (I- type)																								
+Con A	F15G9.4a	CE18595		2890	2919	K	DGKRLNESDEVDIIGSTLVIDNPQKEVEGR	R	Y	00000010000000000000000000000000	"1,110.197"	3+	"3,327.57"	"3,327.67"	-0.10	-30	63.5	24.6	38.9	12	1	1	2895		1	2	F15G9.4a
+			locus:him-4 Ig superfamily repeats (I- type)																								
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	2893	2919	K	RLNESDEVDIIGSTLVIDNPQKEVEGR	R	Y	00010000000000000000000000000	"1,010.156"	3+	"3,027.44"	"3,027.52"	-0.08	-26	83.7	23.5	60.1	20	1	1	2895		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	2894	2919	R	LNESDEVDIIGSTLVIDNPQKEVEGR	R	Y	0010000000000000000000000000	958.142	3+	"2,871.40"	"2,871.42"	-0.02	-7	58.0	28.8	29.2	15	1	1	2895		1	2	F15G9.4a
+																											
+										0000000000000000000000100000000000000000																	
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3447	3485	K	INSVTTEDAGQYSCIAVNEAGNLTTHYAAEVIGKPTFVR	R	K		"1,050.903"	4+	"4,199.58"	"4,199.04"	0.55	130	57.2	23.5	33.6	16	1	1	3468		2	2	F15G9.4a
+										0																	
+										0000000000000000000000100000000000000000																	
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3447	3485	K	INSVTTEDAGQYSCIAVNEAGNLTTHYAAEVIGKPTFVR	R	K		"1,050.807"	4+	"4,199.20"	"4,199.04"	0.16	38	47.7	18.8	28.9	15	1	1	3468		3	2	F15G9.4a
+										0																	
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3486	3517	R	KGGNLYEVIENDTITMDCGVTSRPLPSISWFR	R	G	0000000000010000000000000000000000	915.582	4+	"3,658.30"	"3,657.77"	0.53	145	38.7	18.7	20.0	14	1	1	3496		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3611	3621	K	NGMDINMTDSR	R	V	0000001000000	628.837	2+	"1,255.66"	"1,255.51"	0.15	122	66.4	24.4	42.0	13	1	1	3616		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3611	3621	K	NGMDINMTDSR	R	V	0002001000000	636.845	2+	"1,271.68"	"1,271.50"	0.17	138	42.4	22.7	19.6	5	1	1	3616		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3622	3643	R	VILAQNNETFGIENVQVTDQGR	R	Y	000000010000000000000000	816.717	3+	"2,447.13"	"2,447.22"	-0.09	-36	30.2	18.9	11.3	16	1	1	3628		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3865	3891	K	SDNPIKALGETITLFCNASGNPYPQLK	K	W	00000000000000000100000000000	984.565	3+	"2,950.67"	"2,950.46"	0.21	71	57.6	18.1	39.5	22	1	1	3881		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3871	3891	K	ALGETITLFCNASGNPYPQLK	K	W	00000000000100000000000	"1,149.112"	2+	"2,296.21"	"2,296.13"	0.08	34	52.7	23.6	29.1	21	1	1	3881		4	2	F15G9.4a
+																											
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	3871	3891	K	ALGETITLFCNASGNPYPQLK	K	W	00000000000100000000000	"1,149.040"	2+	"2,296.07"	"2,296.13"	-0.06	-28	43.1	22.6	20.5	10	1	1	3881		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4229	4262	K	ISTSGNRYINGSEGTETVIKCEIESESSEFSWSK	K	N	000000000010000000000000000000000000	954.421	4+	"3,813.65"	"3,813.74"	-0.09	-23	43.8	17.1	26.7	15	1	1	4238		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4236	4248	R	YINGSEGTETVIK	K	C	000100000000000	707.403	2+	"1,412.79"	"1,412.69"	0.10	70	94.8	28.9	65.9	13	1	1	4238		4	2	F15G9.4a
+																											
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4236	4248	R	YINGSEGTETVIK	K	C	000100000000000	707.356	2+	"1,412.70"	"1,412.69"	0.00	3	76.0	29.0	47.0	15	1	1	4238		1	2	F15G9.4a
+																											
+																											
+WGA	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4236	4248	R	YINGSEGTETVIK	K	C	000100000000000	707.316	2+	"1,412.62"	"1,412.69"	-0.07	-53	54.7	29.5	25.3	9	1	1	4238		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4236	4262	R	YINGSEGTETVIKCEIESESSEFSWSK	K	N	00010000000000000000000000000	"1,033.767"	3+	"3,098.28"	"3,098.38"	-0.10	-33	37.4	20.0	17.4	12	1	1	4238		3	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4289	4309	R	LSDQGEYSCTAANKAGNATQK	K	T	00000000000000000100000	739.748	3+	"2,216.22"	"2,215.99"	0.23	104	69.4	21.1	48.3	18	1	1	4305		2	2	F15G9.4a
+																											
+										0000000000000000000000000000000000000000																	
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4373	4424	K	SVIFSSISPSQAGVYTCKAENWVASTEEDIDLIVMIPPEVVPERMNVSTNPR	R	Q		"1,442.205"	4+	"5,764.79"	"5,764.82"	-0.03	-5	30.8	19.1	11.7	10	1	1	4418		1	2	F15G9.4a
+										00000010000000																	
+																											
+GaL6	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4417	4424	R	MNVSTNPR	R	Q	0010000000	461.196	2+	920.38	920.43	-0.05	-54	27.9	23.3	4.6	8	1	1	4418		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4425	4445	R	QTVFLSCNATGIPEPVISWMR	R	D	00000000100000000000000	"1,205.250"	2+	"2,408.49"	"2,408.18"	0.31	129	52.3	19.9	32.4	21	1	1	4432		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4425	4445	R	QTVFLSCNATGIPEPVISWMR	R	D	30000000100000000000000	"1,196.663"	2+	"2,391.31"	"2,391.15"	0.16	68	43.2	18.7	24.5	13	1	1	4432		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4425	4445	R	QTVFLSCNATGIPEPVISWMR	R	D	00000000100000000000200	"1,213.249"	2+	"2,424.48"	"2,424.17"	0.31	129	45.3	21.5	23.7	18	1	1	4432		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4425	4445	R	QTVFLSCNATGIPEPVISWMR	R	D	30000000100000000000000	"1,204.644"	2+	"2,407.27"	"2,407.14"	0.13	54	32.3	24.2	8.1	12	1	1	4432		2	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4790	4818	K	MLDDDAIYVLPNNSLVLLNVEKYDEGVYK	K	C	0200000000001000000000000000000	"1,121.196"	3+	"3,360.57"	"3,360.66"	-0.09	-27	46.6	20.9	25.8	17	1	1	4801		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4a	CE18595	locus:him-4 Ig superfamily repeats (I- type)	4790	4818	K	MLDDDAIYVLPNNSLVLLNVEKYDEGVYK	K	C	0000000000001000000000000000000	"1,115.877"	3+	"3,344.61"	"3,344.66"	-0.05	-16	26.0	18.3	7.7	11	1	1	4801		1	2	F15G9.4a
+																											
+																											
+Con A	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	159	173	K	QSSVVFVMTGDCGNR	R	T	00000000000000100	830.350	2+	"1,658.68"	"1,658.73"	-0.04	-26	54.9	21.6	33.3	9	1	1	172		1	2	F15G9.4b
+																											
+																											
+GaL6	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	159	173	K	QSSVVFVMTGDCGNR	R	T	00000000000000100	830.354	2+	"1,658.69"	"1,658.73"	-0.03	-20	29.9	23.6	6.3	10	1	1	172		1	2	F15G9.4b
+																											
+																											
+Con A	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	501	511	R	VISNNGNYSVK	K	T	0000000100000	599.281	2+	"1,196.55"	"1,196.59"	-0.05	-38	47.3	27.0	20.2	9	1	1	507		1	2	F15G9.4b
+																											
+																											
+GaL6	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	501	511	R	VISNNGNYSVK	K	T	0000000100000	599.281	2+	"1,196.55"	"1,196.59"	-0.04	-37	66.3	31.5	34.8	8	1	1	507		1	2	F15G9.4b
+																											
+																											
+WGA	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	501	511	R	VISNNGNYSVK	K	T	0000000100000	599.302	2+	"1,196.59"	"1,196.59"	0.00	-2	19.9	18.7	1.1	6	1	1	507		1	2	F15G9.4b
+																											
+																											
+Con A	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	518	544	R	ESPPEIFGVRNVSVPLGEAAFLHCSTR	R	S	00000000000100000000000000000	991.561	3+	"2,971.66"	"2,971.47"	0.19	62	50.9	20.9	29.9	16	1	1	528		2	2	F15G9.4b
+																											
+																											
+Con A	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	556	576	R	YGATVFNGPNTERNPTNGTLK	K	I	00000000000000000100000	"1,127.652"	2+	"2,253.29"	"2,253.09"	0.20	88	37.6	16.6	21.0	17	1	1	572		3	2	F15G9.4b
+																											
+																											
+GaL6	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	556	576	R	YGATVFNGPNTERNPTNGTLK	K	I	00000000000000000100000	"1,127.521"	2+	"2,253.03"	"2,253.09"	-0.06	-28	33.1	21.1	12.0	15	1	1	572		2	2	F15G9.4b
+																											
+																											
+Con A	F15G9.4b	CE18596	locus:him-4 IG (immunoglobulin) superfamily (47 domains)	626	647	R	EGVNLSCEAMGDPKPEVHWYFK	K	G	000010000000000000000000	"1,298.570"	2+	"2,595.13"	"2,595.17"	-0.04	-15	34.3	21.1	13.1	18	1	1	629		3	2	F15G9.4b
+																											
+																											
