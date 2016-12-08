@@ -10,12 +10,12 @@ def insertChar(mystring, position, chartoinsert ):
 
 
 ##function to place hash in second position to found sequence, format : N#XS/T
-def placeHash(idxFile,outputFile,peptide_seq_index) : 
+def placeHash(idxFile,outputFile) : 
     
     num_seq=0
     for line in open(idxFile,"r") : 
         frag = line.split("\t") ## frag[1] = peptide_seq
-        peptide_seq = frag[peptide_seq_index]
+        peptide_seq = frag[1]
         num_seq=0
         for i in range(2,len(peptide_seq)) : 
             if (peptide_seq[i-2] == "N") and (peptide_seq[i-1]!="P" and (peptide_seq[i] == "S" or peptide_seq[i] == "T")):
@@ -34,6 +34,6 @@ iFileName = raw_input("Please enter the input file name <Identifier> <peptide_se
 iFile = open(iFileName,"r")
 oFileName = raw_input("Please enter the output file name <Identifier> <peptide_seq with hash> : ")
 oFile = open(oFileName,"w")
-index = raw_input("Please enter the index of the peptide_seq in the " + str(iFileName))
 
-placeHash(iFileName,oFile,index)
+
+placeHash(iFileName,oFile)

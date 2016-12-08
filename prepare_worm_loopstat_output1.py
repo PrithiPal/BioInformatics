@@ -11,7 +11,7 @@ for i in range(5) :
 #identifer = ""
 description = ""
 protein_length = ""
-for lines in open("peptide_worm_o.txt","r") : 
+for lines in open("peptide_worm_output.txt","r") : 
     frag1 = lines.split("\t")
     frag2 = lines.split(" ")
     identifier = frag1[0]
