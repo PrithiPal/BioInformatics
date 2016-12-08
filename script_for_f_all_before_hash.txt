@@ -1,0 +1,3 @@
+## inside txt_files directory, execute this bash command on command line.
+
+ls | grep "before_hash" | xargs -n1 -I {} cat {} > f_all_before_hash.txt
