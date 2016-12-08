@@ -17,7 +17,7 @@ for lines in open("peptide_worm_output.txt","r") :
     identifier = frag1[0]
     seq_list = frag1[1]
     total_seq = len(frag1[1].split(" "))-1
-    for line2 in open("f_all_description_all.txt","r") : 
+    for line2 in open("f_all_descriptions.txt","r") : 
         frag3 = line2.split("\t")
         if (identifier == frag3[0]) : 
             description =  frag3[1][:-1] # cuts of the end "\n" character 
