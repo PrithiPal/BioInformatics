@@ -23,7 +23,7 @@ peptide files (pdf) ----> peptide files xl (excel format) --after correction -->
 This program has removed the duplicated sequences for each protein. Lines = 621
 
 
-**---- After new place_hash changes begin from here**
+
 
 8. afterwards, use the script script_for_f_all_description.txt to obtain a f_all_description file.
 
@@ -32,6 +32,10 @@ This program has removed the duplicated sequences for each protein. Lines = 621
     2. cat names.txt | xargs -n1 -I {} sed -i.txt '/{}/d' peptide_worm_output_after_removeextra.txt 
     
     This will remove the entries in peptide_worm_output where seq is not_found
+
+
+
+
 
 9. Now worm_loopstat_input1 + f_all_descriptions.txt -------> prepare_worm_loopstat_output1.py ----> worm_loopstat_input1.txt
 

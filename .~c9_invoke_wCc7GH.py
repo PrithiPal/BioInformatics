@@ -11,11 +11,6 @@ def equal(str1, str2) :
         return False
     
 
-
-
-
-
-
 start_time = time.time()
 arr = []
 ofile = open("t1.txt","w")

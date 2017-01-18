@@ -1,0 +1,4 @@
+awk 'BEGIN{FS = "\t"}{if($3 != "o" && $3 != "i"){print $1"\t"substr($2,5,length($2))"\t"$3"\t"$4}}' original_worm_input2.txt >> worm_loopstat_input2_new.txt
+
+
+## this script brings the adequate format for the loopstat_input2 and also removes the 'o' and 'i' entries. 
