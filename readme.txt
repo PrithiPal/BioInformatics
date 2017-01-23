@@ -19,7 +19,13 @@ peptide files (pdf) ----> peptide files xl (excel format) --after correction -->
 6. fasta_file + f_worm_uniq_after_hash.txt -----------> find_glyco_pep.cpp ---------------> peptide_worm_output.txt (<Identifier> <found sequences NX(!P)S/T>) Lines = 809
 
 
-7. peptide_worm_output.txt -----> remove_extra_seq.py -----> peptide_worm_output_after_removeextra.txt
+7. run this command 
+    1. awk '/not_found/{print $1}' peptide_worm_output.txt > names.txt
+    2. cat names.txt | xargs -n1 -I {} sed -i.txt '/{}/d' peptide_worm_output.txt 
+    
+    This will remove the entries in peptide_worm_output where seq is not_found. The resulting file would be peptide_worm_output.txt.txt. Remove the extra txt.
+
+8. peptide_worm_output.txt -----> remove_extra_seq.py -----> peptide_worm_output_after_removeextra.txt
 This program has removed the duplicated sequences for each protein. Lines = 621
 
 
@@ -27,17 +33,14 @@ This program has removed the duplicated sequences for each protein. Lines = 621
 
 8. afterwards, use the script script_for_f_all_description.txt to obtain a f_all_description file.
 
-9. run this command 
-    1. awk '/not_found/{print $1}' peptide_worm_output_after_removeextra.txt > names.txt
-    2. cat names.txt | xargs -n1 -I {} sed -i.txt '/{}/d' peptide_worm_output_after_removeextra.txt 
-    
-    This will remove the entries in peptide_worm_output where seq is not_found
 
 
 
+9. worm_loopstat_input2 -----> script_for_worm_loopstat_input2_new.txt ----> worm_loopstat_input2(refined)
+This script is removing the 'o' or 'i' entries from the loopstat input2. in addition it's also changing second column len=x => x
 
 
-9. Now worm_loopstat_input1 + f_all_descriptions.txt -------> prepare_worm_loopstat_output1.py ----> worm_loopstat_input1.txt
+9. Now worm_loopstat_input2 + f_all_descriptions.txt -------> prepare_worm_loopstat_output1.py ----> worm_loopstat_input1.txt
 
 10. Now we have got both worm_loopstat_input1 and worm_loopstat_input2. So the final solution is to input them in loopstat to obtain the ultimate worm output.
 

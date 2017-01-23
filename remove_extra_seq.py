@@ -6,11 +6,11 @@ def uniquify(seq):
     return [x for x in seq if x not in seen and not seen_add(x)]
     
 
-
 inputFileName = raw_input("Which File ? ")
 outputFileName = raw_input("Which File to output ? ")
+
 outputFile = open(outputFileName,"w")
-for line in open("now_output.txt","r") : 
+for line in open(inputFileName,"r") : 
     frag = line.split("\t")
     identifier = frag[0]
     frag2 = frag[1].split(" ")
