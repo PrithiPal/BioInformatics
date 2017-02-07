@@ -1,1 +1,1 @@
-for i in {1..34};do echo f$i.txt;done | xargs -n1 -I {} awk 'BEGIN{FS = "\t"}{if(length($2)!=0){print $2"\t"$4}}' {} >> f_all_descriptions.txt
+awk 'BEGIN{FS = "\t"}{if(length($2)!=0){print $2"\t"$4}}' f_worm_without_space.txt >> f_all_new_descriptions.txt

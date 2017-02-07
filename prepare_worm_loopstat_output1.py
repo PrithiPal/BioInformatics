@@ -21,7 +21,7 @@ identifier = ""
 descr_identifier = ""
 description = ""
 protein_length = ""
-for lines in open("peptide_worm_output_after_removeextra.txt","r") : 
+for lines in open("sorted_new_peptide.txt","r") : 
 
     frag1 = lines.split("\t")
     frag2 = lines.split(" ")

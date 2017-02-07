@@ -6,7 +6,7 @@
 
 def prepareResidualFile() : 
     
-    iFileName = raw_input("Which file ? ")
+    iFileName = raw_input("Which file ?: without .txt ")
     iFileName = iFileName + ".txt"
     iFile = open(iFileName,"r")
     oFileName = iFileName + "_before_hash.txt"
