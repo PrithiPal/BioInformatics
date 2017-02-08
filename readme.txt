@@ -12,11 +12,16 @@ peptide files (pdf) ----> peptide files xl (excel format) --after correction -->
 
 4. Now f_worm.txt_before_hash.txt ---------> place_hash.py -------------> f_worm.txt_after_hash.txt . Lines = 2641
 
+5. Few identifiers have the appended WormPep ID such as "CE22235". To remove them : 
+    
+    f_worm.txt_after_hash.txt ----> correct_identifier.py -----> f_worm.txt_after_hash_only_first.txt
+
+
 5. Run the command to eliminiate duplicate entries : 
-     cat f_worm.txt_after_hash.txt | uniq > f_worm_uniq_after_hash.txt. Lines = 1868
+     cat f_worm.txt_after_hash_only_first.txt | uniq | sort > f_worm_uniq_after_hash_only_first.txt Lines = 1868
      
 
-6. fasta_file + f_worm_uniq_after_hash.txt -----------> find_glyco_pep.cpp ---------------> peptide_worm_output.txt (<Identifier> <found sequences NX(!P)S/T>) Lines = 809
+6. fasta_file + f_worm_uniq_after_hash_only_first.txt -----------> find_glyco_pep.cpp ---------------> peptide_worm_output.txt (<Identifier> <found sequences NX(!P)S/T>) Lines = 809
 
 
 7. run this command 
@@ -43,6 +48,8 @@ This script is removing the 'o' or 'i' entries from the loopstat input2. in addi
 9. Now worm_loopstat_input2 + f_all_descriptions.txt -------> prepare_worm_loopstat_output1.py ----> worm_loopstat_input1.txt
 
 10. Now we have got both worm_loopstat_input1 and worm_loopstat_input2. So the final solution is to input them in loopstat to obtain the ultimate worm output.
+
+11. Then, worm_loopstat_input1 + worm_loopstat_input2 ----> loopstat code -----> worm_loopstat_output1 + worm_loopstat_output2
 
 
 <---work over here for worm-------->

@@ -1,0 +1,148 @@
+B0024.14aB0024.14bB0024.14dB0280.12a	locus:glr-2 Glutamate receptor
+B0280.12b	locus:glr-2
+C07A12.4a	locus:pdi-2 protein disulfide isomerase
+C07A12.4b	locus:pdi-2
+C08F11.11	
+C08F11.11	
+C08F11.11	
+C14A4.12b	
+C18E9.11a	locus:ooc-5
+C18E9.11a	locus:ooc-5
+C18E9.11b	locus:ooc-5
+C18E9.11b	locus:ooc-5
+C41G11.4c	
+C41G11.4c	
+F09B12.1a	
+F09B12.1b	
+F18A12.8a	peptidase
+F18A12.8a	peptidase
+F18A12.8b	
+F18A12.8b	
+F42E11.2a	
+F42E11.2a	
+F52F12.1a	transporter
+F52F12.1a	transporter
+F52F12.1a	transporter
+F52F12.1a	transporter
+F52F12.1b	locus:oct-1 transporter
+F52F12.1b	locus:oct-1 transporter
+F52F12.1b	locus:oct-1 transporter
+F52F12.1b	locus:oct-1 transporter
+F56H11.1b	locus:fbl-1 fibrulin-1 (D-isoform)
+F56H11.1b	locus:fbl-1 fibrulin-1 (D-isoform)
+F56H11.1b	locus:fbl-1 fibrulin-1 (D-isoform)
+F57C12.5a	locus:mrp-1 ABC transporter
+F57C12.5b	locus:mrp-1
+F57C12.5c	locus:mrp-1
+F59E12.13	locus:tag-8
+F59E12.13	locus:tag-8
+F59E12.13	locus:tag-8
+F59E12.13	locus:tag-8
+F59E12.13	locus:tag-8
+H17B01.4a	
+K07C11.7a	
+K07C11.7b	
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1a	CAM
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K07E12.1b	
+K11D12.11	
+K11D12.11	
+T06H11.1a	locus:unc-58
+T06H11.1b	locus:unc-58
+T19D12.4a	
+T19D12.4a	
+T19D12.4a	
+T19D12.4a	
+T19D12.4a	
+T19D12.4a	
+T19D12.4c	
+T19D12.4c	
+T19D12.4c	
+T19D12.4c	
+T19D12.4c	
+T19D12.4c	
+T22B11.4a	
+T22B11.4a	
+T22B11.4a	
+T22B11.4b	
+T22B11.4b	
+T22B11.4b	
+T27D12.2a	locus:clh-1 chloride channel protein
+T27D12.2b	locus:clh-1 chloride channel protein
+T28A11.16	
+T28A11.17	
+Y110A7A.3	locus:unc-63 ion-channel protein
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y49E10.20	CD36 family
+Y52B11A.8	
+Y53F4B.28	locus:ptr-20
+Y55F3AL.1	locus:plx-1
+Y55F3AL.1	locus:plx-1
+Y55F3AL.1	locus:plx-1
+Y55F3AL.1	locus:plx-1
+Y55F3AL.1	locus:plx-1
+Y55F3AL.1	locus:plx-1
+Y73F8A.26	
+Y77E11A.4	locus:jtr-1
+ZK1248.16	locus:lec-5
+ZK1248.16	locus:lec-5
+ZK1248.16	locus:lec-5
+ZK1248.16	locus:lec-5
+ZK1248.16	locus:lec-5

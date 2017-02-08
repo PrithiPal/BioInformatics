@@ -13,7 +13,7 @@ def equal(str1, str2) :
 
 start_time = time.time()
 arr = []
-ofile = open("t1.txt","w")
+ofile = open("t1[current].txt","w")
 for i in range(5) : 
     arr.append([]) ## creates the 5 columns for the data 
 #identifer = ""
@@ -21,7 +21,7 @@ identifier = ""
 descr_identifier = ""
 description = ""
 protein_length = ""
-for lines in open("sorted_new_peptide.txt","r") : 
+for lines in open("peptide[current]_sorted.txt","r") : 
 
     frag1 = lines.split("\t")
     frag2 = lines.split(" ")

@@ -1,5 +1,6 @@
 ## This program takes input the peptide_o.txt and remove the duplicated seq entries. for instance NAT(127) NAT(127) NXC(12)
 ##==> NAT(127) NXC(12)
+# This file is causing the appended error
 def uniquify(seq):
     seen = set()
     seen_add = seen.add
