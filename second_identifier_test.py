@@ -1,7 +1,7 @@
 
 
 
-filename = "ou2.txt"
+filename = raw_input("Which file ? ")
 count=0
 for line in open(str(filename),"r") : 
     if count > 1 : 

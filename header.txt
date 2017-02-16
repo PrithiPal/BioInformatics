@@ -1,9 +1,0 @@
-Supplemental Table 1. A list of all identified peptides in this study																												
-																									No.	Assignment		
-													Mass	Mass														MS/MS
-																					No. of				times	"(1: unique,"		
-				Peptide	Peptide			C-terminal		"Modifications(0:none,"			expected	calculated	Mass	Mass	Total		Match	No. of		No. of	glycosyl	glycosyl				spectrum id
-Lectin	CDS ID	Wormpe	Protein	position	position	precedin	Peptide sequence	residue of the	next residue in	"1:Asn(deamidation+18O), 2:Met"	m/z (obs)	charge	from	from	error	error	Score	Threshol	score	annotated	glycosyl	potential	ated	ated	detected	n>1: shared	CDS ID	in
-used		p ID		(from)	(to)	g residue		peptide	protein	"(oxidation), 3:pyroGln(N terminus))"		state (z)	observed	assigned	(Da)	(ppm)	(TS)	d (Th)	(TS-Th)	ions (y+b)	ated	sites	site-1	site-2	in each	"by ""n"" kind"		Supplemen
-													values	sequence														t Figs
-																									fraction	entries)

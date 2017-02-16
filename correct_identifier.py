@@ -4,7 +4,7 @@
 #file = open(str(filename),"r")
 
 
-filename = "f_all_descriptions.txt"
+filename = raw_input("Which file ? ")
 ofile = open(str(filename)[:-4] + "_only_first.txt","w")
 for line in open(str(filename),"r") : 
     frag = line.split("\t")
@@ -17,3 +17,6 @@ for line in open(str(filename),"r") :
         new_line = line.replace(str(identifier),identifier_frag[0])
         print "new_line : ",str(new_line)
         ofile.write(str(new_line))
+    else : 
+        print line
+        ofile.write(str(line))

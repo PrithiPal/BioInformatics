@@ -30,6 +30,10 @@ peptide files (pdf) ----> peptide files xl (excel format) --after correction -->
     
     This will remove the entries in peptide_worm_output where seq is not_found. The resulting file would be peptide_worm_output.txt.txt. Remove the extra txt.
 
+8. Run tests 
+To gather all tests use this bash command : ls | grep "_test.py$"
+
+
 8. peptide_worm_output.txt -----> remove_extra_seq.py -----> peptide_worm_output_after_removeextra.txt
 This program has removed the duplicated sequences for each protein. Lines = 621
 

@@ -21,7 +21,7 @@ identifier = ""
 descr_identifier = ""
 description = ""
 protein_length = ""
-for lines in open("peptide[current]_sorted.txt","r") : 
+for lines in open("peptide-v1.txt","r") : 
 
     frag1 = lines.split("\t")
     frag2 = lines.split(" ")
@@ -32,7 +32,7 @@ for lines in open("peptide[current]_sorted.txt","r") :
     for line2 in open("f_all_descriptions.txt","r") : 
         frag3 = line2.split("\t")
         
-        if str(identifier) == " " + str(frag3[0]) : 
+        if str(identifier) == str(frag3[0]) : 
             description = frag3[1][:-1]
             if description is "" : 
                 description = "no description"
@@ -41,11 +41,11 @@ for lines in open("peptide[current]_sorted.txt","r") :
     for line3 in open("t2.txt","r") : 
         frag4 = line3.split("\t")
         
-        if str(identifier) == " " + str(frag4[0]) : 
+        if str(identifier) == str(frag4[0]) : 
             protein_length = frag4[1]
             break
         
-    print_this = str(identifier[1:]) + "\t" + str(description) + "\t" + str(protein_length)  + "\t" + str(total_seq) + "\t" + seq_list
+    print_this = str(identifier) + "\t" + str(description) + "\t" + str(protein_length)  + "\t" + str(total_seq) + "\t" + seq_list
     print print_this
     ofile.write(print_this)
     
