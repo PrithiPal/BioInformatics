@@ -1,7 +1,6 @@
-# This file works as follows fi.txt ----> prepareResidualFile(fi.txt) ------> fi_before_hash.txt
 #This file also contains the information about the peptide_positions. It will help finding the position to place hash in place_hash.
-# Input : fi.txt file
-# Output : file with format <index> <before_residual>.<peptide_seq>.<after_residual> <peptide_start> <peptide_end> <total_sites> <first_site_position> <second_site_postion>; output filename = fi_before_hash.txt
+# INPUT : fi.txt file
+# OUTPUT : file with format <index> <before_residual>.<peptide_seq>.<after_residual> <peptide_start> <peptide_end> <total_sites> <first_site_position> <second_site_postion>; output filename = fi_before_hash.txt
 
 
 def prepareResidualFile() : 

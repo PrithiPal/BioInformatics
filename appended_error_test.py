@@ -1,7 +1,10 @@
 import unittest
 import re
-#input is the peptide[current]_sorted.txt 
-#tests for the appended error for ex, : E04F6.4	NST(249) F01D4.4 F01E11.1	NLT(368) 
+#this files checks for the appended Error for ex, : E04F6.4	NST(249) F01D4.4 F01E11.1	NLT(368) i.e identifiers E04F6.4,F01D4.4 and  F01E11.1 are in same line.
+## INPUT : <identifier>\t<sequons_list> (peptide file)
+## OUTPUT : Lines with the Error
+
+
 
 def main() : 
     print("1")

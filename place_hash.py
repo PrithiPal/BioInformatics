@@ -4,6 +4,20 @@
 ## OUTPUT : <index> <before_residual>.<peptide_seq_with_hash>.<after_residual> 
 
 ## credits for insertChar function : Elenasys on stack overflow ##
+def main() : 
+    iFileName = raw_input("Please enter the input file name <Identifier> <peptide_seq> : ")
+    iFile = open(iFileName,"r")
+    oFileName = raw_input("Please enter the output file name <Identifier> <peptide_seq with hash> : ")
+    oFile = open(oFileName,"w")
+    
+    
+    placeHash(iFileName,oFile)
+
+
+
+
+
+
 
 def insertChar(mystring, position, chartoinsert ): 
     longi = len(mystring)
@@ -36,12 +50,6 @@ def placeHash(idxFile,outputFile) :
         
         
 
-    
-    ## main method
-iFileName = raw_input("Please enter the input file name <Identifier> <peptide_seq> : ")
-iFile = open(iFileName,"r")
-oFileName = raw_input("Please enter the output file name <Identifier> <peptide_seq with hash> : ")
-oFile = open(oFileName,"w")
 
-
-placeHash(iFileName,oFile)
+if __name__ == "__main__" : 
+    main()
