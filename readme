@@ -12,7 +12,7 @@ mouse.fasta —> fasta.cp —> mouse.fasta.idx
 3) mouse_seq.txt : file with <IPI> <Indentified Sequences>
 4) mouse_seq2hash.txt : same as mouse_eq.txt however * are replaced with hash. The script name is replace_withhash.sh .
 
-mouse.fasta.idx + mouse_seq2hash.txt ——> find_glyco_pep.cpp ——> peptide output(peptide_o.tt)
+mouse.fasta(--fasta) + mouse_seq2hash.txt(--human) ——> find_glyco_pep.cpp ——> peptide output <identifier> <peptide_sequence>
 
 
 ***************************__________________*******&&&&&&&&&&&&&&^^^^^^^^^^^^^^

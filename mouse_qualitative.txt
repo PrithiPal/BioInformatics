@@ -1,6 +1,7 @@
 Supplementary Table 1. Quantitative analysis of extracellular proteomes from different tissues using spectrum count from MS/MS analysis (number of spectrum counts from each tissue)																	
 IPI	ProteinName	ProteinLocation	Unique-sequences	PeptideProPhet	Brain	Mammary	Intestine	Heart	Kidney	Liver	Ovary	Prostate	Epidermis	Spleen	Stomatch	Testis	Total Spectral Count
-IPI00108003	Macrophage colony-stimulating factor 1 receptor 	TM	K.HN#MTYFCK.T	0.9998	0	1	0	0	0	0	0	0	0	0	0	0	1
+
+	Macrophage colony-stimulating factor 1 receptor 	TM	K.HN#MTYFCK.T	0.9998	0	1	0	0	0	0	0	0	0	0	0	0	1
 IPI00108098	CD82 antigen	TM	R.N#YTAN#ATSSR.E	0.9984	0	0	2	0	0	0	0	0	0	0	0	0	2
 IPI00108098	CD82 antigen	TM	K.GFCEADN#STVSENNPEDWPVNTEGCMEK.A	0.9074	0	0	2	0	0	0	0	0	0	0	0	0	2
 IPI00108535	Splice Isoform Long of Carcinoembryonic antigen-related cell adhesion molecule 1 	A	R.EIIYSN#GSLLFQMITMK.D	1	0	0	0	0	0	3	0	1	0	0	0	0	4

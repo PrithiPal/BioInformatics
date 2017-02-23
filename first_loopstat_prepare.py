@@ -28,7 +28,7 @@ count=1
 counter=0
 start = time.time()
 ## puts the ipi in the first column of the array
-for line in open("peptide_o.txt","r") : 
+for line in open("peptide-v1.txt","r") : 
     fragment = line.split("\t")
     arr[0].append(fragment[0])
     arr[4].append(fragment[1])
