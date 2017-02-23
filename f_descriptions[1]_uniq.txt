@@ -158,7 +158,6 @@ C23H3.2a
 C23H3.2b	
 C24A3.6	
 C24A3.6	locus:twk-18 potassium channel protein
-C24A3.6	locus:twk-18 potassium channel protein
 C24G6.2a	protein kinase
 C24G6.6	
 C24G6.8	Probable peptidyl-tRNA hydrolase 2 OS=Caenorhabditis elegans
@@ -403,13 +402,6 @@ F14F9.5
 F15B9.6	phospholipase A2
 F15E6.2	
 F15G9.4a	
-F15G9.4a	
-F15G9.4a	
-F15G9.4a	
-F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
-F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
-F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
-F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
 F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
 F15G9.4b	locus:him-4 IG (immunoglobulin) superfamily (47 domains)
 F16A11.2	tRNA-splicing ligase RtcB homolog OS=Caenorhabditis elegans
@@ -1053,16 +1045,11 @@ W09C3.4	Probable DNA-directed RNA polymerase III subunit RPC6 OS=Caenorhabditis 
 W09D12.1	zinc metalloprotease
 W09H1.5	Probable trans-2-enoyl-CoA reductase 1, mitochondrial OS=Caenorhabditis elegans
 W10G11.1	
-W10G11.1	
 W10G11.2	
 Y102E9.2	tRNA (guanine-N(7)-)-methyltransferase subunit wdr-4 OS=Caenorhabditis elegans
 Y105C5B.9	Phytanoyl-CoA dioxygenase domain-containing protein 1 homolog OS=Caenorhabditis elegans
 Y105E8A.	
-Y105E8A.	
 Y105E8B.	
-Y105E8B.	
-Y106G6D.	
-Y106G6D.	
 Y106G6D.	
 Y106G6E.4	Probable 5-formyltetrahydrofolate cyclo-ligase OS=Caenorhabditis elegans
 Y106G6H.15	Spindle and kinetochore-associated protein 1 homolog OS=Caenorhabditis elegans
@@ -1193,7 +1180,6 @@ Y57E12AM.1	Transmembrane protein 258 homolog OS=Caenorhabditis elegans
 Y57G11B.7	
 Y57G11C.	
 Y57G11C.3	Putative 6-phosphogluconolactonase OS=Caenorhabditis elegans
-Y57G11C.31	
 Y57G11C.31	
 Y57G11C.34	28S ribosomal protein S7, mitochondrial OS=Caenorhabditis elegans
 Y59A8B.20	

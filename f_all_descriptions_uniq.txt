@@ -1,0 +1,865 @@
+AC3.2	UDP-glucuronosyltransferase
+AC3.5	glutamyl aminopeptidase
+AC3.7	UDP-glucuronosyltransferase
+AH9.1	transmembrane domain of family 1 of G-protein coupled receptors
+B0024.14a   pro-collagen domains
+B0024.14b 
+B0024.14d 
+B0034.3a	locus:cdh-11
+B0244.8	LDL receptor
+B0273.4a	locus:unc-5 axon guidance protein
+B0273.4b	locus:unc-5 axon guidance protein
+B0280.12a	locus:glr-2 Glutamate receptor
+B0280.12b	locus:glr-2
+B0285.7	Aminopeptidase
+B0361.7	Acid phosphatase
+B0393.7	LDL receptor ligand-binding repeat bearing protein
+B0416.1	
+B0495.7	
+B0563.2	locus:tsp-11 transpanin
+C01B10.4	
+C01B10.9	
+C01B12.7	
+C01G6.3	
+C01G6.8a	locus:cam-1 protein tyrosine kinase receptor
+C01G6.8b	locus:cam-1 protein tyrosine kinase receptor
+C02B10.3	
+C02C6.3	Leucine Rich Repeat (2 copies)
+C02F12.5	homeobox ; tissue factor pathway inhibitor
+C02F5.13	
+C03A3.2	
+C03E10.4	"locus:gly-20 UDP-GlcNAc:a-6-D- mannoside b1,2-N- acetylglucosaminyltransferase II"
+C03G6.18	locus:srp-5 serine protease inhibitor
+C03G6.19	locus:srp-6 serine protease inhibitor
+C03G6.5	
+C04E12.4	
+C04F1.2	monooxygenase
+C04F5.1	locus:sid-1
+C04F5.3	
+C04F6.1	locus:vit-5
+C04F6.3	locus:cht-1 glycosyl hydrolase (family 18)
+C05D12.1	
+C05D12.2	EGF domains
+C05D2.1a	locus:daf-4
+C05D2.1d	locus:daf-4
+C05D9.3	
+C05E4.3	locus:srp-1 serine protease inhibitor
+C06A6.5	
+C06B8.2a	
+C06B8.2b	
+C06B8.7	Human M130 antigen like protein
+C06E8.5	bacterial permeability-increasing protein
+C06G1.1	
+C06G8.2	locus:opt-1 oligopeptide transporter
+C06H5.7	
+C07A12.4a	locus:pdi-2 protein disulfide isomerase
+C07A12.4b	locus:pdi-2
+C07F11.1	locus:tol-1
+C07G3.10	
+C07G3.9	
+C08B11.4	locus:nrf-6
+C08F11.1	
+C08F11.11	
+C08F11.8	UDP-glucoronosyl and UDP-glucosyl transferases
+C08H9.1	serine carboxypeptidase locus:ptp-3 protein-tyrosine
+C09D8.1a	phosphatase with fibronectin type III- like domains (DPTP and Llocus:ptp-3 protein-tyrosine
+C09D8.1a	
+C09D8.1b	phosphatase with fibronectin type III- like domains (DPTP and Llocus:ptp-3 protein-tyrosine
+C09D8.1c	
+C09F9.2	
+C10H11.4	
+C10H11.6	
+C11E4.1	glutathione peroxidase
+C13B4.1	
+C14A4.12b	
+C14A4.3	
+C14B1.9	
+C15C8.3	cathepsin-like protease
+C15F1.2	
+C15H9.4	
+C16D9.2a	locus:rol-3 tyrosine-protein kinase
+C16D9.2c	locus:rol-3
+C16D9.6	
+C16E9.1	
+C17B7.2	
+C17B7.8	
+C17D12.3	
+C17E4.9	sodium /potassium transporting ATPase beta chain
+C17F4.7	
+C17G1.2	
+C18A11.3	
+C18B12.4	"Zinc finger, C3HC4 type (RING finger)"
+C18C4.3	UDP-glucuronosyltransferase
+C18E9.11a	locus:ooc-5
+C18E9.11b	locus:ooc-5
+C18F3.2	locus:sax-7 neural adhesion protein
+C23H3.2a	
+C23H3.2b	
+C24A3.6	locus:twk-18 potassium channel protein
+C24A3.6	
+C24A3.6	locus:twk-18 potassium channel protein
+C24G6.2a	protein kinase
+C24G6.6	
+C25A1.8	lectin
+C25A8.4	
+C25B8.3a	locus:cpr-6
+C25B8.3b	locus:cpr-6
+C25B8.4a	asialoglycoprotein receptor
+C25B8.4b	
+C25F6.7a	
+C25F6.7b	
+C25G4.10	fibronectin
+C25G4.11	
+C26B9.5	lysosomal Pro-X carboxypeptidase
+C26G2.1	Immunoglobulin domain ; Fibronectin type III domain
+C27A7.1	Human plasma-cell membrane glycoprotein PC-1 like 
+C27A7.1	Human plasma-cell membrane glycoprotein PC-1 like
+C27B7.7	fibronectin type-III repeats
+C27C12.7	locus:dpf-2 dipeptidyl aminopeptidase like
+C27F2.8	
+C27F2.9	
+C29F3.7	
+C29G2.6	
+C31C9.1a	apical gut membrane protein
+C31C9.1b	
+C31H1.5	
+C33C12.3	glucosylceramidase
+C33G3.4	beta-mannosidase
+C34E7.4	
+C34G6.6a	
+C34G6.6b	
+C34H4.3	
+C35A5.6	
+C36B1.1a	locus:cle-1 cle-1 isoform A
+C36B1.1b	locus:cle-1 cle-1 isoform B
+C36B1.1c	locus:cle-1 cle-1 isoform C
+C36B1.1d	locus:cle-1 collagen
+C36C5.12	
+C36C5.5	
+C36E8.3	
+C37C3.6a	protease inhibitor
+C37C3.6b	protease inhibitor
+C37C3.6c	
+C38C10.2	Sodium /phosphate transporter
+C38C6.2	locus:atg-2 Alpha amylase
+C38D4.1a	
+C38D4.1b	
+C39B5.5	
+C40C9.5a	Carboxylesterases (2 domains)
+C40C9.5b	Carboxylesterases (2 domains)
+C40H1.7	
+C41C4.5	locus:unc-105 Amiloride-sensitive sodium channel locus:unc-105 Amiloride-sensitive
+C41G11.1	
+C41G11.4a	G-protein coupled receptor
+C41G11.4b	
+C41G11.4c	
+C42D8.2	locus:vit-2 vitellogenin
+C42D8.5	locus:acn-1 peptidase
+C42D8.8a	locus:apl-1
+C42D8.8b	locus:apl-1
+C43H6.6	
+C44B7.11	
+C44B7.5	
+C44B9.3	
+C44H4.3	locus:sym-1 Drosophila chaoptin protein like
+C44H9.1	UDP-glucuronosyltransferase
+C44H9.5	
+C46C2.2	transport protein
+C46C2.5	
+C47E12.3	alpha-mannosidase
+C48B4.4a	locus:ced-7 ATP-binding transport protein
+C48B4.4b	locus:ced-7 ABC transporters
+C48B4.4c	locus:ced-7 ATP-binding transport protein
+C48E7.5	locus:cof-2
+C48E7.6	
+C49C8.5	
+C49H3.1	locus:gcy-8 receptor-type guanylyl cyclase
+C50B8.6	
+C50C3.9	locus:unc-36
+C50D2.7	
+C50H2.3a	locus:mec-9 mechanosensory protein (mec-9)
+C51E3.6	Mouse YSPL-1 protein like
+C51E3.7a	locus:egl-3 prohormone convertase 2
+C52E4.5	"alpha 1,2, mannosidase"
+C52G5.2	
+C53A5.13	
+C53B7.1	locus:rig-3
+C53C11.3	locus:ptr-5
+C53D5.5	gamma-glutamyltranspeptidase
+C54D1.5	
+C54D10.5	
+C55A6.1	"Zinc finger, C3HC4 type (RING finger)"
+C55C3.5	
+C56E6.6	leucine-rich repeats
+C56G2.4	
+D1022.8	locus:cah-2 Carbonic anhydrase
+D1046.5	
+D1073.1	tyrosine-protein kinase
+D1086.5	
+D1086.8	
+D2024.3	locus:elo-3
+E01A2.7	
+E02H4.4	
+E04F6.4	V. virus protein K4
+EGAP4.1	
+F01D4.4	locus:egl-21 zinc carboxypeptidase
+F01E11.1	UDP-glucuronosyltransferase
+F02C12.4	
+F02D8.4	carboxypeptidase
+F02E8.6	locus:ncr-1
+F02G3.1a	neural cell adhesion molecule
+F02G3.1b	
+F02G3.1c	
+F07A5.3	membrane glycoprotein
+F07C6.3	
+F08B12.1	
+F08F1.4a	
+F08F1.4b	
+F08F1.7	locus:tag-123
+F09B12.1a	
+F09B12.1b	
+F09B12.3	
+F09C8.1	phospholipase precursor
+F09E8.7	locus:lev-1 acetylcholine receptor
+F09F9.4	Type I thrombospondin (TSP) repeats
+F09G2.8	
+F10D2.2a	glucuronosyltransferase
+F10D2.2b	
+F10E7.4	F-spondin
+F10F2.3	lipase (Bacillus subtilis)
+F10F2.4	2 leucine rich domains
+F10G2.1	
+F10G7.11	
+F11A5.9	sodium /phosphate transporter
+F11C1.3	membrane glycoprotein
+F11E6.1a	glucosylceramidase (O-glycosylhydrolase)
+F11E6.1b	glucosylceramidase (O-glycosylhydrolase)
+F11E6.1c	
+F11E6.9	
+F11F1.6	
+F12B6.1	locus:abt-2 abc transporter
+F13B12.4	cysteine synthase like
+F13B6.3	
+F13C5.5	
+F13D11.1	histidine acid phosphatase family (weak)
+F13D2.1	alpha-1-macroglobulin-like domain
+F13G11.2	
+F13H10.4	
+F13H8.3	
+F14E5.2	cysteine-rich fibroblast growth factor receptor
+F14F4.3a	locus:mrp-5 ABC transporter
+F14F4.3b	locus:mrp-5
+F14F9.5	
+F15B9.6	phospholipase A2
+F15E6.2	
+F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
+F15G9.4a	
+F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
+F15G9.4a	
+F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
+F15G9.4a	
+F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
+F15G9.4a	
+F15G9.4a	locus:him-4 Ig superfamily repeats (I- type)
+F15G9.4b	locus:him-4 IG (immunoglobulin) superfamily (47 domains)
+F16D3.7	7 transmembrane receptor (rhodopsinfamily) (2 domains)
+F17C11.7	
+F17E9.4	
+F18A1.7	
+F18A12.8a	peptidase
+F18A12.8b	
+F18E2.1	acid phophatase like
+F19C6.4	
+F19F10.4	
+F20C5.4	Yeast YCY4 like protein
+F20D6.4	locus:srp-7 serine protease inhibitor
+F20H11.5	D-amino acid oxidase
+F21D12.3	
+F21F3.1	
+F21H12.4	locus:ptc-2 membrane protein patched (ptc)
+F23B12.3	
+F23B2.11	locus:pcp-3 lysosomal carboxypeptidase
+F23F1.6	amino acid permease
+F23F1.7	
+F25E2.2	
+F25F2.2	"locus:cdh-4 Approximately 25 cadherin-repeats, 3 EGF domains and one Laminin G domain statu"
+F25F8.2	"locus:cdh-4 Approximately 25 cadherin-repeats, 3 EGF domains and one Laminin G domain statu"
+F25H8.3	locus:gon-1 thrombospondin like
+F25H8.5a	locus:dur-1
+F25H8.5c	locus:dur-1
+F25H8.5d	locus:dur-1
+F26D10.9	locus:atg-1 Sugar (and other) transporters
+F26E4.11	"Zinc finger, C3HC4 type (RING finger)"
+F26E4.3	cysteine protease
+F26F12.4	
+F26F4.7	locus:nhl-2
+F28B4.3	EGF-like repeat
+F29B9.8	
+F29C4.8	locus:col-99
+F29D11.1	locus:lrp-1 low density lipid receptor- rlated protein
+F29F11.4	locus:twk-12 potassium channel protein like
+F31D4.7	locus:twk-35
+F31E3.5	locus:eft-3 Elongation factor 1-alpha
+F32A5.2a	Peroxidase
+F32A5.2b	
+F32A5.3	Serine carboxypeptidase
+F32A5.4a	Immunodominant antigen
+F32B5.8	locus:cpz-1 cysteine proteinase
+F33C8.1a	perlecan like glycoprotein
+F33C8.1b	
+F35C12.2	"locus:ncx-4 Na /Ca,K exchanger"
+F35C8.5	
+F35G2.1a	protein disulphide isomerase-related protein like
+F35H10.2	
+F35H10.4	locus:vha-5 hydrogen ion transport
+F35H8.2	
+F36H2.3a	Complement factor H precursor like
+F36H2.3b	Complement factor H precursor like
+F36H9.7	
+F37C4.1	
+F37C4.2a	
+F37C4.2b	
+F37H8.5	
+F38B7.2	
+F39H12.4	
+F40A3.2	
+F40E10.1	locus:hch-1 metalloprotease
+F40E10.3	locus:csq-1 calsequestrin like
+F40E10.6	
+F40F4.6	EGF-like repeats
+F41C3.11	
+F41C3.5	Serine carboxypeptidase
+F41D9.3a	locus:wrk-1
+F41D9.3b	locus:wrk-1
+F41D9.3c	locus:wrk-1
+F41E6.6	cysteine protease and a protease inhibitor
+F41G3.15	
+F41H10.7	locus:elo-5 integral membrane protein
+F42A10.8	locus:nas-28
+F42A8.3	
+F42E11.2a	
+F42E11.2c	
+F42F12.2	locus:zig-2 IG-like C2-type domains
+F42G10.1	
+F42G8.11	locus:sph-1 synaptic vesicle channel protein
+F43C9.4a	locus:mig-13 LDL-receptor class repeats ; C1R /C1S-like repeats
+F43C9.4b	locus:mig-13
+F43D9.1	Band 4.1 domain
+F44D12.2	
+F44E2.4	
+F44F4.4	locus:ptr-8
+F45E4.6	
+F46B3.5	locus:grd-2
+F46B6.8	lipase
+F46G10.5	locus:ptr-24
+F46H5.6	locus:grd-7
+F47B3.8	locus:tag-162 EGF-like protein
+F47C12.1	
+F47E1.2	DNA binding protein F /G
+F47G3.1	
+F48E3.4	
+F48E3.7	locus:acr-22 Acetycholine receptor
+F48E3.8a	
+F48E3.8b	
+F48E3.8c	
+F49B2.6	
+F52B5.1	anion exchange protein
+F52D1.1	acid alpha-glucosidase
+F52E4.6	locus:wrt-2
+F52F12.1a	transporter
+F52F12.1b	locus:oct-1 transporter
+F52H3.1	"locus:let-268 procollagen-lysine,2- oxoglutarate 5-dioxygenase precusor"
+F53B6.1	locus:tsp-15 tetraspanin
+F53B6.2a	thrombospondin like
+F53B6.2b	thrombospondin like
+F53C11.1	
+F53G12.3	
+F54C9.2	locus:stc-1 Heat shock 70Kd protein (HSP70)
+F54D1.6	
+F54E2.1	
+F54F11.2	Zinc-binding metalloprotease
+F54F2.1	Vitronectin receptor alpha subunit
+F54F3.1	locus:nid-1 nidogen like
+F54F7.2	
+F54F7.3	
+F54G8.3	locus:ina-1 Integrin alpha chain
+F55B11.2	
+F55B12.5	
+F55D10.1	Alpha-mannosidase
+F55G1.12	
+F55G11.4	
+F55H2.1	locus:sod-4 Superoxide dismutase
+F56B3.7	UDP-glucuronosyltransferase
+F56C11.1	locus:bli-3
+F56C9.7	
+F56D1.4a	locus:clr-1 protein-tyrosine- phosphatase
+F56D1.4b	locus:clr-1
+F56D1.4c	locus:clr-1
+F56D6.1	
+F56D6.2	
+F56F10.1	peptidase
+F56F3.2a	locus:ndg-4
+F56F3.2b	locus:ndg-4
+F56F4.5	locus:opt-3 oligopeptide transporter
+F56H1.1	locus:che-14
+F56H11.1b	locus:fbl-1 fibrulin-1 (D-isoform)
+F57B7.4	locus:mig-17 zinc metallopeptidase (M12B family)
+F57C12.4	locus:mrp-2 ATP-binding transport family
+F57C12.5a	locus:mrp-1 ABC transporter
+F57C12.5b	locus:mrp-1
+F57C12.5c	locus:mrp-1
+F57F4.3	locus:gfi-1
+F57F4.4	
+F58E6.1a	SH2 domain
+F58H1.1	alpha-mannosidase
+F59A3.1	carboxypeptidase
+F59D8.1	locus:vit-3
+F59D8.2	locus:vit-4
+F59E12.13	locus:tag-8
+F59F3.1	"locus:ver-3 IG (immunoglobulin) superfamily (3 domains), tyrosine- protein kinase (KIN15 /KI"
+F59F4.3	
+H03A11.1	
+H03E18.1	
+H13N06.6	"locus:tbh-1 Copper type II, ascorbate- dependent monooxygenase"
+H14N18.4a	transpeptidase
+H14N18.4b	
+H17B01.4a	
+H19M22.2a	locus:let-805
+H19M22.2b	locus:let-805
+H19M22.2d	locus:let-805
+H22K11.1	locus:asp-3 aspartyl protease
+H22K11.4	
+H27A22.1	guanylate cyclase
+K02A11.3	placental protein 11
+K02B2.4	locus:inx-7
+K02D7.4	locus:dsc-4
+K02E10.4	
+K02E10.8	locus:syg-1
+K02G10.5	zinc-finger DNA-binding protein
+K02G10.6a	locus:hyl-2
+K02G10.6b	locus:hyl-2
+K03A1.2	LRR (leucine-rich repeats) ; FSHR (follicle stimulating hormone receptor)
+K03B8.7	locus:grl-3
+K03B8.9	locus:deg-3 nicotinic acetylcholine receptor
+K03H1.4	Transthyretin-like family
+K03H1.5	Transmembrane and sushi domain
+K03H1.6	Transthyretin-like family
+K05F1.5	
+K06A9.1a	
+K06A9.1b	
+K06A9.1c	
+K06G5.1	
+K07A12.2	Rat insulin-like growth factor binding protien complex acid labile chain like
+K07C10.1	locus:ptr-13
+K07C11.3	
+K07C11.5	metalloproteinase inhibitor
+K07C11.7a	
+K07C11.7b	
+K07C5.7	
+K07D8.1	locus:mup-4
+K07E12.1a	CAM
+K07E12.1b	
+K07H8.6a	locus:vit-6 vitellogenin
+K07H8.6c	locus:vit-6
+K08B12.1	
+K08B4.3	glucuronosyltransferase
+K08B4.4	glucuronosyltransferase
+K08C7.3a	locus:epi-1 laminin
+K08C7.3b	locus:epi-1 laminin
+K08E4.3	
+
+K08E5.3	"locus:mua-3 LDL receptor related protein, EGF and CMP repeats"
+K08F4.3	translocon-associated protein
+K08F4.4	locus:glt-3 excitatory amino acid transporter 2 like
+K08H10.4	GDA1 /CD39 (nucleoside  phosphatase) family
+K09A9.3	
+K09C8.1	locus:pbo-4 Na(+) /H(+) exchanger
+K09C8.5	locus:pxn-2 peroxidase
+K09E2.4a	locus:rig-1
+K09E4.4	
+K09F5.2	locus:vit-1 vit-1
+K10B2.3a	lectin
+K10B2.3b	
+K10C2.1	serine carboxypeptidase
+K10C3.3	locus:zig-1 IG superfamily repeats (I-type)
+K10C9.3	ribonuclease
+K10G9.1	sodium /phosphate transporter protein
+K10G9.3	
+K11D12.11	
+K11D12.7	
+K11D9.3	Sugar (and other) transporter
+K11E4.3	
+K11G12.1	locus:nas-11
+M01E10.2	
+M01F1.4	
+M01F1.5	glucose transport protein
+M02F4.7	
+M03A1.1a	locus:vab-1 tyrosine-protein kinase receptor
+M03A1.1b	locus:vab-1
+M03A1.3	
+M04G12.2	locus:cpz-2 cysteine protease
+M05B5.4	 phosphatidylcholine-sterol acyltransferase
+M05B5.4	phosphatidylcholine-sterol acyltransferase
+M176.8	chitinase
+M28.10	
+M60.2	
+M70.4a	
+M70.4b	
+M88.6a	locus:pan-1 Leucine-rich repeats
+M88.6b	locus:pan-1
+R01H10.4	
+R03E9.2	
+R03E9.3	anion exchange protein
+R03G5.1a	locus:eft-4 elongation factor EF-1- alpha
+R03G5.1d	locus:eft-4
+R04B5.9	UDP-glucuronosyltransferase
+R04D3.2	
+R05A10.3	
+R05D7.5	
+R06B9.6	
+R06C7.4	
+R07B7.11	alpha-N-acetylgalactosaminidase
+R08B4.1a	locus:grd-1 groundhog
+R08B4.1b	locus:grd-1 groundhog
+R08B4.3	
+R08C7.2a	
+R08C7.2b	
+R08E3.1a	LDL receptor-related protein
+R08E3.1b	
+R09E10.5	
+R09F10.5	
+R09G11.1	locus:sup-10
+R09H10.2	
+R09H10.5	EGF domains
+R12C12.6	
+R12E2.2	
+R13A1.2	locus:tag-158
+R13A5.1a	locus:cup-5
+R13A5.1b	locus:cup-5
+R13A5.1c	locus:cup-5
+R13A5.1d	locus:cup-5
+R13F6.4a	
+R13F6.4b	
+R13F6.4c	
+R13H4.3	histidine acid phosphatase
+R148.3a	
+R148.3b	
+R151.1	
+R151.5	locus:toh-2 Zinc metalloprotease
+R17.3	Thrombospondin type 1 domain
+R173.3	esterase
+R193.2	
+R57.1a	trans-membrane protein
+R57.1b	
+T01A4.1a	natriuretic peptides receptor
+T01A4.1c	
+T01A4.2	
+T01B10.1	locus:grd-4
+T01B10.2	locus:grd-14
+T01B7.9	
+T01E8.8	
+T02B5.3	carboxylesterase
+T02C5.3	
+T03D8.6	Gamma-glutamyltranspeptidase
+T03E6.7	locus:cpl-1 cathepsin-like protease
+T03F7.1	locus:snf-11 Na(+) /Cl(-)-dependent GABA transporter
+T03G11.4	man(9)-alpha-mannosidase
+T03G6.3	plasma cell membrane protein and phosphodiesterase I (weak)
+T04A11.3	fibronectin
+T04F8.2	
+T05A7.1	
+T05A8.4	protease
+T05C1.1	
+T05E11.5	Yeast YKK0 like
+T05E11.6	haemoglobinase like
+T05H10.3	
+T06D8.10	peroxidase
+T06D8.1a	
+T06D8.1b	
+T06H11.1a	locus:unc-58
+T06H11.1b	locus:unc-58
+T07C5.1a	UDP-glucuronosyltransferase
+T07C5.1b	GLUCURONOSYLTRANSFERASE UGT16 PRECURSOR (EC 2.4.1.17) (UDPGT)
+T07C5.1c	
+T07F10.1	aminopeptidase N
+T07F10.4	Human mRNA (KIAA0033) like protein
+T07F12.2	
+T07H6.1a	esterase
+T09A5.3	locus:acr-7 Acetylcholine receptor
+T10G3.3	
+T10H10.2	
+T11F9.3	locus:nas-20 zinc metalloprotease
+T12A2.2	
+T12A7.5	
+T13B5.1	locus:snf-3 sodium /chloride- dependent GABA transporter
+T13B5.3	acid phosphatase
+T13C2.6a	
+T13C2.6b	
+T13F3.6	
+T13H5.8	
+T14F9.3	beta-hexosaminidase beta subunit
+T14G10.7	
+T14G8.3	heat shock protein
+T16A9.4	endothelin converting enzyme 1
+T16G12.1	Aminopeptidase
+T16H12.9	
+T19A5.1	
+T19B10.3	beta-galactosidase
+T19B10.8	Yeast hyptothetical protein YFC5 like
+T19B4.1	monooxygenase
+T19B4.7	locus:unc-40 membrane protein
+T19C3.5	
+T19D12.1	A. faecalis PHB depolymerase ; zinc finger protein 40
+T19D12.4a	
+T19D12.4c	
+T19D12.6	laminin repeats ; EGF-like repeats
+T19D7.1	
+T20D3.11	
+T20D3.2	
+T20D3.9	
+T21B10.4	
+T21B6.1	locus:dgn-1
+T21B6.2	histidine acid phosphatase
+T21C9.3a	
+T21C9.3b	
+T21E3.3	locus:lrp-2 EGF-like protein
+T21F2.1a	ligand-gated ionic channel
+T22A3.8	locus:lam-3 laminin B
+T22B11.4a	
+T22B11.4b	
+T22C1.9	
+T22D1.11	carboxyesterase
+T22D1.4	glycotransferase
+T22E5.2	locus:glt-4 sodium-dependent glutamate /aspartate transporter
+T23D8.1	locus:mom-5 Drosophila tissue polarity protein like
+T23F1.7a	dipeptidyl peptidase IV
+T23F1.7b	
+T23G11.6	Rat insulin-like growth factor binding protein complex acid labile chain like
+T23G11.6	Rat insulin-like growth factor binding  protein complex acid labile chain like
+T23H2.1	locus:npp-12 integral membrane protein
+T24H7.2	
+T25B9.7	UDP-glucuronosyltransferase
+T25C12.3	EGF-repeats
+T25D10.4	
+T25D3.4	
+T27A10.6	
+T27A8.1	carboxypeptidase
+T27D12.2a	locus:clh-1 chloride channel protein
+T27D12.2b	locus:clh-1 chloride channel protein
+T27F7.3a	
+T28A11.16	
+T28A11.17	
+T28A11.2	
+T28D9.3	
+T28D9.7	degenerin
+T28F3.8	
+T28H10.2	
+T28H10.3	vacuolar processing enzyme like
+VC5.2	
+W01A8.2	
+W01A8.6	carboxypeptidase b like
+W01C8.5	
+W01C8.6a	locus:cat-1 synaptic vesicle aminetransporter
+W01C9.3	locus:pqn-73
+W01F3.1a	
+W01F3.2	
+W02A2.2	locus:far-6
+W02B12.1	phospholipase
+W02B12.11	n-acetyllactosamine synthase
+W02B9.1a	"locus:hmr-1 Cadherin, Laminin G domain"
+W02C12.1	EGF-like protein
+W03D8.6	locus:itx-1
+W03F8.10	
+W03F8.5	locus:lam-1 laminin
+W03G9.1	locus:snf-1 neurotransmitter transporter
+W04G3.8	
+W05E10.4	locus:tre-3 trehalase
+W05E7.1	locus:grd-3
+W05E7.3	locus:grd-13
+W05F2.3	
+W05H12.1	
+W06D12.2	locus:twk-42
+W08F4.6	
+W09B12.1	locus:ace-1
+W09D12.1	zinc metalloprotease
+W10G11.1	
+7	
+W10G11.1	
+7	
+W10G11.2	
+Y105E8A.	
+30a	
+Y105E8A.	
+30b	
+Y105E8B.	
+9	
+Y105E8B.	
+9	
+Y106G6D.	
+6	
+Y106G6D.	
+6	
+Y106G6D.	
+8	
+Y110A7A.3	locus:unc-63 ion-channel protein
+Y111B2A.15	protein-tyrosine sulphotransferase
+Y16B4A.2	serine carboxypeptidase
+Y32F6A.5	
+Y32G9A.4	locus:srp-3
+Y32G9A.8	
+Y34B4A.7	
+Y37D8A.13	locus:unc-71 Disintegrin
+Y37D8A.2	
+Y37E11AL.5	
+Y37E11AR.5	
+Y39B6A.47	
+Y39B6A.48	locus:hot-2
+Y39G10AL	
+Y39G10AL.2	
+Y39G10A	
+Y39G10AR.6a	
+Y39G10AR.6b	
+Y40H4A.1a	locus:gar-3 muscarinic acetylcholine receptor
+Y40H4A.1b	locus:gar-3
+Y40H4A.1a6	
+Y41E3.1	
+Y41G9A.4a	glutamate receptor
+Y41G9A.4b	
+Y42H9B.2	locus:rig-4
+Y43C5A.2	"Fibrinogen beta and gamma chains, C- terminal globular domain"
+Y43F8A.3	
+Y43F8C.5	
+Y43F8C.7	
+Y44E3A.2	locus:ace-2 carboxylesterase
+Y45F10C.4	
+Y45F10D.3	Glycosyl transferases
+Y46G5A.290	
+Y46G5A.30	locus:snf-5
+Y46H3B.1	
+Y46H3B.2	
+Y47A7.2	
+Y47D3B.10	HYDROXYLASE ALPHA SUBUNIT
+Y47H9A.1	
+Y47H9C.4a	locus:ced-1 EGF-like domain
+Y47H9C.4b	locus:ced-1 EGF-like domain
+Y47H9C.4c	locus:ced-1 EGF-like domain
+Y48B6A.8	locus:ace-3
+Y48E1B.9	C-type lectin binding domain
+Y49E10.20	CD36 family
+Y4C6B.5	
+Y50D4B.3	
+Y50D4B.4	
+Y50D4C.4	locus:sqv-6
+Y51A2D.13a	Phospholipase D. Active site motifs.
+Y51A2D.13b	phospholipase D
+Y51A2D.18	Sugar (and other) transporter
+Y51A2D.9	Transthyretin-like family
+Y51H4A.24	
+Y51H4A.5	
+Y51H7C.1	
+Y51H7C.13	
+Y52B11A.8	
+Y53F4B.28	locus:ptr-20
+Y53H1B.2	
+Y54E10BR.1	
+Y54F10AM.8	
+Y54G11A.1	
+Y54G11A.1a	
+Y54G2A.25a	locus:lad-2
+Y54G2A.25b	locus:lad-2
+Y55B1BM.1a	
+Y55B1BM.1b	
+Y55B1BM.1c	
+Y55D5A.5	locus:daf-2
+Y55F3AL.1	locus:plx-1
+Y55H10A.1	
+Y55H10A.1	cadherin
+Y57A10B.3	
+Y57E12AL.1a	
+Y57E12AL	
+Y57E12AL.1b	
+Y57G11B.7	
+Y57G11C.31	
+Y57G11C.	
+Y57G11C.31	
+Y59A8B.20	
+Y5F2A.1	Transthyretin-like family
+Y64G10A.6	
+Y64G10A.7	
+Y65B4A.2	
+Y65B4BR.3	locus:ptr-21
+Y66A7A.6	locus:gly-8 Glycosyl transferases
+Y67D8C.9	
+Y69A2AR.	
+Y69A2AR.31	
+Y70D2A.1	
+Y70D2A.2	
+Y71F9AM.6	
+Y71F9AR.1	locus:bam-2
+Y71G12B.20a	locus:mab-20
+Y71G12B.20b	locus:mab-20
+Y71G12B.4	
+Y73B6BL.25	
+Y73F4A.1	
+Y73F4A.2	
+Y73F8A.26	
+Y73F8A.5	
+Y75B8A.3	Carboxylesterases
+Y76A2B.6	CD36 family
+Y77E11A.4	locus:jtr-1
+Y82E9BR.16a	
+Y82E9BR.13	
+Y87G2A.13	
+Y8A9A.2	thrombospondin-like
+Y92H12BR.3	
+ZC101.2a	locus:unc-52 UNC-52 membrane proteoglycan
+ZC101.2c	locus:unc-52 UNC-52 membrane proteoglycan
+ZC101.2e	"locus:unc-52 IG (immunoglobulin) superfamily (17 domains), Low-density lipoprotein receptor"
+ZC116.3	bone morphogenetic protein 1 like
+ZC155.5a	
+ZC155.5b	
+ZC196.7	locus:glr-5 ligand-gated ionic channel protein
+ZC262.3a	N-CAM IG domain
+ZC262.3b	
+ZC373.2	
+ZC374.2	Fibronectin type III domain (4 domains)
+ZC412.3	
+ZC434.6	locus:aph-2
+ZC443.5	UDP-glucuronosyltransferase
+ZC443.6	UDP-glucuronosyltransferase
+ZC506.1	man(9)-alpha-mannosidase
+ZK1058.2	locus:pat-3 beta integrin
+ZK1067.1	locus:let-23 tyrosine-protein kinase (Epidermal growth factor receptor  subfamily)
+ZK112.1	locus:pcp-1
+ZK1248.16	locus:lec-5
+ZK1320.2	
+ZK1320.3	
+ZK180.1	
+ZK20.6	neprilysin
+ZK262.3	
+ZK270.1	locus:ptr-23
+ZK287.9	
+ZK337.1a	Alpha-2-macroglobulin family (3 domains)
+ZK337.1b	Alpha-2-macroglobulin family (3 domains)
+ZK337.1c	
+ZK455.4	locus:asm-2 sphingomyelin phosphodiesterase
+ZK512.1	
+ZK563.6	
+ZK643.3	Calcitonin receptor family
+ZK669.3	
+ZK675.1	locus:ptc-1 membrane protein patched
+ZK688.6a	
+ZK688.6b	
+ZK721.1	locus:tag-130
+ZK770.3	locus:inx-12
+ZK783.1	
+ZK822.2	
+ZK856.5	
+ZK858.3	lectin
+ZK896.2	
+ZK896.5	
+ZK896.8	locus:gcy-18 guanylate cyclase
+ZK970.1a	neprilysin zinc protease
+ZK970.1b	
+ZK973.11	thioredoxin
+ZK994.3	locus:pxn-1 peroxidase
