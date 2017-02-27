@@ -12,7 +12,7 @@ def equal(str1, str2) :
         return True
     else : 
         return False
-#------------------------------------    
+    
 def main() : 
     
     start_time = time.time()
@@ -29,7 +29,6 @@ def main() :
     elapsed_time = time.time() - start_time
     print "time elapsed = " + str(elapsed_time)
 
-#------------------------------------
 
 def prepareEntry(output_file,worm_loopstat_input2_filename,description_filename,peptide_filename) : 
     arr = []
@@ -59,8 +58,10 @@ def prepareEntry(output_file,worm_loopstat_input2_filename,description_filename,
         ofile.write(print_this)
     
 
-#------------------------------------
 
+
+
+    
 def findDescription(filename,identifier) : 
     description = ""
     for line in open(str(filename),"r") : 
@@ -72,8 +73,7 @@ def findDescription(filename,identifier) :
                 description = "no description"
             break
     return description
-
-#------------------------------------
+    
 def findProteinLength(filename,identifier) : 
     
     protein_length = ""
@@ -85,7 +85,7 @@ def findProteinLength(filename,identifier) :
             break  
     return protein_length
     
-#------------------------------------
+
     
 if __name__ == "__main__" : 
     main()

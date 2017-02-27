@@ -5,11 +5,12 @@ import re
 ## OUTPUT : Lines with the Error
 
 
-
+#------------------------------------
 def main() : 
-    print("1")
+    
     ask_input()
-
+    print 0
+#------------------------------------
 def ask_input() : 
     
     try : 
@@ -21,7 +22,8 @@ def ask_input() :
             
     except Exception as e : 
         print "Error : ", str(e)
-    
+#------------------------------------  
+ 
 def check(line) : 
     result = False
 
@@ -29,6 +31,8 @@ def check(line) :
     result =   find_identifiers(line_list)
   
     return result
+    
+#------------------------------------
 
 def find_identifiers(line) : 
     identifier = [elem for elem in enumerate(line) if str(elem).find(".") > 0]
@@ -37,7 +41,8 @@ def find_identifiers(line) :
         return False
     else : 
         return True
-    
+#------------------------------------    
+
 class Tests(unittest.TestCase) : 
     
     def test_first_sample(self) : #should be true
@@ -54,7 +59,8 @@ class Tests(unittest.TestCase) :
     
     
     main()
-           
+#------------------------------------
+
 if __name__ == "__main__" : 
     unittest.main()
     

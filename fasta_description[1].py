@@ -18,33 +18,6 @@ def main() :
 def ask_input() : 
         ifilename = raw_input("Which file ? ") # input fasta file
         return ifilename
-
-
-#------------------------------------
-class MyTest(unittest.TestCase) : 
-    
-
-    def test_description(self) :
-        line = ">sp|Q10122|YSM1_CAEEL Uncharacterized WD repeat-containing protein F52C9.1 OS=Caenorhabditis elegans GN=F52C9.1 PE=4 SV=2"
-        a,b = findDetails(line)
-        print "findDescriptionString desc: ",str(b)    
-        print "findDescription id: ",str(a)
-        
-    def test_regex(self) : 
-        line1 = ">sp|P41932|14331_CAEEL 14-3-3-like protein 1 OS=Caenorhabditis elegans GN=par-5 PE=1 SV=2"
-
-        
-        a,b = findDetails(line1)
-        
-        print "a : ",a
-        print "b : ",b
-
-    def test_particular_file(self) : 
-        filename = "worm_fasta.txt"
-        process(filename)
-    
-    
- 
 #------------------------------------
 
 def process(ifilename) : 
@@ -67,7 +40,7 @@ def process(ifilename) :
     bash_command = "cat " + str(ofilename) + " | sort | uniq > " + str(ofilename) + "_uniq.txt"
     os.system(bash_command)
     
-#------------------------------------
+
     
 #------------------------------------
 
@@ -82,6 +55,31 @@ def findDetails(line) :
     
 # -----------------------------------    
     
+
+class MyTest(unittest.TestCase) : 
+    
+
+    def test_description(self) :
+        line = ">sp|Q10122|YSM1_CAEEL Uncharacterized WD repeat-containing protein F52C9.1 OS=Caenorhabditis elegans GN=F52C9.1 PE=4 SV=2"
+        a,b = findDetails(line)
+        print "findDescriptionString desc: ",str(b)    
+        print "findDescription id: ",str(a)
+        
+    def test_regex(self) : 
+        line1 = ">sp|P41932|14331_CAEEL 14-3-3-like protein 1 OS=Caenorhabditis elegans GN=par-5 PE=1 SV=2"
+
+        
+        a,b = findDetails(line1)
+        
+        print "a : ",a
+        print "b : ",b
+
+    def test_particular_file(self) : 
+        filename = "worm_fasta.txt"
+        process(filename)
+        
+#------------------------------------
+
 if __name__ == "__main__" : 
     unittest.main()
     
