@@ -4,6 +4,8 @@
 
 #INPUT : <identifier>\t<sequons_list/TMHMM> (peptide file)
 #OUTPUT : peptide file with removed extra TMHMM
+
+import unittest
 #------------------------------------
 
 def main() :
@@ -24,26 +26,41 @@ def askInput() :
     iFileName = iFileName + ".txt"
     iFile = open(iFileName,"r")
     oFileName = iFileName + "_remove_seq.txt"
-    oFile = open(oFileName,"w")
-    return iFileName,oFile
+    
+    return iFileName,oFileName
 
 #------------------------------------    
 
 def remove_extra_seq(inputFileName,outputFileName) : 
     
     outputFile = open(outputFileName,"w")
-    
+    seq_list = ""
     for line in open(inputFileName,"r") : 
+        
         frag = line.split("\t")
         identifier = frag[0]
         frag2 = frag[1].split(" ")
         frag2 = uniquify(frag2)
-        print identifier + "\t",
-        outputFile.write(identifier + "\t")
+        print "uniq ",frag2
+        
         for i in frag2 : 
-            print str(i) + " ",
-            outputFile.write(str(i) + " ")
-
+            if str(i) != '\n' : 
+                seq_list = seq_list + str(i) + " "
+        print_this = str(identifier) + "\t" + str(seq_list) + "\n"
+        print print_this
+        outputFile.write(print_this)
+        seq_list = ""
 #------------------------------------    
-    
-    
+
+class MyTest(unittest.TestCase) : 
+   
+    def test_remove_function(self) : 
+        ifile = "peptide-v1.txt"
+        ofile = "peptide-v1_uniq.txt"
+        remove_extra_seq(ifile,ofile)
+        print 0
+
+#------------------------------------     
+if __name__ == "__main__"  : 
+    unittest.main()
+

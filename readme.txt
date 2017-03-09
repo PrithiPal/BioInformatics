@@ -20,9 +20,7 @@ peptide files (pdf) ----> peptide files xl (excel format) --after correction -->
 5. Run the command to eliminiate duplicate entries : 
      cat f_worm.txt_after_hash_only_first.txt | uniq | sort > f_worm_uniq_after_hash_only_first.txt Lines = 1868
      
-
 6. fasta_file + f_worm_uniq_after_hash_only_first.txt -----------> find_glyco_pep.cpp ---------------> peptide_worm_output.txt (<Identifier> <found sequences NX(!P)S/T>) Lines = 809
-
 
 7. run this command 
     1. awk '/not_found/{print $1}' peptide_worm_output.txt > names.txt
@@ -34,18 +32,13 @@ peptide files (pdf) ----> peptide files xl (excel format) --after correction -->
 To gather all tests use this bash command : ls | grep "_test.py$"
 
 
-8. peptide_worm_output.txt -----> remove_extra_seq.py -----> peptide_worm_output_after_removeextra.txt
+9. peptide_worm_output.txt -----> remove_extra_seq.py -----> peptide_worm_output_after_removeextra.txt
 This program has removed the duplicated sequences for each protein. Lines = 621
 
 
+10. afterwards, use the script script_for_f_all_description.txt to obtain a f_all_description file.
 
-
-8. afterwards, use the script script_for_f_all_description.txt to obtain a f_all_description file.
-
-
-
-
-9. worm_loopstat_input2 -----> script_for_worm_loopstat_input2_new.txt ----> worm_loopstat_input2(refined)
+11. worm_loopstat_input2 -----> script_for_worm_loopstat_input2_new.txt ----> worm_loopstat_input2(refined)
 This script is removing the 'o' or 'i' entries from the loopstat input2. in addition it's also changing second column len=x => x
 
 
@@ -54,6 +47,4 @@ This script is removing the 'o' or 'i' entries from the loopstat input2. in addi
 10. Now we have got both worm_loopstat_input1 and worm_loopstat_input2. So the final solution is to input them in loopstat to obtain the ultimate worm output.
 
 11. Then, worm_loopstat_input1 + worm_loopstat_input2 ----> loopstat code -----> worm_loopstat_output1 + worm_loopstat_output2
-
-
 <---work over here for worm-------->
