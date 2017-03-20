@@ -40,7 +40,7 @@ IPI00113227	Heparin cofactor II	478	2	NMS(402) NLT(30)
 IPI00113310	"Adult pancreas islet cells cDNA, RIKEN full-length enriched library, clone:C820019D11 product:kidney-specific membrane protein, full insert sequence	222	1	NIT(76) 
 IPI00113350	Cannabinoid receptor 	347	1	NGS(11) 
 IPI00113411	Osteoblast differentiation promoting facto	539	1	NQT(333) 
-IPI00113480	Myeloperoxidase	718	1	NRS(365) 
+IPI00113480	Myeloperoxidase	718	2	NRS(365) not_found 
 IPI00113539	Fibronectin	2477	2	NCT(542) NDT(528) 
 IPI00113726	Laminin alpha-1 chain	3084	11	NNT(562) NHS(1414) NAT(2055) NST(2067) NTS(2046) NFT(1718) NAT(1725) NIS(1344) NVT(1812) NHS(1763) NQT(1686) 
 IPI00113824	Basement membrane-specific heparan sulfate proteoglycan core protein	3707	3	NLT(3154) NSS(2336) NGT(3098) 
@@ -51,7 +51,6 @@ IPI00114274	Semaphorin-4D	861	1	NYT(379)
 IPI00114279	Excitatory amino acid transporter 	543	2	NET(206) NVS(216) 
 IPI00114295	Noelin-2	448	1	NVS(68) 
 IPI00114319	Extracellular superoxide dismutase [Cu-Zn]	251	1	NAS(121) 
-IPI00114348	"Splice Isoform 2A of Dihydropyridine-sensitive L-type, calcium channel alpha-2/delta subunits 		0	
 IPI00114350	Angiopoietin-1	498	1	NQT(154) 
 IPI00114361	Beta-microseminoprotein	113	1	NCT(91) 
 IPI00114457	Transforming growth factor beta 1	390	2	NST(82) NTS(136) 
@@ -80,7 +79,6 @@ IPI00116913	Laminin alpha-5 chain	3718	7	NAS(2211) NFS(248) NVT(926) NAT(2425) N
 IPI00116921	Scavenger receptor class B member 	509	2	NGS(310) NVS(330) 
 IPI00116945	Splice Isoform 1 of Complement factor D	259	1	NAS(124) 
 IPI00117094	Frizzled 4	537	1	NVT(59) 
-IPI00117140	"Fc receptor, IgG, low affinity IIb		0	
 IPI00117161	Zona pellucida sperm-binding protein 2	713	1	NSS(393) 
 IPI00117413	Splice Isoform 1 of B-cell receptor CD22	862	3	NDS(116) NSS(460) NNS(265) 
 IPI00117424	Intercellular adhesion molecule 2	277	1	NCS(45) 
@@ -99,7 +97,6 @@ IPI00118351	"Adult male testis cDNA, RIKEN full-length enriched library, clone:1
 IPI00118355	Pancreatic lipase-related protein 1	473	1	NNT(334) 
 IPI00118385	Splice Isoform 1 of Glutamate [NMDA] receptor subunit zeta 1	938	3	NYS(350) NGT(368) NDT(440) 
 IPI00118413	Thrombospondin 	1171	3	NGS(249) NAT(361) NST(1068) 
-IPI00118851	PREDICTED: protein disulfide isomerase-like protein of the testi		0	
 IPI00119004	"Adult male cerebellum cDNA, RIKEN full-length enriched library, clone:1500019E20 product:hypothetical Lipolytic enzyme, G-D-S-L containing protein, full insert sequence	249	1	NDS(89) 
 IPI00119033	Intercellular adhesion molecule 5	917	3	NFT(762) NLS(636) NAT(645) 
 IPI00119063	AM2 recepto	4545	14	NNT(3663) NIS(3954) NRT(1559) NIS(1724) NHT(1734) NDT(2473) NGT(4076) NYT(3049) NCT(4365) NAT(2128) NST(447) NGS(3090) NGT(730) NAS(3789) 
@@ -120,10 +117,9 @@ IPI00120166	Zinc transporter 	503	1	NST(294)
 IPI00120187	Fibromodulin	376	1	NLT(166) 
 IPI00120225	Insulin-like growth factor 1 receptor	1373	2	NST(314) NTT(748) 
 IPI00120227	Macrophage receptor MARC	518	1	NLT(138) 
-IPI00120245	Integrin alpha-V	1044	2	NVS(615) NTT(74) 
+IPI00120245	Integrin alpha-V	1044	3	NVS(615) NTT(74) not_found 
 IPI00120389	DNA cross-link repair 1A protei	1029	1	NIS(676) 
 IPI00120434	23 kDa protei	197	1	NLS(32) 
-IPI00120564	Splice Isoform 6 of Neuronal cell adhesion molecule		0	
 IPI00120674	"B6-derived CD11 +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F730209H22 product:integrin alpha M, full insert sequence	1232	4	NYT(734) NCS(1022) NQT(58) NMS(907) 
 IPI00120751	"Adult male brain UNDEFINED_CELL_LINE cDNA, RIKEN full-length enriched library, clone:M5C1016E12 product:Proton myo-inositol transporter homolog	637	1	NGS(447) 
 IPI00120769	"TIB-55 BB88 cDNA, RIKEN full-length enriched library, clone:I730044C04 product:solute carrier family 29 (nucleoside transporters), member 1, full insert sequence	460	1	NVS(48) 
@@ -159,7 +155,6 @@ IPI00122411	EGF-like module containing mucin-like hormone receptor-like 1	931	1	
 IPI00122438	Fibrillin-1	2871	6	NGT(2178) NCT(1067) NTS(1581) NGT(1369) NQT(1703) NMT(1713) 
 IPI00122522	Gamma-glutamyltranspeptidase 1	568	5	NMS(343) NTT(510) NGS(229) NTT(114) NNS(119) 
 IPI00122557	Esterase 31-lik	571	2	NIS(311) NDS(317) 
-IPI00122737	222 kDa protei		0	
 IPI00122811	Ig epsilon chain C regio	421	2	NFT(72) NES(84) 
 IPI00122971	"Splice Isoform N-CAM 180 of Neural cell adhesion molecule 1, 180 kDa isoform 	1115	1	NCT(479) 
 IPI00122973	Splice Isoform 1 of Intercellular adhesion molecule 1	537	2	NCS(47) NVS(204) 
@@ -180,18 +175,14 @@ IPI00123980	Lymphocyte antigen Ly-6I	134	1	NIS(95)
 IPI00124006	EP	220	2	NLT(112) NKT(133) 
 IPI00124058	PREDICTED: cubilin (intrinsic factor-cobalamin receptor	3623	1	NSS(2925) 
 IPI00124221	Sodium/potassium-transporting ATPase beta-3 chai	278	2	NLT(124) NAT(197) 
-IPI00124265	Splice Isoform 2 of Latent transforming growth factor beta binding protein 4	1665	0	
 IPI00124269	Potassium-transporting ATPase beta chai	294	5	NCT(130) NHT(146) NGT(225) NCS(161) NNT(193) 
-IPI00124283	Splice Isoform II of Macrophage scavenger receptor types I and I	354	0	
 IPI00124340	Sodium/glucose cotransporter 	670	1	NIS(248) 
 IPI00124428	1-O-acylceramide synthase	412	1	NYT(289) 
 IPI00124640	"Osteoclast-like cell cDNA, RIKEN full-length enriched library, clone:I420031M06 product:granulin, full insert sequence	602	1	NQT(539) 
 IPI00124697	Trehalase	576	1	NHS(75) 
 IPI00124725	Inter-alpha-trypsin inhibitor heavy chain H3	889	1	NIT(580) 
-IPI00124799	"9 days embryo whole body cDNA, RIKEN full-length enriched library, clone:D030016M23 product:Sorting nexin 21 homolog		0	
 IPI00124836	Beta-sarcoglyca	320	1	NAT(213) 
 IPI00124987	Granulocyte-macrophage colony-stimulating factor receptor alpha chain	388	1	NST(165) 
-IPI00125154	DSD-1-proteoglycan		0	
 IPI00125310	"Complement C1q subcomponent, A chain 	245	1	NHT(146) 
 IPI00125705	Testis-specific protein TES101R	250	2	NGT(160) NMS(134) 
 IPI00125813	Dipeptidyl peptidase 	760	2	NNT(144) NET(514) 
@@ -200,7 +191,6 @@ IPI00125851	Chloride channel protein 	746	1	NTS(408)
 IPI00126092	Splice Isoform 2 of Leukocyte common antigen	1248	2	NVT(446) NVT(384) 
 IPI00126146	Splice Isoform 2 of Tyrosine-protein kinase receptor TYRO3	894	1	NVT(195) 
 IPI00126186	Macrophage mannose receptor 1	1456	1	NES(1204) 
-IPI00126194	Alpha-2-macroglobulin		0	
 IPI00126214	Ecotropic virus integration 1 site protei	795	1	NGS(613) 
 IPI00126232	Splice Isoform 1 of Meprin A beta-subunit	704	3	NTS(316) NGT(548) NGT(219) 
 IPI00126267	Olfactory receptor MOR256-	309	1	NSS(3) 
@@ -242,7 +232,6 @@ IPI00129243	Splice Isoform I of Gamma-glutamyl hydrolase	317	2	NFT(162) NLT(100)
 IPI00129250	Leucine-rich alpha-2-glycoprotein	342	2	NDT(318) NLS(134) 
 IPI00129265	Lysosomal acid lipase/cholesteryl ester hydrolase	397	2	NQS(319) NVT(34) 
 IPI00129304	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730023E20 product:collectin sub-family member 12, full insert sequence	742	4	NNS(159) NKT(168) NNT(386) NVT(67) 
-IPI00129397	PREDICTED: similar to RIM binding protein 2 (RIM-BP2		0	
 IPI00129423	Thrombomodulin	577	1	NHT(113) 
 IPI00129526	Endoplasmin	802	1	NAS(62) 
 IPI00129571	Collagen alpha 1(III) chain	1464	1	NIT(1365) 
@@ -267,9 +256,7 @@ IPI00130654	Afamin	634	2	NAT(33) NET(402)
 IPI00130661	Tripeptidyl-peptidase I	562	1	NNS(221) 
 IPI00131021	Heparan sulfate 2-O-sulfotransferase 	356	1	NTT(108) 
 IPI00131062	Sodium channel beta-1 subunit	218	1	NTS(135) 
-IPI00131114	Type VI collagen alpha 3 subuni		0	
 IPI00131116	EGF-like module containing mucin-like hormone receptor-like 4	689	1	NNT(203) 
-IPI00131137	9 kDa protei		0	
 IPI00131143	Splice Isoform 1 of Sel-1 homolog	790	2	NET(427) NET(604) 
 IPI00131292	Organic cation/carnitine transporter 	553	1	NHS(64) 
 IPI00131432	"Bullous pemphigoid antigen 1, isoform 5	2611	1	NNT(1374) 
@@ -277,11 +264,9 @@ IPI00131472	Splice Isoform Flip of Glutamate receptor 3	888	1	NIT(260)
 IPI00131526	Splice Isoform 1 of CD209 antigen-like protein 	325	2	NES(141) NES(112) 
 IPI00131622	Prion-like protein doppel	179	1	NAT(111) 
 IPI00131641	LOC237403 protei	589	1	NET(509) 
-IPI00131772	"Adult male liver tumor cDNA, RIKEN full-length enriched library, clone:C730026J11 product:CDNA FLJ14681 FIS, CLONE NT2RP2004270, WEAKLY SIMILAR TO PROTEIN PTM1 homolog		0	
 IPI00131830	Serine protease inhibitor A3K	418	3	NLT(105) NAS(270) NQT(185) 
 IPI00131881	ADAM 10	749	2	NFT(552) NTT(279) 
 IPI00131904	Dickkopf-related protein 3	349	1	NNT(106) 
-IPI00132121	Pro-epidermal growth factor	1217	0	
 IPI00132286	Integrin alpha-L	1163	2	NIS(270) NLT(776) 
 IPI00132371	Homeobox protein Hox-A	270	1	NSS(124) 
 IPI00132474	Integrin beta-1	798	3	NSS(520) NCT(212) NLT(669) 
@@ -299,7 +284,6 @@ IPI00134013	Heme carrier protein 	459	1	NGT(58)
 IPI00134191	"Solute carrier family 2, facilitated glucose transporter member 3	493	1	NYT(43) 
 IPI00134200	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930471K13 product:hypothetical RNI-like structure containing protein, full insert sequence	614	2	NLT(138) NST(536) 
 IPI00134390	Microsomal dipeptidase	410	1	NSS(121) 
-IPI00134483	Lectin lambd		0	
 IPI00134549	Splice Isoform LAMP-2A of Lysosome-associated membrane glycoprotein 2	415	2	NLT(29) NFT(265) 
 IPI00134691	"UDP-glucuronosyltransferase 1-1 , microsomal	535	1	NVT(89) 
 IPI00134743	"Alkaline phosphatase, tissue-nonspecific isozyme 	524	3	NRT(230) NTT(140) NVS(430) 
@@ -323,7 +307,7 @@ IPI00137987	Zinc-alpha-2-glycoprotein	307	2	NRS(123) NYS(190)
 IPI00138046	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732420G10 product:similar to Phospholipase B	778	1	NST(525) 
 IPI00138180	Vascular endothelial-cadherin	784	2	NFT(523) NIT(535) 
 IPI00138209	Splice Isoform 2A of Desmocollin-2	902	1	NYT(392) 
-IPI00138342	Liver carboxylesterase N	554	2	NLS(478) NDT(274) 
+IPI00138342	Liver carboxylesterase N	554	3	NLS(478) NDT(274) not_found 
 IPI00139788	Serotransferrin	697	1	NST(513) 
 IPI00153202	Splice Isoform 1 of Angiotensin-converting enzyme 2	805	2	NQT(660) NST(546) 
 IPI00153258	Splice Isoform 1 of Protein Z-dependent protease inhibitor	448	3	NFT(278) NET(81) NAT(299) 
@@ -339,13 +323,10 @@ IPI00154057	Protocadherin 	1038	1	NTS(698)
 IPI00165768	Proto-oncogene protein c-ro	2340	1	NVS(2218) 
 IPI00165807	Splice Isoform 1 of N-acetylmuramoyl-L-alanine amidase	530	2	NYT(465) NIS(335) 
 IPI00169554	Sodium/glucose cotransporter KST	673	1	NSS(247) 
-IPI00169600	PREDICTED: RIKEN cDNA A430096B05 gen		0	
 IPI00169818	Leucine-rich repeat-containing protein 25	297	1	NCS(133) 
-IPI00169834	PREDICTED: cDNA sequence BC03360		0	
 IPI00169870	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630004H03 product:hypothetical Glycosyl transferase, family 25/Endoplasmic reticulum targeting sequence containing protein, full insert sequence	617	1	NTS(376) 
 IPI00169896	Splice Isoform 2 of Choline transporter-like protein 	704	1	NET(185) 
 IPI00170216	Splice Isoform 1 of Latent transforming growth factor beta binding protein 4	1666	1	NGS(351) 
-IPI00172181	Muc5b protei		0	
 IPI00172242	"H-2 class II histocompatibility antigen, A-Q beta chain 	265	1	NGT(46) 
 IPI00172243	"H-2 class II histocompatibility antigen, A-K beta chain 	263	1	NGT(46) 
 IPI00177179	"10 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:6530403D23 product:SIMILAR TO TUMOR-ASSOCIATED ANTIGEN 1 homolog	408	1	NGS(184) 
@@ -364,7 +345,6 @@ IPI00221911	Leukocyte surface antigen CD5	219	2	NDS(119) NST(129)
 IPI00221998	Adipocyte plasma membrane-associated protei	415	1	NGT(159) 
 IPI00222149	L1-like protei	1209	2	NST(822) NVT(1027) 
 IPI00222266	"Adult male olfactory brain cDNA, RIKEN full-length enriched library, clone:6430517H21 product:ZFP76P homolog	724	1	NST(338) 
-IPI00222301	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030616J04 product:BRAIN-ENRICHED MEMBRANE-ASSOCIATED PROTEIN TYROSINE PHOSPHATASE 2 (EC 3.1.3.48) (BEM-2) (PROTEIN-TYROSINE- PHOSPHATASE) (PHOSPHOTYROSINE PHOSPHATASE) (PTPASE) homolog		0	
 IPI00222321	"13 days embryo forelimb cDNA, RIKEN full-length enriched library, clone:5930422O05 product:similar to BBP-LIKE PROTEIN 2	261	1	NVS(101) 
 IPI00222369	"16 days embryo head cDNA, RIKEN full-length enriched library, clone:C130005L02 product:inter-alpha (globulin) inhibitor H5, full insert sequence	952	1	NET(231) 
 IPI00222589	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930032O19 product:PTK7 protein tyrosine kinase 7, full insert sequence	1062	1	NVT(98) 
@@ -386,7 +366,6 @@ IPI00225715	Glycosylphosphatidylinositol-specific phospholipase 	842	2	NYT(321) 
 IPI00225883	Solute carrier family 40 member 	570	1	NAT(174) 
 IPI00226008	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930403E08 product:hypothetical protein, full insert sequence	132	1	NET(88) 
 IPI00226052	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4921537E06 product:hypothetical C2 domain (Calcium/lipid-binding domain, CaLB) structure containing protein, full insert sequence	557	1	NYS(455) 
-IPI00226208	Lyl1 protei		0	
 IPI00226260	"10 day old male pancreas cDNA, RIKEN full-length enriched library, clone:1810073M23 product:TRANSMEMBRANE 9 SUPERFAMILY PROTEIN MEMBER 3 homolog	384	1	NLT(172) 
 IPI00226310	"2 days pregnant adult female ovary cDNA, RIKEN full-length enriched library, clone:E330019B14 product:hypothetical von Willebrand factor type A domain containing protein, full insert sequence	1182	2	NFS(391) NQT(399) 
 IPI00226346	"Mus musculus cDNA fis, clone TRACH2000665, moderately similar to Rattus norvegicus putative integral membrane transport protein	552	2	NDT(56) NGS(62) 
@@ -404,14 +383,11 @@ IPI00229992	Plexin B1	2119	2	NIS(543) NVT(1251)
 IPI00230034	D-dopachrome tautomeras	118	1	NRT(74) 
 IPI00230295	Putative polypeptide N-acetylgalactosaminyltransferase-like protein 	622	1	NST(320) 
 IPI00230440	Adenosylhomocysteinas	432	1	NDS(181) 
-IPI00230509	Splice Isoform 2 of Sialoadhesin		0	
 IPI00230718	Complement Component 	561	1	NIS(276) 
 IPI00263041	"12 days embryo female mullerian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6820402E08 product:weakly similar to PLACE1003493 PROTEIN	943	1	NTT(839) 
 IPI00263505	Splice Isoform 1 of Sad1/unc-84 protein-like 	913	1	NIS(834) 
-IPI00263726	"Solute carrier family 2 (facilitated glucoSe tranSporter), member 4		0	
 IPI00265095	Splice Isoform 2 of Transmembrane protein 16	484	1	NYT(376) 
 IPI00265291	Ectonucleotide pyrophosphatase/phosphodiesterase 1 allotype 	905	2	NGS(323) NAS(267) 
-IPI00265854	Complement receptor type 2		0	
 IPI00267963	HypotHetical protein LOC32073	319	1	NFS(88) 
 IPI00268184	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030008G12 product:MEMBRANE-BOUND AMINOPEPTIDASE P (EC 3.4.11.9), full insert sequence	582	2	NTT(49) NFS(409) 
 IPI00268475	SialoadheSi	1605	2	NTS(1253) NET(346) 
@@ -425,13 +401,11 @@ IPI00276515	Splice Isoform L-MAG of Myelin-associated glycoprotein	627	2	NVT(450
 IPI00279010	Lu protei	650	3	NQS(323) NSS(370) NCS(377) 
 IPI00279051	RIKEN cDNA A930025J1	500	2	NAT(161) NVT(164) 
 IPI00279079	Fibrinogen beta chain	481	1	NRT(384) 
-IPI00284339	67 kDa protei		0	
 IPI00307966	ADP-ribosyl cyclase 	304	1	NKT(124) 
 IPI00308213	"Ig gamma-1 chain C region, membrane-bound form	393	1	NST(174) 
 IPI00308245	Extra cellular link domain-containing 	318	1	NFT(52) 
 IPI00308391	Zinc finger protein 59	1262	1	NLS(571) 
 IPI00308484	SPARC-like protein 1	650	1	NQT(462) 
-IPI00308609	"9 days embryo whole body cDNA, RIKEN full-length enriched library, clone:D030015M14 product:VESICULAR INTEGRAL-MEMBRANE PROTEIN VIP36		0	
 IPI00308670	Splice Isoform 1 of Nucleoporin-like 	420	1	NIS(146) 
 IPI00308691	"Solute carrier family 2, facilitated glucose transporter member 1	492	1	NQT(45) 
 IPI00308892	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530048E14 product:weakly similar to LYSOZYME C, TYPE M	151	1	NTT(62) 
@@ -442,7 +416,6 @@ IPI00309214	Serum amyloid P-component	224	1	NFT(52)
 IPI00309999	Laminin alpha-2 chain	3106	2	NET(1696) NDT(2013) 
 IPI00310049	Carboxypeptidase B2	422	1	NDT(107) 
 IPI00310059	Polymeric-immunoglobulin receptor	771	1	NQS(170) 
-IPI00310109	"12 days embryo male wolffian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6720483E16 product:lysosomal membrane glycoprotein 2, full insert sequence		0	
 IPI00310754	Langeri	331	1	NIS(90) 
 IPI00310797	Fibroleukin	432	1	NGT(329) 
 IPI00311165	HepHaestin isoform 	847	3	NQT(49) NDT(54) NVS(671) 
@@ -453,7 +426,6 @@ IPI00311808	Transmembrane glycoprotein NMB	574	2	NDS(275) NLS(249)
 IPI00312063	Low-density lipoprotein receptor	864	1	NVT(273) 
 IPI00312498	Mucin-15	331	1	NVT(30) 
 IPI00312509	Tyrosine-protein kinase receptor UFO	888	1	NIT(37) 
-IPI00312648	Splice Isoform 2 of Gamma-glutamyltransferase 5		0	
 IPI00313750	Adenylate cyclase type I	1353	1	NSS(964) 
 IPI00313900	Lumican	338	4	NIS(252) NLT(160) NVT(88) NLT(127) 
 IPI00314042	Meprin 1 alph	760	6	NIS(452) NQT(546) NGS(553) NGS(41) NTS(330) NCT(270) 
@@ -465,7 +437,6 @@ IPI00314538	Tubulointerstitial nephritis antige	475	2	NET(359) NTT(313)
 IPI00314549	Calcitonin gene-related peptide type 1 receptor	463	2	NRT(65) NQT(29) 
 IPI00314726	Nagl	739	1	NLT(547) 
 IPI00316989	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230347I19 product:MAMMALIAN EPENDYMIN RELATED PROTEIN- 2 (SIMILAR TO MAMMALIAN EPENDYMIN RELATED PROTEIN 1) homolog	224	1	NYT(182) 
-IPI00317340	"Adult male bone cDNA, RIKEN full-length enriched library, clone:9830118D19 product:lactotransferrin, full insert sequence		0	
 IPI00317488	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:G530025F22 product:hypothetical Twin-arginine translocation pathway signal containing protein, full insert sequence	656	1	NYS(157) 
 IPI00317844	Solute carrier organic anion transporter family member 1A	670	2	NLS(124) NRT(135) 
 IPI00318395	Potassium voltage-gated channel subfamily E member 	123	1	NTT(29) 
@@ -484,13 +455,11 @@ IPI00321362	AIE-75 binding protei	680	1	NVS(570)
 IPI00321365	CAR-like membrane protei	373	1	NLT(73) 
 IPI00321375	"12 days embryo female mullerian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6820408J04 product:biotinidase, full insert sequence	529	1	NDT(136) 
 IPI00321407	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630116E23 product:cullin 4A, full insert sequence	759	1	NYT(57) 
-IPI00321477	Endogli		0	
 IPI00321717	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1210001G01 product:solute carrier family 34	697	1	NKS(295) 
 IPI00321919	G-protein coupled receptor 56	687	2	NAS(171) NLS(324) 
 IPI00322304	Histidine-rich glycoprotein HR	536	2	NRS(497) NCS(211) 
 IPI00322447	RA17	456	2	NFS(104) NKT(307) 
 IPI00322463	Beta-2-glycoprotein I	345	1	NNS(162) 
-IPI00322569	"Neural cell adhesion molecule 1, 120 kDa isoform 		0	
 IPI00322712	Splice Isoform 2 of Lactadherin	426	1	NNT(279) 
 IPI00322867	Itih1 protei	911	1	NLS(589) 
 IPI00323436	"11 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:I530028M11 product:amiloride binding protein 1 (amine oxidase, copper-containing), full insert sequence	756	1	NVT(115) 
@@ -505,55 +474,38 @@ IPI00330594	C-type lectin domain family 4 member 	548	1	NSS(115)
 IPI00330632	Splice Isoform 1 of Collagen alpha 1(XIV) chain	1797	1	NGS(138) 
 IPI00330680	RIKEN cDNA 2310036D2	275	1	NIT(184) 
 IPI00330683	Serine protease inhibitor A3	445	1	NAS(259) 
-IPI00330719	"CDNA, RIKEN full-length enriched library, clone:G630001M04 product:murinoglobulin 1, full insert sequence		0	
 IPI00330729	"Splice Isoform 1 of Casein kinase I, alpha isoform	337	1	NLT(180) 
-IPI00330866	Integrin alpha 		0	
-IPI00330883	147 kDa protei		0	
 IPI00331214	Platelet glycoprotein I	472	6	NLS(235) NGT(247) NDT(205) NET(417) NIT(102) NCT(321) 
 IPI00331259	Splice Isoform 1 of Desmoglein-1 gamma	911	1	NAT(180) 
-IPI00331269	"Adult male epididymis cDNA, RIKEN full-length enriched library, clone:9230110E19 product:complement component 4 binding protein, full insert sequence		0	
 IPI00331318	Palmitoyl-protein thioesteras	307	1	NYS(198) 
-IPI00331413	"Adult male diencephalon cDNA, RIKEN full-length enriched library, clone:9330162A08 product:integrin alpha 6, full insert sequence		0	
 IPI00331487	Dickkopf-like protein 1	230	1	NQT(102) 
 IPI00331550	Dipeptidyl-peptidase II	506	1	NSS(325) 
 IPI00331617	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732448M22 product:Hypothetical olfactomedin-like domain containing protein, full insert sequence	746	1	NLT(187) 
-IPI00331631	Stromal interaction molecule 		0	
 IPI00337974	Splice Isoform 1 of Sodium channel protein type VIII alpha subuni	1978	1	NNT(1381) 
 IPI00338094	Bone morphogenetic protein receptor type II	1038	1	NGT(55) 
 IPI00338202	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430024D23 product:putative homeodomain transcription factor, full insert sequence	708	1	NIT(679) 
 IPI00338561	Endoplasmic reticulum chaperone SIL1 homolo	465	1	NSS(197) 
 IPI00338565	Mutant fibrillin-	2873	1	NVT(450) 
-IPI00338738	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200019A09 product:complement receptor related protein, full insert sequence		0	
 IPI00338785	"CDNA, RIKEN full-length enriched library, clone:M5C1012G13 product:laminin B1 subunit 1, full insert sequence	1834	5	NAS(1691) NLT(1590) NST(1327) NAS(1384) NST(1391) 
 IPI00338983	Contactin-associated protein 1	1385	3	NIT(1148) NAS(949) NCT(957) 
-IPI00340463	PREDICTED: similar to hypothetical protein A030003A1		0	
 IPI00341098	Calcium activated chloride channe	925	1	NFT(544) 
 IPI00343568	CD180 antigen	661	3	NLS(394) NLS(402) NLT(78) 
-IPI00345199	PREDICTED: similar to calcium binding protein P2		0	
 IPI00345286	"0 day neonate lung cDNA, RIKEN full-length enriched library, clone:E030028C07 product:hypothetical Threonine-rich region profile containing protein, full insert sequence	500	1	NTT(108) 
-IPI00345941	"PREDICTED: similar to Angiotensin-converting enzyme, testis-specific isoform  (ACE-T) (Dipeptidyl carboxypeptidase I) (Kininase II)		0	
 IPI00347009	"Adult male vesicular gland cDNA, RIKEN full-length enriched library, clone:G630068N03 product:hypothetical protein, full insert sequence	99	1	NSS(31) 
 IPI00347894	"PREDICTED: protein disulfide isomerase, pancreatic	527	1	NST(518) 
 IPI00348586	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530016O06 product:hypothetical SUR2-type hydroxylase/desaturase catalytic domain containing protein, full insert sequence	447	1	NVS(9) 
 IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 	4660	10	NGS(2131) NFT(2134) NRT(2225) NST(2782) NQS(4329) NNS(2396) NQS(1676) NCT(3566) NNT(3317) NQT(2488) 
-IPI00350143	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930048J18 product:hypothetical protein, full insert sequence		0	
 IPI00352845	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830129A12 product:Similar to liver regeneration p-53 related protein, full insert sequence	519	2	NST(436) NIT(427) 
-IPI00354461	PREDICTED: gene model 54		0	
 IPI00355482	SLC10A	434	1	NVT(73) 
-IPI00355606	PREDICTED: expressed sequence AL02277		0	
 IPI00355673	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830007J16 product:similar to Serine protease inhibitor 2- 2	409	1	NAS(260) 
-IPI00355825	50 kDa protei		0	
 IPI00356063	"Sodium channel, voltage-gated, type II, beta	215	1	NGS(42) 
 IPI00356462	PREDICTED: multimerin 	1210	4	NQS(415) NKT(712) NET(810) NAS(328) 
-IPI00356530	PREDICTED: similar to dachsous 2 isoform 	2842	0	
 IPI00357770	PREDICTED: v-erb-a erythroblastic leukemia viral oncogene homolog 	1308	1	NET(754) 
 IPI00377642	Pituitary tumor-transforming gene 1 protein-interacting protein	174	1	NRS(42) 
 IPI00378130	TESP	367	2	NPS(130) NYS(133) 
 IPI00378162	ADAM 2	735	1	NCS(359) 
-IPI00378200	PREDICTED: hypothetical protein LOC7102		0	
 IPI00378224	Disulfide isomeras	344	2	NVT(165) NFT(171) 
 IPI00378366	N-acetylated-alpha-linked acidic dipeptidase-like protei	745	3	NIS(620) NTS(279) NGS(329) 
-IPI00378512	PREDICTED: similar to hypothetical protein FLJ3029		0	
 IPI00378539	PREDICTED: similar to nonsyndromic hearing impairment protei	352	1	NVT(103) 
 IPI00379131	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930513K05 product:integrin alpha X, full insert sequence	1168	2	NLS(741) NCT(703) 
 IPI00380296	O-acetyltransferas	797	1	NGS(175) 
@@ -562,7 +514,6 @@ IPI00380717	"13 days embryo heart cDNA, RIKEN full-length enriched library, clon
 IPI00381059	Leucine rich repeat containing 4	709	1	NGT(402) 
 IPI00381178	Liver carboxylesterase 31	571	2	NIS(311) NDS(317) 
 IPI00381208	PREDICTED: similar to coxsackie-adenovirus receptor-lik	390	1	NIT(357) 
-IPI00381213	PREDICTED: hypothetical protein LOC6855		0	
 IPI00381303	Lysosomal alpha-mannosidase	1013	1	NQT(767) 
 IPI00387289	Carboxylesterase 3	565	1	NTT(79) 
 IPI00387418	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830033I22 product:glycoprotein 5 (platelet), full insert sequence	567	3	NLT(181) NGT(298) NLT(51) 
@@ -574,11 +525,8 @@ IPI00400016	Laminin gamma-1 chain	1607	7	NRS(1020) NLT(648) NET(1203) NQT(1221) 
 IPI00400202	HMW kininogen-I	644	1	NNT(168) 
 IPI00402778	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230328N06 product:neurotrimin, full insert sequence	344	2	NVS(284) NYT(292) 
 IPI00403226	"0 day neonate skin cDNA, RIKEN full-length enriched library, clone:4631409B15 product:hypothetical protein, full insert sequence	212	1	NDS(72) 
-IPI00403544	"7 days embryo whole body cDNA, RIKEN full-length enriched library, clone:C430017I08 product:KIAA1454-LIKE PROTEIN homolog		0	
 IPI00403586	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230106I24 product:hypothetical Lipolytic enzymes/Esterase/lipase/thioesterase family active site containing protein, full insert sequence	408	1	NHT(270) 
-IPI00403831	F10 protei		0	
 IPI00403938	Tenascin 	2110	3	NCS(184) NMT(38) NIS(1394) 
-IPI00404062	65 kDa protei		0	
 IPI00404128	"0 day neonate eyeball cDNA, RIKEN full-length enriched library, clone:E130009H02 product:KDEL containing protein 1, full insert sequence	432	1	NCS(152) 
 IPI00404529	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530023M13 product:cell adhesion molecule with homology to L1CAM, full insert sequence	1150	2	NNS(87) NGT(578) 
 IPI00404733	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430002H24 product:CD48 antigen, full insert sequence	151	3	NAT(32) NVT(38) NST(70) 
@@ -598,10 +546,7 @@ IPI00409393	"Latent transforming growth factor beta binding protein, isoform 1L 
 IPI00410796	"Adult inner ear cDNA, RIKEN full-length enriched library, clone:F930021G24 product:Hypothetical quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence	555	1	NGT(392) 
 IPI00410985	Nectin-like molecule 	417	1	NVS(116) 
 IPI00411071	Splice Isoform 1 of Lactadherin	463	1	NNS(266) 
-IPI00415339	Fc receptor-like protein 	596	0	
-IPI00420204	PREDICTED: maltase-glucoamylas		0	
 IPI00420457	Thyroid hormone receptor-associated protein 	2207	1	NKS(740) 
-IPI00420489	Splice Isoform 1 of Von Willebrand factor		0	
 IPI00420554	Splice Isoform 1 of Contactin-associated protein-like 2	1332	1	NNT(436) 
 IPI00420656	 tenascin protein	2019	1	NYS(1018) 
 IPI00420955	Sortilin 	825	1	NNT(160) 
@@ -613,24 +558,19 @@ IPI00453778	"Mammary gland RCB-0526 Jyg-MC(A) cDNA, RIKEN full-length enriched l
 IPI00453791	Tiam2 protei	1715	1	NNT(1090) 
 IPI00454033	Platelet receptor Gi24	309	1	NAT(49) 
 IPI00454043	Choline transporter-like protein 	707	1	NST(67) 
-IPI00454115	Semaphorin 4		0	
 IPI00454159	Splice Isoform 1 of Chondroitin sulfate proteoglycan 5	566	1	NGT(355) 
 IPI00457532	Splice Isoform 1 of Peptidyl-prolyl cis-trans isomerase-like 	161	1	NGS(97) 
 IPI00457636	HMW kininogen-I varian	480	3	NCS(204) NCS(82) NNT(168) 
 IPI00457819	"9.5 days embryo parthenogenote cDNA, RIKEN full-length enriched library, clone:B130018C03 product:weakly similar to HRG22	480	1	NDS(280) 
 IPI00458003	Ectonucleotide pyrophosphatase/phosphodiesterase 	874	1	NLS(594) 
 IPI00458077	"4 days neonate male adipose cDNA, RIKEN full-length enriched library, clone:B430217G19 product:N-acylsphingosine amidohydrolase 2, full insert sequence	756	2	NFS(74) NMS(600) 
-IPI00458099	PREDICTED: similar to Ubiquitin-conjugating enzyme E2 E1 (Ubiquitin-protein ligase E1) (Ubiquitin carrier protein E1) (UbcM3		0	
-IPI00458467	"PREDICTED: similar to Maltase-glucoamylase, intestinal		0	
 IPI00458893	Tetraspanin-1	204	1	NDT(137) 
 IPI00459077	"10 days lactation, adult female mammary gland cDNA, RIKEN full-length enriched library, clone:D730047H02 product:similar to MACROPHAGE GALACTOSE N-ACETYL-GALACTOSAMINE SPECIFIC LECTIN	381	1	NTT(91) 
 IPI00459329	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4921539A16 product:stromal cell derived factor receptor 1, full insert sequence	171	1	NSS(57) 
 IPI00459432	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830015H17 product:Kidney predominant protein (RIKEN cDNA 0610031J06 gene), full insert sequence	404	3	NHS(228) NAS(133) NGS(185) 
 IPI00459866	PREDICTED: similar to hypothetical protein FLJ3580	430	1	NIS(110) 
-IPI00460038	Orosomucoid 		0	
 IPI00460063	Prenylcysteine oxidase	505	2	NIT(323) NST(353) 
 IPI00460291	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830013H06 product:Sad1/unc-84-like protein 2 homolog	731	1	NST(650) 
-IPI00460756	PREDICTED: similar to hypothetical protei	345	0	
 IPI00461132	Leucocyte common antige	1291	3	NIS(311) NNT(322) NYT(347) 
 IPI00461244	Novel protei	1845	1	NLS(78) 
 IPI00461384	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930033O22 product:MYELOBLAST KIAA0230 homolog	1475	1	NIT(1277) 
@@ -642,9 +582,6 @@ IPI00461822	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library,
 IPI00461861	Neprilysi	750	2	NES(145) NAT(285) 
 IPI00461962	Developmentally regulated G-protein-coupled recepto	1165	1	NSS(121) 
 IPI00462199	Basigi	275	3	NAT(192) NSS(46) NST(156) 
-IPI00462364	PREDICTED: membrane protein CH		0	
-IPI00462371	PREDICTED: similar to hypothetical protein MGC3337		0	
-IPI00463311	PREDICTED: similar to RIKEN cDNA E330026B0		0	
 IPI00463489	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K230009E18 product:Opioid binding protein/cell adhesion molecule (OBCAM) (Opioid-binding cell adhesion molecule) (OPCML) homolog	337	2	NVS(277) NYT(285) 
 IPI00463492	Tmem2 protei	1383	1	NES(292) 
 IPI00463764	"6 days neonate spleen cDNA, RIKEN full-length enriched library, clone:F430112M20 product:Hypothetical protein (Hypothetical UDP- glucoronosyl and UDP-glucosyl transferase containing protein), full insert sequence	523	1	NVT(52) 
@@ -658,20 +595,13 @@ IPI00466061	FAD12	489	3	NLS(85) NLS(100) NDS(52)
 IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence	1179	9	NMT(112) NVT(217) NTT(418) NSS(1113) NIT(882) NQT(531) NTS(100) NVT(105) NHT(459) 
 IPI00466999	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330029H11 product:hypothetical Quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence	658	1	NSS(398) 
 IPI00467180	Translocon-associated protein beta subunit	183	1	NVS(88) 
-IPI00467237	36 kDa protei		0	
-IPI00467285	77 kDa protei		0	
 IPI00467600	Stabilin-2	2559	1	NLT(1750) 
 IPI00467793	RIKEN cDNA 4931406P1	1059	1	NSS(598) 
 IPI00467883	Glycosyltransferase 8 domain containing 	371	1	NVT(257) 
-IPI00467944	61 kDa protei		0	
 IPI00467985	"ES cells cDNA, RIKEN full-length enriched library, clone:C330026G04 product:low density lipoprotein receptor-related protein 2, full insert sequence	426	2	NAT(299) NCT(178) 
-IPI00468198	334 kDa protei		0	
 IPI00468236	Splice Isoform 1 of Transmembrane protein 16	911	2	NIT(362) NGT(494) 
-IPI00468387	22 kDa protei	201	0	
 IPI00468458	PREDICTED: lactase-phlorizin hydrolas	1931	3	NSS(1241) NFT(937) NDT(1765) 
-IPI00468949	78 kDa protei		0	
 IPI00469000	Zinc transporter SLC39A6	765	2	NTT(275) NDS(68) 
-IPI00469073	83 kDa protei		0	
 IPI00469123	Melanoma cell adhesion molecul	648	1	NFS(58) 
 IPI00469218	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200007I01 product:lysosomal membrane glycoprotein 1, full insert sequence	407	7	NVS(79) NLS(116) NVT(160) NIS(249) NDT(253) NMT(297) NHS(312) 
 IPI00469221	"Splice Isoform 1 of Inositol 1,4,5-trisphosphate receptor type 1	2749	1	NCT(2503) 
@@ -679,12 +609,9 @@ IPI00469280	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, cl
 IPI00469387	GUGU alph	403	1	NCT(154) 
 IPI00469426	137 kDa protei	1350	5	NST(379) NGT(310) NTT(650) NCT(780) NGS(549) 
 IPI00469466	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830226M16 product:integrin alpha 7, full insert sequence	1140	1	NVT(948) 
-IPI00469490	49 kDa protei		0	
 IPI00469541	Bone morphogenetic protein 	991	1	NSS(96) 
 IPI00469542	Histidine-rich calcium-binding protei	738	1	NVS(102) 
-IPI00469773	PREDICTED: similar to Fc fragment of IgG binding protei		0	
 IPI00469941	Protein C14orf4 homolo	775	1	NSS(635) 
-IPI00470049	85 kDa protei		0	
 IPI00470184	Splice Isoform Glt-1 of Excitatory amino acid transporter 	572	2	NET(215) NTT(205) 
 IPI00470960	"Glutamate receptor, metabotropic 4	832	1	NIT(98) 
 IPI00471080	RIKEN cDNA 1300017J0	700	1	NKT(664) 
@@ -696,14 +623,8 @@ IPI00471231	"Adult male liver tumor cDNA, RIKEN full-length enriched library, cl
 IPI00471273	Splice Isoform 1 of Apoptosis-related protein 3	223	1	NLS(39) 
 IPI00471289	Chloride channel calcium activated 	913	1	NLT(770) 
 IPI00471339	L1 cell adhesion molecul	332	1	NQT(164) 
-IPI00473181	"Adult inner ear cDNA, RIKEN full-length enriched library, clone:F930119J08 product:complement component 4		0	
-IPI00473357	19 kDa protei		0	
 IPI00473419	"12 days embryo eyeball cDNA, RIKEN full-length enriched library, clone:D230045N10 product:SIMILAR TO SERINE THREONINE PROTEIN KINASE homolog	135	1	NHT(90) 
-IPI00473578	67 kDa protei		0	
 IPI00473680	"17 days embryo kidney cDNA, RIKEN full-length enriched library, clone:I920072N22 product:Glycoprotein 25L2 homolog	269	1	NST(125) 
-IPI00473830	Biliary glycoprotein		0	
-IPI00474395	MHC class I-alph		0	
-IPI00474726	110 kDa protei		0	
 IPI00474734	Splice Isoform 2 of Protein Z-dependent protease inhibitor	394	1	NAT(245) 
 IPI00474787	"MRNA, . 	362	1	NQS(110) 
 IPI00474965	Epidermal growth factor recepto	643	1	NVS(528) 
@@ -711,77 +632,26 @@ IPI00475055	406 kDa protei	3723	1	NGT(1647)
 IPI00475157	Serpina1b protei	413	1	NAS(265) 
 IPI00475164	113 kDa protei	1067	1	NNS(934) 
 IPI00480532	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630047E11 product:hypothetical protein, full insert sequence	474	2	NYS(48) NSS(52) 
-IPI00515319	Prostaglandin F2 receptor negative regulato		0	
 IPI00515360	"14 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:M5C1029N18 product:perlecan	4383	3	NCS(358) NVT(554) NFT(89) 
-IPI00515389	CEA-related cell adhesion molecule 	341	0	
 IPI00551297	Glycosylphosphatidylinositol specific phospholipase D	178	1	NVT(117) 
-IPI00553253	53 kDa protei		0	
 IPI00553259	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030416A10 product:solute carrier family 5, member 1, full insert sequence	665	1	NFT(248) 
 IPI00553338	"ATPase, Na+\/K+ transporting, beta 2 polypeptide	136	1	NGS(66) 
-IPI00553586	PREDICTED: similar to Es1 protei		0	
-IPI00553651	PREDICTED: similar to secreted gel-forming muci		0	
-IPI00553772	52 kDa protei		0	
 IPI00553773	Secreted gel-forming muci	2751	1	NCT(882) 
 IPI00554925	"H-2 class II histocompatibility antigen, A-Q alpha chain	221	1	NFT(70) 
 IPI00556843	Ace protei	1016	2	NSS(486) NHT(467) 
 IPI00605187	"0 day neonate lung cDNA, RIKEN full-length enriched library, clone:E030019D07 product:similar to GPI-ANCHORED CERULOPLASMIN	1086	1	NLT(396) 
-IPI00605524	PREDICTED: v-erb-b2 erythroblastic leukemia viral oncogene homolog 		0	
-IPI00605837	PREDICTED: similar to Nogo recepto		0	
 IPI00606550	"Ig gamma-2B chain C region, membrane-bound form	404	1	NST(185) 
-IPI00606589	PREDICTED: similar to integrin associated protei		0	
-IPI00606886	32 kDa protei		0	
-IPI00607976	"PREDICTED: serine (or cysteine) proteinase inhibitor, clade A, member 3A		0	
-IPI00608066	Splice Isoform 1 of Carboxypeptidase M		0	
-IPI00619986	49 kDa protei		0	
 IPI00620014	"12 days embryo spinal ganglion cDNA, RIKEN full-length enriched library, clone:D130011M18 product:hypothetical CENP-B protein containing protein, full insert sequence	486	1	NLT(290) 
-IPI00620249	69 kDa protei		0	
-IPI00620485	21 kDa protei		0	
-IPI00620550	"0 day neonate skin cDNA, RIKEN full-length enriched library, clone:4631424C05 product:macrophage scavenger receptor 1, full insert sequence		0	
-IPI00620795	48 kDa protei		0	
 IPI00621027	111 kDa protei	1034	3	NVT(912) NMT(800) NMT(155) 
-IPI00621319	43 kDa protei		0	
-IPI00621392	162 kDa protei		0	
-IPI00621393	24 kDa protei		0	
 IPI00621410	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4931440N24 product:prominin, full insert sequence	858	1	NMS(264) 
-IPI00621513	58 kDa protei		0	
-IPI00621532	"Adult male kidney cDNA, RIKEN full-length enriched library, clone:F530209O08 product:uromodulin, full insert sequence		0	
-IPI00622022	88 kDa protei		0	
 IPI00622082	Angiopoietin-1 receptor	1122	1	NLT(595) 
-IPI00622442	35 kDa protei		0	
-IPI00622562	53 kDa protei		0	
-IPI00622651	13 kDa protei		0	
-IPI00622675	319 kDa protei		0	
 IPI00622983	"6 days neonate skin cDNA, RIKEN full-length enriched library, clone:A030009B04 product:prominin 2, full insert sequence	835	1	NTT(270) 
 IPI00623136	Brain epsilon-sarcoglyca	451	1	NIT(200) 
-IPI00623148	93 kDa protei		0	
-IPI00623158	287 kDa protei		0	
-IPI00623218	139 kDa protei		0	
-IPI00623398	42 kDa protei		0	
-IPI00623532	85 kDa protei		0	
-IPI00623668	78 kDa protei		0	
-IPI00624157	Hypothetical protei		0	
 IPI00624310	Splice Isoform 1 of Mesoderm induction early response protein 	556	1	NLT(494) 
-IPI00624477	69 kDa protei		0	
-IPI00624544	184 kDa protei		0	
-IPI00624584	39 kDa protei		0	
 IPI00624663	Pzp protei	1507	1	NET(55) 
 IPI00624699	"0 day neonate thymus cDNA, RIKEN full-length enriched library, clone:A430106M06 product:Lutheran blood group	413	1	NLT(314) 
-IPI00624761	44 kDa protei		0	
-IPI00624807	107 kDa protei		0	
-IPI00625065	40 kDa protei		0	
-IPI00625100	"12 days embryo male wolffian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6720458D05 product:A kinase		0	
-IPI00625116	198 kDa protei		0	
-IPI00625307	179 kDa protei		0	
-IPI00625530	RGPR-p11		0	
-IPI00625552	71 kDa protei		0	
 IPI00625835	Solute carrier organic anion transporter family member 1A	670	2	NLS(124) NRT(135) 
-IPI00625941	32 kDa protei		0	
-IPI00626010	"3 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A630052C15 product:laminin, alpha 2, full insert sequence		0	
-IPI00626567	100 kDa protei		0	
-IPI00626624	"16 days embryo head cDNA, RIKEN full-length enriched library, clone:C130075O19 product:mannosidase 2, alpha 1, full insert sequence.		0	
 IPI00626793	114 kDa protei	1103	1	NIT(324) 
-IPI00626894	"Adult male hippocampus cDNA, RIKEN full-length enriched library, clone:C630004D13 product:calcium channel, voltage-dependent, alpha 2/delta subunit 2, full insert sequence.		0	
-IPI00626906	66 kDa protei		0	
 IPI00627008	175 kDa protei	2312	3	NET(1058) NST(223) NVS(134) 
 IPI00648026	Endothelin-converting enzyme-1	753	1	NES(345) 
 IPI00648076	OTTMUSP0000000054	478	3	NST(47) NAS(56) NQS(69) 
@@ -795,17 +665,14 @@ IPI00649186	Splice Isoform 1 of Choline transporter-like protein 	706	1	NIT(200)
 IPI00649292	"Myosin, heavy polypeptide 2, skeletal muscle, adult	1942	1	NHS(1637) 
 IPI00649313	120 kDa protei	1053	2	NAT(363) NAS(68) 
 IPI00649378	81 kDa protei	728	1	NVS(573) 
-IPI00649671	Butyrylcholinesteras		0	
 IPI00649920	53 kDa protei	470	1	NHS(312) 
 IPI00651893	"Adult male cecum cDNA, RIKEN full-length enriched library, clone:9130019N24 product:similar to Calcium-activated chloride channel protein 2	925	1	NFT(544) 
 IPI00652132	"Adult male pituitary gland cDNA, RIKEN full-length enriched library, clone:5330407E20 product:N-acetyl galactosaminidase, alpha, full insert sequence	284	2	NYT(201) NAT(177) 
 IPI00652358	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630001N08 product:arylsulfatase B, full insert sequence	534	2	NTS(427) NVT(280) 
 IPI00652452	"In vitro fertilized eggs cDNA, RIKEN full-length enriched library, clone:7420422A16 product:synaptotagmin-like 2, full insert sequence.	377	1	NLS(289) 
 IPI00652459	"Adult inner ear cDNA, RIKEN full-length enriched library, clone:F930013C23 product:carbonic anyhydrase 12, full insert sequence	371	1	NLT(88) 
-IPI00652463	"10 days neonate medulla oblongata cDNA, RIKEN full-length enriched library, clone:B830048K18 product:solute carrier family 26, member 6, full insert sequence		0	
 IPI00652675	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K230301B18 product:limbic system-associated membrane protein, full insert sequence	338	1	NAS(300) 
 IPI00652813	"CDNA, RIKEN full-length enriched library, clone:M5C1012H16 product:fibronectin 1, full insert sequence	2361	2	NYT(430) NET(1006) 
-IPI00653054	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830083M04 product:interferon alpha responsive		0	
 IPI00653175	"8 days embryo whole body cDNA, RIKEN full-length enriched library, clone:5730407E21 product:acid phosphatase 2, lysosomal, full insert sequence	407	2	NTS(92) NET(167) 
 IPI00653201	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830078D18 product:cathepsin C, full insert sequence	137	1	NCT(29) 
 IPI00653571	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330077N24 product:vascular cell adhesion molecule 1, full insert sequence	739	3	NCT(424) NTT(225) NLT(531) 
@@ -816,7 +683,3 @@ IPI00653954	"Adult male epididymis cDNA, RIKEN full-length enriched library, clo
 IPI00654122	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730073F09 product:phosphatidylinositol glycan, class S, full insert sequence	555	1	NAS(370) 
 IPI00654393	"13 days embryo stomach cDNA, RIKEN full-length enriched library, clone:D530038N07 product:stabilin 2, full insert sequence	156	1	NGT(71) 
 IPI00654907	Hypothetical protein CEACAM1/2se	270	1	NTT(153) 
-IPI00654909	H2-L protei		0	
-IPI00655047	Muc5AC protei		0	
-IPI00655054	"0 day neonate lung cDNA, RIKEN full-length enriched library, clone:E030034K24 product:chloride channel calcium activated 1, full insert sequence		0	
-IPI00655188	Class I MHC H2-D-beta transplantation antigen mRN		0	

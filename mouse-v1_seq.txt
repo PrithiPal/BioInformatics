@@ -1,5 +1,6 @@
 Supplementary Table 1. Quantitative analysis of extracellular proteomes from different tissues using spectrum count from MS/MS analysis (number of spectrum counts from each tissue)	
 IPI	Unique-sequences
+IPI00108098 R.N#YTAN#ATSSR.E
 IPI00108003	K.HN#MTYFCK.T
 IPI00108098	R.N#YTAN#ATSSR.E
 IPI00108098	K.GFCEADN#STVSENNPEDWPVNTEGCMEK.A

@@ -1,6 +1,6 @@
 #This python script prepare the first input for the worm to be put in the loopstat cpp file. The second input is worm_transloop_output2.txt
 
-## INPUT : peptide file, f_all_descriptions.txt worm_loopstat_input2_new-v1
+## INPUT : peptide file, f_all_descriptions.txt mouse_loopstat_input2
 ## OUTPUT : t1[current].txt or worm_loopstat_input1
 
 
@@ -25,7 +25,7 @@ def main() :
     
     mouse_description_filename = 'mouse_qualitative.txt'
     mouse_peptide_filename = 'peptide-v1.txt'
-    mouse_protein_l_filename = 'mouse1_loopstat.txt'
+    mouse_protein_l_filename = 'mouse_loopstat_input1_theo.txt'
     mouse_output_filename = 't1[current]-v1.txt'
     
     prepareWormLoopstatInput1(mouse_output_filename,mouse_description_filename,mouse_protein_l_filename,mouse_peptide_filename,MOUSE_DESCRIPTION_INDEX,MOUSE_PROTEIN_L_INDEX)
@@ -53,13 +53,12 @@ def prepareWormLoopstatInput1(output_file,description_filename,protein_l_filenam
     ofile = open(str(output_file),"w")
     
     for lines in open(str(peptide_filename),"r") : 
-        print lines
         
-        allowed_line = inspect_notfound(str(lines)) # refer sample variable to the tests below where comment says "allowed line"
         
-        if allowed_line != "0" : 
-            lines = allowed_line
-            
+         # if not_found or "0" as the return value of inspect_notfound in entry then don't accept it.
+        
+        if eligible_line(str(lines[:-1])) == True : 
+            print lines
             frag1 = lines.split("\t")
             frag2 = lines.split(" ")
             
@@ -76,7 +75,15 @@ def prepareWormLoopstatInput1(output_file,description_filename,protein_l_filenam
             ofile.write(print_this)
     
 ##--------------------------------------------------------------------------------
+## Determine whether the line argument contains only not_found. If yes then it is not eligible.
+def eligible_line(line) : 
     
+    eligible = inspect_notfound(str(line))
+    if eligible == "0" or eligible == '0' : 
+        return False
+    return True
+
+##-------------------------------------------------------------------------------   
 def findDescription(filename,identifier,DESCRIPTION_INDEX) : 
     description = ""
     for line in open(str(filename),"r") : 
@@ -124,9 +131,9 @@ def inspect_notfound(line) : # inspects the peptide file for not_found lines
     identifier = found_seq[0]
     found_seq = found_seq[1].split(" ")
     modified_seq = [x for x in found_seq if x != "not_found"]
-    if modified_seq == [''] : 
+   # print modified_seq
+    if modified_seq == [''] or modified_seq == [] : 
         return "0"
-    
     return identifier + "\t" + ' '.join(modified_seq)
     
 ## -------------------------------------------------------------------------------
@@ -154,16 +161,40 @@ class MyTest(unittest.TestCase) :
         #not allowed_line
         sample1 = "IPI00114348	not_found not_found "
         sample2 = "IPI00122737	not_found "
+        sample3 = "IPI00118851	not_found not_found not_found not_found"
         l1 = inspect_notfound(sample1)
         l2 = inspect_notfound(sample2)
+        l3 = inspect_notfound(sample3)
+        print l3
         #print l
         o="0"
         self.assertTrue(l1==o)
         self.assertTrue(l2==o)
-    
+        self.assertTrue(l3==o)  
         
-if __name__ == "__main__" : 
+    def test_eligbile_function(self) : 
+        sample1 = "IPI00114348	not_found not_found "
+        sample2 = "IPI00607976	not_found "
+        sample3 = "IPI00118851	not_found not_found not_found not_found"
+        sample4 = "IPI00114265	NTT(142) NQS(242) "
+        
+        el1 = eligible_line(sample1)
+        el2 = eligible_line(sample2)
+        el3 = eligible_line(sample3)
+        el4 = eligible_line(sample4)
+       
+        self.assertTrue(el1==False)
+        self.assertTrue(el2==False)
+        self.assertTrue(el3==False)
+        self.assertTrue(el4==True)
+        print el3
+        print el4
+        
     main()
+   
+## -------------------------------------------------------------------------------
+if __name__ == "__main__" : 
+    unittest.main()
     
 
 

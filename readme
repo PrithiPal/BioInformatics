@@ -1,27 +1,30 @@
 Date : 29 November 2016
 
-This documents tell which files are used to obtain what output. This helps to add the meaning to the different files which may seem absurd otherwise.
-
-File descriptions : 
-
-1) mouse.fasta : Fasta file for the mouse. use open -e to view it’s contents
-2) fasta.cpp : Input -> fasta file. Output -> file with <IPI> <Some Number>
-
-mouse.fasta —> fasta.cp —> mouse.fasta.idx
-
-3) mouse_seq.txt : file with <IPI> <Indentified Sequences>
-4) mouse_seq2hash.txt : same as mouse_eq.txt however * are replaced with hash. The script name is replace_withhash.sh .
-
-mouse.fasta(--fasta) + mouse_seq2hash.txt(--human) ——> find_glyco_pep.cpp ——> peptide output <identifier> <peptide_sequence>
+This documents tell which files are used to obtain what output.
 
 
-***************************__________________*******&&&&&&&&&&&&&&^^^^^^^^^^^^^^
-Here comes the purpose for the first_loopstat_prepare.py for which it was created.
-It helps produce the loopstat and the transloop file for the corresponding given peptide_o.txt which of format <IPI> <found NXG/T sequence>
+Files at the beginning : 
 
-it takes the data such as the Description, protein length etc from multiple files such as the mouse_qualitative.txt, mouse_human.fasta.txt etc..
+mouse_qualitative.txt : Contains all information on Mouse. Rest of files inherits crucial Mouse's data from this File.
+mouse_human.fasta.txt : Transloop output for the mouse
+mouse1_loopstat_input2 : Second input to the loopstat (<ipi><length><topology><FD><LD><FD.l><LD.l><Avg.FD><Avg.LD>)
 
-Look at the code to determine which files are being reffered to pick certain column entries for loopstat/transloop file.
+Steps : 
+
+1. Prints only identifier and peptide sequences for each entry in mouse_qualitative.txt 
+    >> awk 'BEGIN{FS = "\t"}{print $1"\t"$4}' mouse_qualitative.txt > mouse-v1_seq.txt
+    
+    mouse_qualitative ----> mouse-v1_seq.txt(n_glyco file)    (Lines = 1233)
+
+2. Now we obtains the peptide file.
+    
+    mouse.fasta(--fasta) + mouse_seq2hash.txt(--human) ——> find_glyco_pep.cpp ——> peptide output (<identifier> <peptide_sequence>)
+    mouse-v1_seq.txt ------> find_glyco_pep.cpp ----------------> peptide-v1.txt (822)
+    
+3. To compile the first loopstat input, Mapping of different criterias such as description,protein length is initiated for each identifier in peptide file.
+
+    Run prepare_worm_loopstat_output1.py --------> worm_loopstat_input1_exp.txt (t1[current]-v1)
 
 
-**************************____________________***********************************^^
+4. Now worm_loopstat_input1_exp.txt + worm_loopstat_input1_theo.txt ---------> loopstat.cpp --------------> mouse_loopstat_output1_exp.txt + mouse_loopstat_output2_exp.txt
+
