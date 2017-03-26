@@ -1,0 +1,24 @@
+ID
+Description
+Protein Length
+TMHMM Topology
+Sequon Positions
+List of Transmembrane Loops and Sequon Data
+Avg-loop.i
+Avg-loop.o
+Avg-loop (glyco).i
+Avg-loop (glyco).o
+FirstDomain
+LastDomain
+FirstDomain.Length
+FirstDomain.Out
+FirstDomain.In
+LastDomain.Length
+LastDomain.Out
+LastDomain.In
+FirstDomain.Glyco.Length
+FirstGlyco.Length.Out
+FirstGlyco.Legnth.In
+LastDomain.Glyco.Length
+LastGlyco.Length.Out
+LastGlyco.Length.In
