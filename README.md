@@ -12,5 +12,39 @@ Pertaining to the current research comprising the subset of overall research obj
 
 The scope of intended explanation leaves the technical aspects entailing the research and discuss information relevant to obtain stastical results using programming toools.
 
+## **Contextual Information**
 
+In beginning, the **publication** summarizing identified peptide of mouse species \(mouse publication\) **and** glyco FASTA file for mouse was **provided**.
+
+**Glyco protein \(.**FASTA**\):** This file uses special format to list the significant properties of glycol proteins. The FASTA format is as below:
+
+&lt;---example of protein entry from glyco fasta file---&gt;
+
+First line tells information for protein identification and the remainder of lines depicts protein sequence.
+
+The standardized glyco data for indexed species can be found in online BASIC \(Basic Local Alignment Search Tool\) database.
+
+**Mouse publication**\(.pdf\): It lists all identified peptides and associated relevant variables in the study. The mouse publication forms the basis for the information employed for the analysis. This means all piece of peptide information encountered in later parts would be inherited from this single pdf publication. The significant characteristic of each peptide sequence \(one row in publication\) are as listed below:
+
+·CDS ID and Worm pep ID : Technical protein identifiers
+
+·Protein description : description of protein
+
+·Peptide position \(from\)
+
+·Peptide position \(to\)
+
+·Preceding residue
+
+·Peptide sequence
+
+·C-terminal peptide residue
+
+·No. of potential sites
+
+·Glycosylated site-1 and site-2
+
+Again the definitions of these biological variables are not in scope of consideration unless their applicability arises.
+
+Glyco FASTA file and Mouse publication becomes the 
 
