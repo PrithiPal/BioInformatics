@@ -10,7 +10,7 @@ LC-MS based shotgun proteomics uses HPLC that deliver 1 nanoliter/minute constan
 
 Pertaining to the current research comprising the subset of overall research objectives, this repository contains the raw data for analysis. It also contains the relevant files and programs required to obtain the mouse’s final loop stat output. This discourse took immense research to determine the suitable programming language, file-format and tools for data analysis. Following the successful acquisition of results, it’s important to ensure the final results reliability and overall accuracy. For the same reason, all programming scripts incorporate embedded test cases with unit tests.
 
-The scope of intended explanation leaves the technical aspects entailing the research and discuss information relevant to obtain stastical results using programming tools.
+The scope of intended explanation leaves the technical aspects entailing the research and discuss information relevant to obtain stastical results using programming toools.
 
 
 
