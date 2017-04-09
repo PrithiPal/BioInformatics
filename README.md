@@ -48,3 +48,6 @@ Again the definitions of these biological variables are not in scope of consider
 
 Glyco FASTA file and Mouse publication becomes the 
 
+## **Instructions**
+
+The assurance of correctness and durability, each step of data manipulation is broken down in number of steps. Each step signifies milestone whose concrete definitions are determined through appropriate research and requires solving sets of problem statements before proceeding. For instance, first milestone or step may consist of omitting blank rows and convert to tab delimited text file. Afterwards sending the progressed files to Supervisor to receive critical feedback and readjust the methodology accordingly in case of inconsistent calculations/formatting witnessed. Below are the steps or milestone established:
