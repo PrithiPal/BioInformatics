@@ -1,4 +1,4 @@
-# Bioinformatics - place\_hash Documentation
+# Bioinformatics - Mouse theoretical Glycoanalysis
 
 ## **Introduction to Research**\[1\]
 
@@ -14,11 +14,11 @@ The scope of intended explanation leaves the technical aspects entailing the res
 
 ## **Contextual Information**
 
-In beginning, the **publication** summarizing identified peptide of mouse species \(mouse publication\) **and** glyco FASTA file for mouse was **provided**.
+In beginning, the **publication** summarizing identified peptide of mouse species \(mouse publication\) and glyco FASTA file for mouse was **provided**. Afterwards \_find\_glyco\_pep.cpp \_was written by previous research students whose understanding is key to associate with research findings.
 
 #### **Glyco protein \(.**FASTA**\)**
 
-This file uses special format to list the significant properties of glyco proteins. The FASTA format is as below:
+This file uses special format to list the significant properties of glyco proteins. The FASTA format is as below signifies information pertaining to one protein :
 
 > &gt;sp\|P31946\|1433B\_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens GN=YWHAB PE=1 SV=3
 >
@@ -32,9 +32,7 @@ This file uses special format to list the significant properties of glyco protei
 >
 > AGEGEN
 
-First line tells information for protein identification and the remainder of lines depicts protein sequence.
-
-The standardized glyco data for indexed species can be found in online BASIC \(Basic Local Alignment Search Tool\) database.
+First line tells information for protein identification and then the remainder of lines depicts protein sequence. The standardized glyco data for indexed species can be found in online BASIC \(Basic Local Alignment Search Tool\) database.
 
 #### **Mouse publication**\(.pdf\)
 
@@ -56,13 +54,13 @@ Glyco FASTA file and Mouse publication becomes the starting resources for the da
 
 #### **Find\_glyco\_pep**\(.cpp\)
 
-This C++ program finds the occurring sequence$$NX(!P)S|T$$ where first character is N, second is anything except P and last is either S or T. The FASTA sequence is used as search source and all instances with respective positions of above combinations are reported.
+This C++ program finds the occurring sequence$$NX(!P)S|T$$ where first character is $$N$$, second is anything except$$P$$ and last is either $$S$$ or $$T$$. The FASTA sequence is used as search source and all instances with respective positions of above combinations are reported.
 
-`Usage : ./find_glyco_pep - -fasta=[FASTA FILE] - -human=[PEPTIDE FILE]`
+`Usage : ./find_glyco_pep --fasta=[FASTA FILE] --human=[PEPTIDE FILE]`
 
 ## **Instructions**
 
-The assurance of correctness and durability, each step of data manipulation is broken down in number of steps. Each step signifies milestone whose concrete definitions are determined through appropriate research and requires solving sets of problem statements before proceeding. For instance, first milestone or step may consist of omitting blank rows and convert to tab delimited text file. Afterwards sending the progressed files to Supervisor to receive critical feedback and readjust the methodology accordingly in case of inconsistent calculations/formatting witnessed. Below are the steps or milestone established.
+* The assurance of correctness and durability, each step of data manipulation is broken down in number of steps. Each step signifies milestone whose concrete definitions are determined through appropriate research and requires solving sets of problem statements before proceeding. For instance, first milestone or step may consist of omitting blank rows and convert to tab delimited text file. Afterwards sending the progressed files to Supervisor to receive critical feedback and readjust the methodology accordingly in case of inconsistent calculations/formatting witnessed.
 
 * The pdf version of mouse publication is converted and dispersed into 34 different excel Sheets. The original intentions was to obtain files in text file format. The arousal of formatting error during conversion from pdf needs to be first corrected in excel Sheets. Excel is used to correct the inconsistent formatting which included overlapping of column entries into adjacent row proteins data. After the assurance of correction, excel sheet is converted back to 34 discrete text files\(from 34 pages pdf\)
 
@@ -70,11 +68,11 @@ The assurance of correctness and durability, each step of data manipulation is b
 
 > &lt;Identifier&gt;&lt;before residual&gt;.&lt;peptide sequence&gt;.&lt;after residual&gt;&lt;peptide start\(from\)&gt;&lt;peptide end\(to\)&gt;&lt;no of potential sites&gt;&lt;first site position&gt;&lt;second site position&gt;.
 
-* Prepare\_residual\_file.py provides the means for this particular extraction. Basically it accepts mouse publication text files and save the extracted columns in file
+* _Prepare\_residual\_file.py_ provides the means for this particular extraction. Basically it accepts mouse publication text files and save the extracted columns in file
 
 > &lt;input file&gt;\_before\_hash.txt
 
-* The peptide sequence possess two variables; peptide start and peptide end index which locates sequence’s position within overall protein sequence in FASTA file. Each peptide sequence have one or two glycoanalysis sites and the next step includes insertion of hash \(“\#”\) character in sequence at identified glycoanalysis sites. This functionality is achieved by place\_hash.py which accepts before\_hash text files. The insertion is determined through below calculation :
+* The peptide sequence possess two variables; peptide start and peptide end index which locates sequence’s position within overall protein sequence in FASTA file. Each peptide sequence have one or two glycoanalysis sites and the next step includes insertion of hash \(“\#”\) character in sequence at identified glycoanalysis sites. This functionality is achieved by _place\_hash.py _which accepts before\_hash text files. The insertion is determined through below calculation :
 
 
 $$
@@ -84,37 +82,33 @@ $$
 
 where $$i_{1}, i_{2}$$ are index for hash insert ,  $$g_{1} , g_{2}$$ are index or glyco. sites and $$p_{from}$$ peptide position \(start\)
 
-> &lt;input file&gt;\_after\_hash.txt
+> \[input file\]\_after\_hash.txt
 
-* To enhance the format, the removal of secondary identifier such as “CE22235” from “Y49E10.20 CE22235 ” is recommended because it adds one more column and causes inconsistency. The correct\_identifier.py will accept any \_after\_hash files and outputs entries less than secondary identifier.
+* To enhance the format, the removal of secondary identifier such as “CE22235” from “Y49E10.20 CE22235 ” is recommended because it adds one more column and causes inconsistency. The _correct\_identifier.py_ will accept any \_after\_hash files and outputs entries less than secondary identifier.
 
-> &lt;input file&gt;\_only\_first.txt
+> \[input file\]\_only\_first.txt
 
 * To remove complete duplicated entries and sort accordingly, write the bash script:
 
 `cat f_worm.txt_after_hash_only_first.txt | uniq | sort > f_worm_uniq_after_hash_only_first.txt`
 
-* The final output file is named with prefix “uniq” for reader convenience and can be renamed. After that, find\_glyco\_pep.cpp helps extract the position of all occurring expression $$NX(!P)S|T$$ in fasta file. The input are FASTA and \_after\_hash file.
+* The final output file is named with prefix “uniq” for reader convenience and can be renamed. After that, _find\_glyco\_pep.cpp_ helps extract the position of all occurring expression $$NX(!P)S|T$$ in fasta file. The input are FASTA and _\_after\_hash file_.
 
 > &gt;&gt; peptide.txt \(FORMAT : &lt;protein identifier&gt;&lt;List of found NX\(!P\)S\|T&gt;\)
 
-## To be continued 
+## To be continued
 
-Until now, the acquisition of mouse peptide file is successfully done which acts as output in subsequent steps to obtain Transloop results. Further documentation to continue with data processes steps will come in existence as soon as the eminent bugs are located and fixed. Following the fixation of bugs, writing of tests also forms integral part of each enclosing python codes for data analysis. 
+Until now, the acquisition of mouse peptide file is successfully done which acts as output in subsequent steps to obtain loopstat results. Further documentation to continue with data processes steps will come in existence as soon as the eminent bugs are located and fixed. Following the fixation of bugs, writing of tests also forms integral part of each enclosing python codes for data analysis.
 
 ## Contribution
 
-Please feel independent to contribute the source code in order to achieve effciency, robustness and overall durability. Many python modules requires refractoring for the purpose of for instance speeding up search algorithm. In addition, more testing modules can be added to supporting python framework for unittesting.  
+Please feel independent to contribute the source code in order to achieve efficiency, robustness and overall durability. Many python modules requires refractoring for the purpose of for instance speeding up search algorithm. In addition, more testing modules can be added to supporting python framework for unittesting.
 
-## Citations/References 
+## Citations/References
 
-\[1\].[ Sun lab Research Page](http://www.sfu.ca/chemistry/groups/bingyun_sun/research.html)
+\[1\].[Sun lab Research Page](http://www.sfu.ca/chemistry/groups/bingyun_sun/research.html)
 
-\[2\]. [Gitbook.com](/www.gitbook.com) used for documentation
+\[2\].[Gitbook.com](/www.gitbook.com) used for documentation
 
-
-
-
-
-
+\[3\][ BIOPYTHON](http://bipython.org/) for additional  bioinformatics data manipulation tools
 
