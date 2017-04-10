@@ -47,6 +47,9 @@ The standardized glyco data for indexed species can be found in online BASIC \(B
 Again the definitions of these biological variables are not in scope of consideration unless their applicability arises.
 
 Glyco FASTA file and Mouse publication becomes the 
+**Find\_glyco\_pep**\(.cpp\): This C++ program finds the occurring sequence![](file:///C:/Users/pprithip/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)where first character is N, second is anything except P and last is either S or T. The FASTA sequence is used as search source and all instances with respective positions of above combinations are reported.
+
+&gt;&gt; \(Usage\) Usage : ./find\_glyco\_pep - -fasta=\[FASTA FILE\] - -human=\[peptide file\]
 
 ## **Instructions**
 
