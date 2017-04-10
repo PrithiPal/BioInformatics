@@ -98,7 +98,19 @@ where $$i_{1}, i_{2}$$ are index for hash insert ,  $$g_{1} , g_{2}$$ are index 
 
 > &gt;&gt; peptide.txt \(FORMAT : &lt;protein identifier&gt;&lt;List of found NX\(!P\)S\|T&gt;\)
 
+## To be continued 
 
+Until now, the acquisition of mouse peptide file is successfully done which acts as output in subsequent steps to obtain Transloop results. Further documentation to continue with data processes steps will come in existence as soon as the eminent bugs are located and fixed. Following the fixation of bugs, writing of tests also forms integral part of each enclosing python codes for data analysis. 
+
+## Contribution
+
+Please feel independent to contribute the source code in order to achieve effciency, robustness and overall durability. Many python modules requires refractoring for the purpose of for instance speeding up search algorithm. In addition, more testing modules can be added to supporting python framework for unittesting.  
+
+## Citations/References 
+
+\[1\].[ Sun lab Research Page](http://www.sfu.ca/chemistry/groups/bingyun_sun/research.html)
+
+\[2\]. [Gitbook.com](/www.gitbook.com) used for documentation
 
 
 
