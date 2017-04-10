@@ -51,3 +51,56 @@ Glyco FASTA file and Mouse publication becomes the
 ## **Instructions**
 
 The assurance of correctness and durability, each step of data manipulation is broken down in number of steps. Each step signifies milestone whose concrete definitions are determined through appropriate research and requires solving sets of problem statements before proceeding. For instance, first milestone or step may consist of omitting blank rows and convert to tab delimited text file. Afterwards sending the progressed files to Supervisor to receive critical feedback and readjust the methodology accordingly in case of inconsistent calculations/formatting witnessed. Below are the steps or milestone established:
+
+
+-1. Refering to desktop/20161012/worm\_test directory, peptide files folder contains the splitted information about the peptide proteins\(34 files\).
+
+
+
+
+
+**1.T**he pdf version of mouse publication is converted and dispersed into 34 different excel Sheets. The original intentions was to obtain files in text file format. The arousal of formatting error during conversion from pdf needs to be first corrected in excel Sheets. Excel is used to correct the inconsistent formatting which included overlapping of column entries into adjacent row proteins data. After the assurance of correction, excel sheet is converted back to 34 discrete text files\(from 34 pages pdf\).
+
+peptide files \(pdf\) ----&gt; peptide files xl \(excel format\) --after correction --&gt; txt\_files
+
+
+
+1. The txt\_files contains the files \(fi.txt for i=\(1..34\)\) which are the .txt versions for the s1 worm publication. So, the format.txt file tells the format for each file \(usually identifier = 1; before residual = 6; sequence = 7; after residual = 9\)
+
+2. Now, the extraction of certain columns from corresponding text file is done. The reason for it would be clear in later steps where the extracted information for each protein identifier is utilized. The format is 
+
+&gt;&gt; \(format\) &lt;Identifier&gt;&lt;before residual&gt;.&lt;peptide sequence&gt;.&lt;after residual&gt;&lt;peptide start\(from\)&gt;&lt;peptide end\(to\)&gt;&lt;no of potential sites&gt;&lt;first site position&gt;&lt;second site position&gt;.
+
+Prepare\_residual\_file.py provides the means for this particular extraction. Basically it accepts mouse publication text files and save the extracted columns in file
+
+&gt;&gt; \(filename format\) &lt;input file&gt;\_before\_hash.txt
+
+3 The peptide sequence possess two variables; peptide start and peptide end index which locates sequence’s position within overall protein sequence in FASTA file. Each peptide sequence have one or two glycoanalysis sites and the next step includes insertion of hash \(“\#”\) character in sequence at identified glycoanalysis sites. This functionality is achieved by place\_hash.py which accepts before\_hash text files. The insertion is determined through below calculation :
+
+&gt;&gt; \(maths format\)
+
+![](file:///C:/Users/pprithip/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+
+![](file:///C:/Users/pprithip/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+
+![](file:///C:/Users/pprithip/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+
+Output is &lt;input file&gt;\)\_after\_hash.txt
+
+
+
+4 To enhance the format, the removal of secondary identifier such as “CE22235” from “Y49E10.20 CE22235 ” is recommended because it adds one more column and causes inconsistency. The correct\_identifier.py will accept any \_after\_hash files and outputs entries less than secondary identifier. 
+
+Output is &lt;input file&gt;\_only\_first.txt
+
+
+
+5. To remove complete duplicated entries and sort accordingly, write the bash script:
+
+&gt;&gt;\(bash code\)
+
+ cat f\_worm.txt\_after\_hash\_only\_first.txt \| uniq \| sort &gt; f\_worm\_uniq\_after\_hash\_only\_first.txt
+
+The final output file is named with prefix “uniq” for reader convenience and can be renamed. After that, find\_glyco\_pep.cpp helps extract the position of all occurring expression![](file:///C:/Users/pprithip/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)in fasta file. The input are FASTA and \_after\_hash file.
+
+&gt;&gt; \(Output\) peptide file \(FORMAT : &lt;protein identifier&gt;&lt;List of found![](file:///C:/Users/pprithip/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)&gt;\)
