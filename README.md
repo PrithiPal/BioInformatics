@@ -2,8 +2,8 @@
 
 ### Preview
 
-Glycoanalysis is the compilation of Stastics after obtaining the final Loopstat outputs.It employs use of FirstLoopstat output to produce appropriate stastics.   
-Below is the given format required for the presentation of statistics\(One Table for each species\) :
+Glycoanalysis is the compilation of Stastics after obtaining the final Loopstat outputs.It employs use of FirstLoopstat output to produce appropriate stastics.  
+Below is the given format required for the presentation of statistics\(One Table for each species\) 
 
 ### ![](/assets/table.jpg)
 
