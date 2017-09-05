@@ -1,0 +1,132 @@
+---------------------------------------------
+Both Glyco Domain 
+
+Total Count = 3
+
+Average Length = 278.333
+
+Average First Domain Length = 220.333
+
+Average First Domain In = 220.333
+
+---------------------------------------------
+---------------------------------------------
+None Glyco Domain
+
+Total Count = 210
+
+Average Length = 657.5
+
+Average First Domain Length = 66.181
+
+Average First Domain In = 30.3145
+
+Average First Domain Out = 181.56
+
+Average Last Domain Length = 43.9043
+
+Average Last Domain In = 57.9375
+
+Average Last Domain Out = 32.2679
+
+FD/LENGTH = 10.0655
+
+LD/LENGTH = 6.67746
+
+---------------------------------------------
+---------------------------------------------
+ Non- Glycosylation :  
+
+Total Count = 383
+
+Average Length = 0.979112
+
+Average First Domain Length = 320.935
+
+Average First Domain In = 374.637
+
+Average First Domain Out = 149.889
+
+Average Last Domain Length = 0
+
+Average Last Domain In = 292.413
+
+Average Last Domain Out = 0
+
+FD/LENGTH = 32778.1
+
+LD/LENGTH = 0
+
+---------------------------------------------
+---------------------------------------------
+Only First Glyco Domain 
+
+Total Count = 155
+
+Average Length = 790.265
+
+Average First Domain Length = 621.439
+
+Average First Domain In = 250
+
+Average First Domain Out = 630.414
+
+Average Last Domain Length = 89.529
+
+Average Last Domain In = 92.7517
+
+Average Last Domain Out = 47.5556
+
+FD/LENGTH = 78.6368
+
+LD/LENGTH = 11.329
+
+---------------------------------------------
+---------------------------------------------
+Only Last Glyco Domain 
+
+Total Count = 12
+
+Average Length = 374.417
+
+Average First Domain Length = 92.6667
+
+Average First Domain In = 97.5
+
+Average First Domain Out = 101.889
+
+Average Last Domain Length = 156.667
+
+Average Last Domain In = 166.6
+
+Average Last Domain Out = 214
+
+FD/LENGTH = 24.7496
+
+LD/LENGTH = 41.8429
+
+---------------------------------------------
+---------------------------------------------
+Overall Glyco Domain
+
+Total Count = 383
+
+Average Length = 694.24
+
+Average First Domain Length = 292.413
+
+Average First Domain In = 36.5444
+
+Average First Domain Out = 494.477
+
+Average Last Domain Length = 67
+
+Average Last Domain In = 81.4055
+
+Average Last Domain Out = 38.4141
+
+FD/LENGTH = 42.1198
+
+LD/LENGTH = 9.65084
+
+---------------------------------------------

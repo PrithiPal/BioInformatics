@@ -1,0 +1,384 @@
+ID	Description	Protein Length	TMHMM Topology	Loop Length Info	List of Sequons and Locations
+IPI00621410	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4931440N24 product:prominin, full insert sequence	858	o99-121i149-171o426-448i469-491o784-806i	o(1-99=99) i(121-149=29) o(171-426=256) i(448-469=22) o(491-784=294) i(806-858=53)	NMS(264)/o 
+IPI00120245	Integrin alpha-V	1044	o990-1012i	o(1-990=990) i(1012-1044=33)	NVS(615)/o NTT(74)/o 
+IPI00469426	137 kDa protei	1350	o987-1009i	o(1-987=987) i(1009-1350=342)	NST(379)/o NGT(310)/o NTT(650)/o NCT(780)/o NGS(549)/o 
+IPI00465769	Solute carrier family 12 member 	1115	o98-120i133-155o165-187i192-214o229-248i255-275o396-418i439-461o481-503i535-554o558-577i598-620o	o(1-98=98) i(120-133=14) o(155-165=11) i(187-192=6) o(214-229=16) i(248-255=8) o(275-396=122) i(418-439=22) o(461-481=21) i(503-535=33) o(554-558=5) i(577-598=22) o(620-1115=0)	NET(310)/o NVT(339)/o NAT(328)/o 
+IPI00271927	"Adult male spleen cDNA, RIKEN full-length enriched library, clone:0910001F14 product:complement receptor 2, full insert sequence	1032	o975-997i	o(1-975=975) i(997-1032=36)	NGS(285)/o NCS(910)/o NKT(86)/o 
+IPI00648237	Itga3 protei	1022	o963-985i	o(1-963=963) i(985-1022=38)	NST(906)/o NRT(55)/o 
+IPI00136594	CD	1250	o962-984i	o(1-962=962) i(984-1250=267)	NYS(286)/o NKS(293)/o 
+IPI00406204	PREDICTED: G protein-coupled receptor 11	1286	o954-973i993-1015o1035-1057i1069-1091o1111-1133i1154-1176o1186-1208i	o(1-954=954) i(973-993=21) o(1015-1035=21) i(1057-1069=13) o(1091-1111=21) i(1133-1154=22) o(1176-1186=11) i(1208-1286=79)	NET(168)/o NLT(101)/o NTS(64)/o 
+IPI00225405	"10 days lactation, adult female mammary gland cDNA, RIKEN full-length enriched library, clone:D730009J23 product:SODIUM/HYDROGEN EXCHANGER 4	797	o94-116i129-148o158-180i193-215o225-247i268-290o305-327i385-407o422-444i451-473o	o(1-94=94) i(116-129=14) o(148-158=11) i(180-193=14) o(215-225=11) i(247-268=22) o(290-305=16) i(327-385=59) o(407-422=16) i(444-451=8) o(473-797=22)	NES(31)/o NPT(35)/o 
+IPI00120225	Insulin-like growth factor 1 receptor	1373	o937-959i	o(1-937=937) i(959-1373=415)	NST(314)/o NTT(748)/o 
+IPI00406609	Receptor-type tyrosine-protein phosphatase eta	1299	o894-916i	o(1-894=894) i(916-1299=384)	NGT(164)/o 
+IPI00341098	Calcium activated chloride channe	925	o890-912i	o(1-890=890) i(912-925=14)	NFT(544)/o 
+IPI00651893	"Adult male cecum cDNA, RIKEN full-length enriched library, clone:9130019N24 product:similar to Calcium-activated chloride channel protein 2	925	o890-912i	o(1-890=890) i(912-925=14)	NFT(544)/o 
+IPI00128454	Seizure related 6 homolo	923	o858-880i	o(1-858=858) i(880-923=44)	NSS(247)/o 
+IPI00453778	"Mammary gland RCB-0526 Jyg-MC(A) cDNA, RIKEN full-length enriched library, clone:G830037C08 product:MEGF10 protein (Hypothetical protein KIAA1780) homolog	1147	o856-878i	o(1-856=856) i(878-1147=270)	NGT(678)/o 
+IPI00134013	Heme carrier protein 	459	o85-107i114-136o146-168i181-203o213-231i266-288o303-325i338-360o389-411i424-443o	o(1-85=85) i(107-114=8) o(136-146=11) i(168-181=14) o(203-213=11) i(231-266=36) o(288-303=16) i(325-338=14) o(360-389=30) i(411-424=14) o(443-459=22)	NGT(58)/o 
+IPI00464151	"16 days embryo head cDNA, RIKEN full-length enriched library, clone:C130073M18 product:UNKNOWN (PROTEIN FOR MGC:11927) homolog	1018	o845-867i	o(1-845=845) i(867-1018=152)	NSS(67)/o 
+IPI00119299	Splice Isoform 1 of Leukemia inhibitory factor receptor	1092	o830-852i	o(1-830=830) i(852-1092=241)	NFT(402)/o NST(675)/o NET(385)/o NMT(647)/o NMT(261)/o 
+IPI00154057	Protocadherin 	1038	o830-852i	o(1-830=830) i(852-1038=187)	NTS(698)/o 
+IPI00312063	Low-density lipoprotein receptor	864	o790-812i	o(1-790=790) i(812-864=53)	NVT(273)/o 
+IPI00129960	Cadherin-16	830	o788-810i	o(1-788=788) i(810-830=21)	NLS(519)/o 
+IPI00109213	Sodium/calcium exchanger 1	970	o75-93i131-153o168-187i200-218o233-255i794-816o831-853i873-892o902-924i945-967o	o(1-75=75) i(93-131=39) o(153-168=16) i(187-200=14) o(218-233=16) i(255-794=540) o(816-831=16) i(853-873=21) o(892-902=11) i(924-945=22) o(967-970=13)	NET(41)/o 
+IPI00420955	Sortilin 	825	o754-776i	o(1-754=754) i(776-825=50)	NNT(160)/o 
+IPI00153202	Splice Isoform 1 of Angiotensin-converting enzyme 2	805	o740-762i	o(1-740=740) i(762-805=44)	NQT(660)/o NST(546)/o 
+IPI00111366	Splice Isoform 1 of Tumor necrosis factor receptor superfamily member 13	175	o73-95i	o(1-73=73) i(95-175=81)	NQT(23)/o 
+IPI00114274	Semaphorin-4D	861	o733-755i	o(1-733=733) i(755-861=107)	NYT(379)/o 
+IPI00132474	Integrin beta-1	798	o729-751i	o(1-729=729) i(751-798=48)	NSS(520)/o NCT(212)/o NLT(669)/o 
+IPI00122971	"Splice Isoform N-CAM 180 of Neural cell adhesion molecule 1, 180 kDa isoform 	1115	o706-728i735-757o	o(1-706=706) i(728-735=8) o(757-1115=8)	NCT(479)/o 
+IPI00126500	Splice Isoform A of Anion exchange protein 	1237	o705-727i748-770o790-812i821-843o897-914i927-946o984-1006i1027-1049o1109-1131i1159-1178o1183-1200i	o(1-705=705) i(727-748=22) o(770-790=21) i(812-821=10) o(843-897=55) i(914-927=14) o(946-984=39) i(1006-1027=22) o(1049-1109=61) i(1131-1159=29) o(1178-1183=6) i(1200-1237=38)	NSS(878)/o 
+IPI00320605	Integrin beta-2	771	o703-725i	o(1-703=703) i(725-771=47)	NVT(117)/o NFT(51)/o 
+IPI00117413	Splice Isoform 1 of B-cell receptor CD22	862	o703-720i	o(1-703=703) i(720-862=143)	NDS(116)/o NSS(460)/o NNS(265)/o 
+IPI00653571	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330077N24 product:vascular cell adhesion molecule 1, full insert sequence	739	o699-721i	o(1-699=699) i(721-739=19)	NCT(424)/o NTT(225)/o NLT(531)/o 
+IPI00138209	Splice Isoform 2A of Desmocollin-2	902	o696-718i	o(1-696=696) i(718-902=185)	NYT(392)/o 
+IPI00222589	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930032O19 product:PTK7 protein tyrosine kinase 7, full insert sequence	1062	o696-718i	o(1-696=696) i(718-1062=345)	NVT(98)/o 
+IPI00461440	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4921511K13 product:a disintegrin and metalloprotease domain 5, full insert sequence	771	o695-712i	o(1-695=695) i(712-771=60)	NLS(557)/o 
+IPI00129613	Protocadherin gamma C	934	o693-715i	o(1-693=693) i(715-934=220)	NQS(245)/o 
+IPI00378162	ADAM 2	735	o687-709i	o(1-687=687) i(709-735=27)	NCS(359)/o 
+IPI00117161	Zona pellucida sperm-binding protein 2	713	o684-703i	o(1-684=684) i(703-713=11)	NSS(393)/o 
+IPI00131881	ADAM 10	749	o675-697i	o(1-675=675) i(697-749=53)	NFT(552)/o NTT(279)/o 
+IPI00126232	Splice Isoform 1 of Meprin A beta-subunit	704	o658-680i	o(1-658=658) i(680-704=25)	NTS(316)/o NGT(548)/o NGT(219)/o 
+IPI00357770	PREDICTED: v-erb-a erythroblastic leukemia viral oncogene homolog 	1308	o653-675i780-799o	o(1-653=653) i(675-780=106) o(799-1308=6)	NET(754)/i 
+IPI00122411	EGF-like module containing mucin-like hormone receptor-like 1	931	o649-671i684-701o716-738i755-777o797-819i840-860o870-892i	o(1-649=649) i(671-684=14) o(701-716=16) i(738-755=18) o(777-797=21) i(819-840=22) o(860-870=11) i(892-931=40)	NES(498)/o 
+IPI00121190	Epidermal growth factor receptor	1210	o648-670i775-797o	o(1-648=648) i(670-775=106) o(797-1210=8)	NIT(568)/o NMS(175)/o 
+IPI00310059	Polymeric-immunoglobulin receptor	771	o646-668i	o(1-646=646) i(668-771=104)	NQS(170)/o 
+IPI00314132	Splice Isoform 1 of Mucin and cadherin-like protein	831	o640-662i	o(1-640=640) i(662-831=170)	NTT(143)/o NSS(408)/o 
+IPI00343568	CD180 antigen	661	o628-650i	o(1-628=628) i(650-661=12)	NLS(394)/o NLS(402)/o NLT(78)/o 
+IPI00115793	Desmoglein-2	1122	o618-640i	o(1-618=618) i(640-1122=483)	NGT(467)/o 
+IPI00406901	"16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130026C24 product:platelet/endothelial cell adhesion molecule, full insert sequence	732	o592-614i	o(1-592=592) i(614-732=119)	NGT(424)/o NFS(360)/o NVT(74)/o 
+IPI00470960	"Glutamate receptor, metabotropic 4	832	o590-612i625-644o654-671i698-720o751-773i786-808o	o(1-590=590) i(612-625=14) o(644-654=11) i(671-698=28) o(720-751=32) i(773-786=14) o(808-832=20)	NIT(98)/o 
+IPI00321348	"ImmunoglobulIn superfamIly, member 8	611	o578-600i	o(1-578=578) i(600-611=12)	NYS(137)/o NVS(325)/o 
+IPI00123966	Potassium voltage-gated channel subfamily E member 	103	o57-79i	o(1-57=57) i(79-103=25)	NQT(41)/o 
+IPI00381059	Leucine rich repeat containing 4	709	o573-595i	o(1-573=573) i(595-709=115)	NGT(402)/o 
+IPI00108764	C-X-C chemokine receptor type 	374	o56-78i91-113o128-147i168-190o222-244i264-286o301-323i	o(1-56=56) i(78-91=14) o(113-128=16) i(147-168=22) o(190-222=33) i(244-264=21) o(286-301=16) i(323-374=52)	NDS(198)/o 
+IPI00461132	Leucocyte common antige	1291	o565-586i828-850o	o(1-565=565) i(586-828=243) o(850-1291=14)	NIS(311)/o NNT(322)/o NYT(347)/o 
+IPI00469123	Melanoma cell adhesion molecul	648	o562-584i	o(1-562=562) i(584-648=65)	NFS(58)/o 
+IPI00118385	Splice Isoform 1 of Glutamate [NMDA] receptor subunit zeta 1	938	o561-580i635-657o815-837i	o(1-561=561) i(580-635=56) o(657-815=159) i(837-938=102)	NYS(350)/o NGT(368)/o NDT(440)/o 
+IPI00125851	Chloride channel protein 	746	o55-77i133-155o160-182i189-208o212-229i242-264o314-336i355-372o425-447i454-471o491-513i520-542o	o(1-55=55) i(77-133=57) o(155-160=6) i(182-189=8) o(208-212=5) i(229-242=14) o(264-314=51) i(336-355=20) o(372-425=54) i(447-454=8) o(471-491=21) i(513-520=8) o(542-746=47)	NTS(408)/o 
+IPI00134200	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930471K13 product:hypothetical RNI-like structure containing protein, full insert sequence	614	o554-576i	o(1-554=554) i(576-614=39)	NLT(138)/o NST(536)/o 
+IPI00122257	5'-nucleotidase	576	o553-575i	o(1-553=553) i(575-576=2)	NYS(335)/o 
+IPI00131472	Splice Isoform Flip of Glutamate receptor 3	888	o545-567i630-652o820-842i	o(1-545=545) i(567-630=64) o(652-820=169) i(842-888=47)	NIT(260)/o 
+IPI00279010	Lu protei	650	o541-563i	o(1-541=541) i(563-650=88)	NQS(323)/o NSS(370)/o NCS(377)/o 
+IPI00131526	Splice Isoform 1 of CD209 antigen-like protein 	325	o53-75i	o(1-53=53) i(75-325=251)	NES(141)/i NES(112)/i 
+IPI00330539	Splice Isoform 1 of Kin of IRRE-like protein 1	789	o529-551i	o(1-529=529) i(551-789=239)	NLT(172)/o 
+IPI00121378	CD166 antigen	583	o528-550i	o(1-528=528) i(550-583=34)	NYT(95)/o NIT(167)/o NIT(265)/o NVS(499)/o NVT(480)/o 
+IPI00229083	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530002K18 product:hypothetical Kazal-type serine protease inhibitor domain containing protein, full insert sequence	90	o5-27i	o(1-5=5) i(27-90=64)	NCT(38)/i 
+IPI00131641	LOC237403 protei	589	o526-548i	o(1-526=526) i(548-589=42)	NET(509)/o 
+IPI00475157	Serpina1b protei	413	o5-24i66-88o	o(1-5=5) i(24-66=43) o(88-413=2)	NAS(265)/o 
+IPI00131622	Prion-like protein doppel	179	o5-24i156-178o	o(1-5=5) i(24-156=133) o(178-179=22)	NAT(111)/i 
+IPI00112105	Cystatin-related epididymal spermatogenic protein	142	o5-22i	o(1-5=5) i(22-142=121)	NNT(100)/i 
+IPI00126092	Splice Isoform 2 of Leukocyte common antigen	1248	o522-543i785-807o	o(1-522=522) i(543-785=243) o(807-1248=21)	NVT(446)/o NVT(384)/o 
+IPI00129423	Thrombomodulin	577	o519-541i	o(1-519=519) i(541-577=37)	NHT(113)/o 
+IPI00387418	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830033I22 product:glycoprotein 5 (platelet), full insert sequence	567	o519-541i	o(1-519=519) i(541-567=27)	NLT(181)/o NGT(298)/o NLT(51)/o 
+IPI00395031	"Adult pancreas islet cells cDNA, RIKEN full-length enriched library, clone:C820003N21 product:similar to DJ5O6.2	425	o51-73i93-115o130-152i192-209o224-246i258-280o305-327i	o(1-51=51) i(73-93=21) o(115-130=16) i(152-192=41) o(209-224=16) i(246-258=13) o(280-305=26) i(327-425=99)	NGS(43)/o 
+IPI00276515	Splice Isoform L-MAG of Myelin-associated glycoprotein	627	o511-533i	o(1-511=511) i(533-627=95)	NVT(450)/o NET(454)/o 
+IPI00112322	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030614P22 product:UDP-glucuronosyltransferase 2 family, member 5, full insert sequence	541	o506-528i	o(1-506=506) i(528-541=14)	NMT(327)/o 
+IPI00311808	Transmembrane glycoprotein NMB	574	o500-522i	o(1-500=500) i(522-574=53)	NDS(275)/o NLS(249)/o 
+IPI00463764	"6 days neonate spleen cDNA, RIKEN full-length enriched library, clone:F430112M20 product:Hypothetical protein (Hypothetical UDP- glucoronosyl and UDP-glucosyl transferase containing protein), full insert sequence	523	o488-510i	o(1-488=488) i(510-523=14)	NVT(52)/o 
+IPI00122973	Splice Isoform 1 of Intercellular adhesion molecule 1	537	o486-508i	o(1-486=486) i(508-537=30)	NCS(47)/o NVS(204)/o 
+IPI00318395	Potassium voltage-gated channel subfamily E member 	123	o47-69i	o(1-47=47) i(69-123=55)	NTT(29)/o 
+IPI00338202	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430024D23 product:putative homeodomain transcription factor, full insert sequence	708	o470-492i557-579o594-611i	o(1-470=470) i(492-557=66) o(579-594=16) i(611-708=98)	NIT(679)/i 
+IPI00129646	T-lymphocyte surface antigen Ly-9	654	o455-474i	o(1-455=455) i(474-654=181)	NLT(120)/o 
+IPI00120882	Natural killer cell surface protein P1-3	223	o44-66i	o(1-44=44) i(66-223=158)	NGS(186)/i 
+IPI00312509	Tyrosine-protein kinase receptor UFO	888	o444-466i	o(1-444=444) i(466-888=423)	NIT(37)/o 
+IPI00119063	AM2 recepto	4545	o4423-4445i	o(1-4423=4423) i(4445-4545=101)	NNT(3663)/o NIS(3954)/o NRT(1559)/o NIS(1724)/o NHT(1734)/o NDT(2473)/o NGT(4076)/o NYT(3049)/o NCT(4365)/o NAT(2128)/o NST(447)/o NGS(3090)/o NGT(730)/o NAS(3789)/o 
+IPI00123957	Cd97 protei	724	o441-463i470-489o511-533i545-562o582-604i625-647o657-679i	o(1-441=441) i(463-470=8) o(489-511=23) i(533-545=13) o(562-582=21) i(604-625=22) o(647-657=11) i(679-724=46)	NYT(205)/o NGS(301)/o 
+IPI00126146	Splice Isoform 2 of Tyrosine-protein kinase receptor TYRO3	894	o433-455i	o(1-433=433) i(455-894=440)	NVT(195)/o 
+IPI00111163	Ectonucleotide pyrophosphatase/phosphodiesterase 5	477	o430-452i	o(1-430=430) i(452-477=26)	NLT(292)/o 
+IPI00113001	Putative taste receptor type 2 member 4	293	o4-26i47-69o79-101i128-150o182-204i232-249o259-281i	o(1-4=4) i(26-47=22) o(69-79=11) i(101-128=28) o(150-182=33) i(204-232=29) o(249-259=11) i(281-293=13)	NRT(38)/i 
+IPI00129923	Protein FAM3D	223	o4-26i	o(1-4=4) i(26-223=198)	NGS(106)/i 
+IPI00108535	Splice Isoform Long of Carcinoembryonic antigen-related cell adhesion molecule 1	521	o426-448i	o(1-426=426) i(448-521=74)	NGS(104)/o NIT(317)/o NTT(333)/o 
+IPI00454159	Splice Isoform 1 of Chondroitin sulfate proteoglycan 5	566	o421-443i	o(1-421=421) i(443-566=124)	NGT(355)/o 
+IPI00225072	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830227L19 product:ectonucleotide pyrophosphatase/phosphodiesterase 4, full insert sequence	456	o408-430i	o(1-408=408) i(430-456=27)	NYS(262)/o NVT(279)/o 
+IPI00321919	G-protein coupled receptor 56	687	o406-428i441-463o473-495i508-530o569-591i603-625o631-653i	o(1-406=406) i(428-441=14) o(463-473=11) i(495-508=14) o(530-569=40) i(591-603=13) o(625-631=7) i(653-687=35)	NAS(171)/o NLS(324)/o 
+IPI00322447	RA17	456	o388-410i	o(1-388=388) i(410-456=47)	NFS(104)/o NKT(307)/o 
+IPI00119525	Histamine H3 recepto	445	o38-60i72-94o109-128i156-178o198-220i360-382o397-419i	o(1-38=38) i(60-72=13) o(94-109=16) i(128-156=29) o(178-198=21) i(220-360=141) o(382-397=16) i(419-445=27)	NAS(11)/o 
+IPI00153343	Potassium voltage-gated channel subfamily C member 	628	o384-406i427-444o454-476i	o(1-384=384) i(406-427=22) o(444-454=11) i(476-628=153)	NIT(269)/o 
+IPI00263505	Splice Isoform 1 of Sad1/unc-84 protein-like 	913	o384-406i413-435o	o(1-384=384) i(406-413=8) o(435-913=31)	NIS(834)/o 
+IPI00134549	Splice Isoform LAMP-2A of Lysosome-associated membrane glycoprotein 2	415	o383-405i	o(1-383=383) i(405-415=11)	NLT(29)/o NFT(265)/o 
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1	513	o374-396i	o(1-374=374) i(396-513=118)	NVS(293)/o NDT(297)/o NHT(345)/o NVT(110)/o NVS(205)/o NIS(209)/o NLS(246)/o NLT(271)/o NYT(312)/o NSS(320)/o 
+IPI00469218	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200007I01 product:lysosomal membrane glycoprotein 1, full insert sequence	407	o374-396i	o(1-374=374) i(396-407=12)	NVS(79)/o NLS(116)/o NVT(160)/o NIS(249)/o NDT(253)/o NMT(297)/o NHS(312)/o 
+IPI00459432	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830015H17 product:Kidney predominant protein (RIKEN cDNA 0610031J06 gene), full insert sequence	404	o370-392i	o(1-370=370) i(392-404=13)	NHS(228)/o NAS(133)/o NGS(185)/o 
+IPI00227826	Cell adhesion molecule nectin-3 bet	510	o368-390i	o(1-368=368) i(390-510=121)	NET(186)/o 
+IPI00653610	"Adult male diencephalon cDNA, RIKEN full-length enriched library, clone:9330011K09 product:Interleukin-1 receptor accessory protein (IL- 1 receptor accessory protein) (IL-1RAcP) homolog	640	o360-382i	o(1-360=360) i(382-640=259)	NDT(107)/o NYT(111)/o 
+IPI00128628	Sphingosine 1-phosphate receptor Edg-	352	o35-57i69-91o106-128i148-170o193-215i228-250o270-287i	o(1-35=35) i(57-69=13) o(91-106=16) i(128-148=21) o(170-193=24) i(215-228=14) o(250-270=21) i(287-352=66)	NYT(19)/o 
+IPI00121627	"B16 F10Y cells cDNA, RIKEN full-length enriched library, clone:G370012H18 product:cleft lip and palate associated transmembrane protein 1, full insert sequence	664	o355-377i390-412o417-434i478-497o507-529i	o(1-355=355) i(377-390=14) o(412-417=6) i(434-478=45) o(497-507=11) i(529-664=136)	NES(295)/o 
+IPI00109375	Splice Isoform Beta of Poliovirus receptor related protein 2	530	o351-373i	o(1-351=351) i(373-530=158)	NYT(128)/o NGT(138)/o NTT(315)/o 
+IPI00606550	"Ig gamma-2B chain C region, membrane-bound form	404	o351-373i	o(1-351=351) i(373-404=32)	NST(185)/o 
+IPI00131116	EGF-like module containing mucin-like hormone receptor-like 4	689	o349-371i378-400o415-437i458-475o498-520i541-563o573-595i	o(1-349=349) i(371-378=8) o(400-415=16) i(437-458=22) o(475-498=24) i(520-541=22) o(563-573=11) i(595-689=95)	NNT(203)/o 
+IPI00410985	Nectin-like molecule 	417	o349-371i	o(1-349=349) i(371-417=47)	NVS(116)/o 
+IPI00177179	"10 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:6530403D23 product:SIMILAR TO TUMOR-ASSOCIATED ANTIGEN 1 homolog	408	o348-370i	o(1-348=348) i(370-408=39)	NGS(184)/o 
+IPI00113350	Cannabinoid receptor 	347	o34-59i72-94o104-126i150-172o192-214i247-269o279-301i	o(1-34=34) i(59-72=14) o(94-104=11) i(126-150=25) o(172-192=21) i(214-247=34) o(269-279=11) i(301-347=47)	NGS(11)/o 
+IPI00308213	"Ig gamma-1 chain C region, membrane-bound form	393	o340-362i	o(1-340=340) i(362-393=32)	NST(174)/o 
+IPI00453537	"10 days neonate cortex cDNA, RIKEN full-length enriched library, clone:A830029E02 product:weakly similar to BK134P22.1	404	o336-358i	o(1-336=336) i(358-404=47)	NAT(220)/o NKT(296)/o NGT(300)/o NTS(60)/o 
+IPI00469000	Zinc transporter SLC39A6	765	o334-356i363-385o435-454i667-689o694-713i733-755o	o(1-334=334) i(356-363=8) o(385-435=51) i(454-667=214) o(689-694=6) i(713-733=21) o(755-765=133)	NTT(275)/o NDS(68)/o 
+IPI00318993	L-selectin	387	o333-355i	o(1-333=333) i(355-387=33)	NCS(226)/o NCS(288)/o 
+IPI00118020	Nectin-like protein 	396	o327-349i	o(1-327=327) i(349-396=48)	NKS(288)/o 
+IPI00124987	Granulocyte-macrophage colony-stimulating factor receptor alpha chain	388	o326-348i	o(1-326=326) i(348-388=41)	NST(165)/o 
+IPI00127674	Olfactory receptor MOR264-	314	o32-54i67-89o104-126i202-224o244-266i279-298o	o(1-32=32) i(54-67=14) o(89-104=16) i(126-202=77) o(224-244=21) i(266-279=14) o(298-314=17)	NTS(48)/m 
+IPI00153840	Membrane glycoprotei	388	o324-346i	o(1-324=324) i(346-388=43)	NGT(67)/o NGT(286)/o 
+IPI00623136	Brain epsilon-sarcoglyca	451	o317-339i	o(1-317=317) i(339-451=113)	NIT(200)/o 
+IPI00652675	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K230301B18 product:limbic system-associated membrane protein, full insert sequence	338	o313-335i	o(1-313=313) i(335-338=4)	NAS(300)/o 
+IPI00380296	O-acetyltransferas	797	o311-333i361-383o396-415i436-458o485-507i514-536o546-568i605-624o639-658i695-717o727-749i770-792o	o(1-311=311) i(333-361=29) o(383-396=14) i(415-436=22) o(458-485=28) i(507-514=8) o(536-546=11) i(568-605=38) o(624-639=16) i(658-695=38) o(717-727=11) i(749-770=22) o(792-797=8)	NGS(175)/o 
+IPI00474787	"MRNA, . 	362	o308-330i	o(1-308=308) i(330-362=33)	NQS(110)/o 
+IPI00378224	Disulfide isomeras	344	o305-324i	o(1-305=305) i(324-344=21)	NVT(165)/o NFT(171)/o 
+IPI00110325	Lysophosphatidic acid receptor Edg-	354	o30-52i65-87o102-124i145-167o187-209i240-262o277-295i	o(1-30=30) i(52-65=14) o(87-102=16) i(124-145=22) o(167-187=21) i(209-240=32) o(262-277=16) i(295-354=60)	NRS(15)/o 
+IPI00136348	Histamine H1 recepto	488	o30-52i64-86o101-123i144-166o192-214i418-440o450-472i	o(1-30=30) i(52-64=13) o(86-101=16) i(123-144=22) o(166-192=27) i(214-418=205) o(440-450=11) i(472-488=17)	NTS(5)/o 
+IPI00320065	T-cell surface glycoprotein CD1d1	336	o304-326i	o(1-304=304) i(326-336=11)	NDT(183)/o 
+IPI00408895	Trans-Golgi network integral membrane protein 1	353	o300-319i	o(1-300=300) i(319-353=35)	NET(110)/o 
+IPI00321222	DAMP-1 protei	172	o29-51i	o(1-29=29) i(51-172=122)	NTT(70)/i 
+IPI00169554	Sodium/glucose cotransporter KST	673	o29-46i66-88o103-125i145-167o177-199i206-228o269-286i307-329o375-397i418-440o450-472i479-501o521-543i653-672o	o(1-29=29) i(46-66=21) o(88-103=16) i(125-145=21) o(167-177=11) i(199-206=8) o(228-269=42) i(286-307=22) o(329-375=47) i(397-418=22) o(440-450=11) i(472-479=8) o(501-521=21) i(543-653=111) o(672-673=64)	NSS(247)/o 
+IPI00229839	Splice Isoform 1 of SID1 transmembrane family member 2	832	o293-315i448-470o499-521i547-569o604-626i633-655o714-733i746-768o798-817i	o(1-293=293) i(315-448=134) o(470-499=30) i(521-547=27) o(569-604=36) i(626-633=8) o(655-714=60) i(733-746=14) o(768-798=31) i(817-832=16)	NTT(165)/o NHT(54)/o 
+IPI00114788	B-lymphocyte antigen CD19	547	o288-310i	o(1-288=288) i(310-547=238)	NVS(220)/o NLT(263)/o 
+IPI00133257	Splice Isoform Long of Hematopoietic progenitor cell antigen CD34	382	o287-309i	o(1-287=287) i(309-382=74)	NST(246)/o 
+IPI00221706	Osteopetrosis associated transmembrane protein 1	338	o287-309i	o(1-287=287) i(309-338=30)	NTS(139)/o 
+IPI00114063	Niemann-Pick C1-like protein 1	1333	o283-305i348-370o633-655i668-687o697-719i740-762o772-794i848-870o1114-1133i1140-1162o1167-1186i1207-1229o1244-1266i	o(1-283=283) i(305-348=44) o(370-633=264) i(655-668=14) o(687-697=11) i(719-740=22) o(762-772=11) i(794-848=55) o(870-1114=245) i(1133-1140=8) o(1162-1167=6) i(1186-1207=22) o(1229-1244=16) i(1266-1333=68)	NDT(85)/o NIS(53)/o 
+IPI00223769	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630028L24 product:CD44 antigen, full insert sequence	365	o273-295i	o(1-273=273) i(295-365=71)	NST(61)/o NVT(29)/o 
+IPI00132600	Niemann-Pick C1 protein	1278	o270-292i354-376o622-644i657-679o684-706i727-749o764-786i1078-1095o1099-1118i1125-1147o1194-1216i1229-1251o	o(1-270=270) i(292-354=63) o(376-622=247) i(644-657=14) o(679-684=6) i(706-727=22) o(749-764=16) i(786-1078=293) o(1095-1099=5) i(1118-1125=8) o(1147-1194=48) i(1216-1229=14) o(1251-1278=130)	NLT(599)/o NVT(962)/i NAS(969)/i 
+IPI00115854	TROP2 protei	317	o269-291i	o(1-269=269) i(291-317=27)	NHS(162)/o 
+IPI00129968	Embigin	330	o267-289i	o(1-267=267) i(289-330=42)	NLS(55)/o NTT(118)/o NGS(216)/o NET(221)/o 
+IPI00126303	"H-2 class I histocompatibility antigen, K-Q alpha chain	328	o265-287i	o(1-265=265) i(287-328=42)	NQS(67)/o 
+IPI00109919	T3 olfactory recepto	315	o26-48i61-83o98-120i140-162o204-226i238-260o275-292i	o(1-26=26) i(48-61=14) o(83-98=16) i(120-140=21) o(162-204=43) i(226-238=13) o(260-275=16) i(292-315=24)	NST(5)/o 
+IPI00115482	Sodium/bile acid cotransporte	362	o26-48i60-79o119-141i154-176o191-210i222-244o282-304i	o(1-26=26) i(48-60=13) o(79-119=41) i(141-154=14) o(176-191=16) i(210-222=13) o(244-282=39) i(304-362=59)	NFS(11)/o 
+IPI00553259	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030416A10 product:solute carrier family 5, member 1, full insert sequence	665	o26-48i55-77o104-126i147-169o179-201i208-227o274-291i312-334o380-402i423-445o455-477i484-506o526-548i641-663o	o(1-26=26) i(48-55=8) o(77-104=28) i(126-147=22) o(169-179=11) i(201-208=8) o(227-274=48) i(291-312=22) o(334-380=47) i(402-423=22) o(445-455=11) i(477-484=8) o(506-526=21) i(548-641=94) o(663-665=66)	NFT(248)/o 
+IPI00126267	Olfactory receptor MOR256-	309	o25-47i59-81o96-118i138-160o197-219i239-261o271-290i	o(1-25=25) i(47-59=13) o(81-96=16) i(118-138=21) o(160-197=38) i(219-239=21) o(261-271=11) i(290-309=20)	NSS(3)/o 
+IPI00153959	Splice Isoform 1 of Stabilin-1	2571	o2476-2498i	o(1-2476=2476) i(2498-2571=74)	NQT(713)/o NHS(1171)/o NNS(1179)/o 
+IPI00467600	Stabilin-2	2559	o2467-2489i	o(1-2467=2467) i(2489-2559=71)	NLT(1750)/o 
+IPI00124340	Sodium/glucose cotransporter 	670	o24-43i63-85o100-122i142-164o174-196i203-225o272-289i310-332o378-400i421-443o453-475i482-504o524-546i650-669o	o(1-24=24) i(43-63=21) o(85-100=16) i(122-142=21) o(164-174=11) i(196-203=8) o(225-272=48) i(289-310=22) o(332-378=47) i(400-421=22) o(443-453=11) i(475-482=8) o(504-524=21) i(546-650=105) o(669-670=66)	NIS(248)/o 
+IPI00471176	Hepatocyte cell adHesion molecul	418	o241-263i	o(1-241=241) i(263-418=156)	NDS(189)/o NIT(35)/o 
+IPI00121362	F11r protei	300	o239-261i	o(1-239=239) i(261-300=40)	NSS(185)/o 
+IPI00119756	OX-2 membrane glycoprotein	278	o237-259i	o(1-237=237) i(259-278=20)	NST(181)/o NGT(190)/o 
+IPI00312498	Mucin-15	331	o235-257i	o(1-235=235) i(257-331=75)	NVT(30)/o 
+IPI00321365	CAR-like membrane protei	373	o233-255i	o(1-233=233) i(255-373=119)	NLT(73)/o 
+IPI00308245	Extra cellular link domain-containing 	318	o232-254i	o(1-232=232) i(254-318=65)	NFT(52)/o 
+IPI00308971	Cation-independent mannose-6-phosphate receptor	2483	o2295-2317i	o(1-2295=2295) i(2317-2483=167)	NAS(1532)/o 
+IPI00172242	"H-2 class II histocompatibility antigen, A-Q beta chain 	265	o228-247i	o(1-228=228) i(247-265=19)	NGT(46)/o 
+IPI00469221	"Splice Isoform 1 of Inositol 1,4,5-trisphosphate receptor type 1	2749	o2274-2296i2309-2326o2352-2374i2395-2417o2440-2462i2570-2592o	o(1-2274=2274) i(2296-2309=14) o(2326-2352=27) i(2374-2395=22) o(2417-2440=24) i(2462-2570=109) o(2592-2749=48)	NCT(2503)/i 
+IPI00172243	"H-2 class II histocompatibility antigen, A-K beta chain 	263	o226-245i	o(1-226=226) i(245-263=19)	NGT(46)/o 
+IPI00117424	Intercellular adhesion molecule 2	277	o224-246i	o(1-224=224) i(246-277=32)	NCS(45)/o 
+IPI00128915	Splice Isoform 1 of Chondroitin sulfate proteoglycan 4	2327	o2229-2251i	o(1-2229=2229) i(2251-2327=77)	NRT(2080)/o 
+IPI00226260	"10 day old male pancreas cDNA, RIKEN full-length enriched library, clone:1810073M23 product:TRANSMEMBRANE 9 SUPERFAMILY PROTEIN MEMBER 3 homolog	384	o221-243i287-309o324-346i	o(1-221=221) i(243-287=45) o(309-324=16) i(346-384=39)	NLT(172)/o 
+IPI00117094	Frizzled 4	537	o221-243i255-274o303-325i346-368o394-416i437-459o474-496i	o(1-221=221) i(243-255=13) o(274-303=30) i(325-346=22) o(368-394=27) i(416-437=22) o(459-474=16) i(496-537=42)	NVT(59)/o 
+IPI00123831	SDR1 protei	281	o221-243i	o(1-221=221) i(243-281=39)	NAT(112)/o NLT(54)/o 
+IPI00406693	AstrotActin 2 isoform 	1300	o219-241i391-413o	o(1-219=219) i(241-391=151) o(413-1300=22)	NGT(981)/o 
+IPI00121908	"Class II histocompatibility antigen, M beta 1 chain 	261	o219-238i	o(1-219=219) i(238-261=24)	NFS(75)/o 
+IPI00462199	Basigi	275	o213-235i	o(1-213=213) i(235-275=41)	NAT(192)/o NSS(46)/o NST(156)/o 
+IPI00136972	Endothelial protein C receptor	242	o212-234i	o(1-212=212) i(234-242=9)	NVT(63)/o NFT(166)/o 
+IPI00110852	"Translocon-associated protein alpha, muscle specific isoform	298	o207-229i	o(1-207=207) i(229-298=70)	NFT(136)/o 
+IPI00131292	Organic cation/carnitine transporter 	553	o20-42i172-191o195-217i229-251o256-278i340-362o372-394i401-420o426-448i461-483o493-515i	o(1-20=20) i(42-172=131) o(191-195=5) i(217-229=13) o(251-256=6) i(278-340=63) o(362-372=11) i(394-401=8) o(420-426=7) i(448-461=14) o(483-493=11) i(515-553=39)	NHS(64)/i 
+IPI00471273	Splice Isoform 1 of Apoptosis-related protein 3	223	o192-214i	o(1-192=192) i(214-223=10)	NLS(39)/o 
+IPI00454033	Platelet receptor Gi24	309	o191-213i	o(1-191=191) i(213-309=97)	NAT(49)/o 
+IPI00108844	Cation-dependent mannose-6-phosphate receptor	278	o189-211i	o(1-189=189) i(211-278=68)	NET(108)/o NGS(114)/o NHS(84)/o NKS(95)/o 
+IPI00468458	PREDICTED: lactase-phlorizin hydrolas	1931	o1885-1907i	o(1-1885=1885) i(1907-1931=25)	NSS(1241)/o NFT(937)/o NDT(1765)/o 
+IPI00125829	Splice Isoform 1 of Solute carrier family 12 member 	1150	o186-208i221-243o274-296i317-339o343-362i481-503o518-540i620-637o641-663i683-705o	o(1-186=186) i(208-221=14) o(243-274=32) i(296-317=22) o(339-343=5) i(362-481=120) o(503-518=16) i(540-620=81) o(637-641=5) i(663-683=21) o(705-1150=8)	NMT(398)/i 
+IPI00554925	"H-2 class II histocompatibility antigen, A-Q alpha chain	221	o184-206i	o(1-184=184) i(206-221=16)	NFT(70)/o 
+IPI00267963	HypotHetical protein LOC32073	319	o178-200i	o(1-178=178) i(200-319=120)	NFS(88)/o 
+IPI00460291	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830013H06 product:Sad1/unc-84-like protein 2 homolog	731	o174-196i226-248o	o(1-174=174) i(196-226=31) o(248-731=117)	NST(650)/o 
+IPI00169818	Leucine-rich repeat-containing protein 25	297	o169-191i	o(1-169=169) i(191-297=107)	NCS(133)/o 
+IPI00127770	"Mammary gland RCB-0526 Jyg-MC(A) cDNA, RIKEN full-length enriched library, clone:G830049G01 product:CD164 antigen, full insert sequence	197	o164-186i	o(1-164=164) i(186-197=12)	NCS(98)/o NRT(103)/o 
+IPI00627008	175 kDa protei	2312	o1637-1659i	o(1-1637=1637) i(1659-2312=654)	NET(1058)/o NST(223)/o NVS(134)/o 
+IPI00356063	"Sodium channel, voltage-gated, type II, beta	215	o158-180i	o(1-158=158) i(180-215=36)	NGS(42)/o 
+IPI00131062	Sodium channel beta-1 subunit	218	o154-176i	o(1-154=154) i(176-218=43)	NTS(135)/o 
+IPI00133448	Seminal vesicle antige	165	o15-37i	o(1-15=15) i(37-165=129)	NYT(46)/i NIT(156)/i 
+IPI00466061	FAD12	489	o153-175i184-206o216-233i349-371o391-413i420-442o457-479i	o(1-153=153) i(175-184=10) o(206-216=11) i(233-349=117) o(371-391=21) i(413-420=8) o(442-457=16) i(479-489=11)	NLS(85)/o NLS(100)/o NDS(52)/o 
+IPI00314056	Epithelial V-like antigen 	215	o153-175i	o(1-153=153) i(175-215=41)	NGT(118)/o 
+IPI00128024	Platelet glycoprotein I	177	o147-169i	o(1-147=147) i(169-177=9)	NNS(60)/o 
+IPI00467180	Translocon-associated protein beta subunit	183	o147-169i	o(1-147=147) i(169-183=15)	NVS(88)/o 
+IPI00314549	Calcitonin gene-related peptide type 1 receptor	463	o143-165i178-197o224-246i253-275o290-312i333-351o366-388i	o(1-143=143) i(165-178=14) o(197-224=28) i(246-253=8) o(275-290=16) i(312-333=22) o(351-366=16) i(388-463=76)	NRT(65)/o NQT(29)/o 
+IPI00113310	"Adult pancreas islet cells cDNA, RIKEN full-length enriched library, clone:C820019D11 product:kidney-specific membrane protein, full insert sequence	222	o142-164i	o(1-142=142) i(164-222=59)	NIT(76)/o 
+IPI00120434	23 kDa protei	197	o142-161i168-190o	o(1-142=142) i(161-168=8) o(190-197=22)	NLS(32)/o 
+IPI00126186	Macrophage mannose receptor 1	1456	o1388-1410i	o(1-1388=1388) i(1410-1456=47)	NES(1204)/o 
+IPI00130573	Carboxypeptidase D	1377	o1297-1319i	o(1-1297=1297) i(1319-1377=59)	NIT(521)/o NAS(1067)/o 
+IPI00355482	SLC10A	434	o129-151i172-194o204-226i233-255o265-287i307-326o336-358i365-384o394-416i	o(1-129=129) i(151-172=22) o(194-204=11) i(226-233=8) o(255-265=11) i(287-307=21) o(326-336=11) i(358-365=8) o(384-394=11) i(416-434=19)	NVT(73)/o 
+IPI00338983	Contactin-associated protein 1	1385	o1285-1307i	o(1-1285=1285) i(1307-1385=79)	NIT(1148)/o NAS(949)/o NCT(957)/o 
+IPI00272690	"Angiotensin-converting enzyme, somatic isoform 	1312	o1264-1286i	o(1-1264=1264) i(1286-1312=27)	NMS(1196)/o NMS(151)/o 
+IPI00420554	Splice Isoform 1 of Contactin-associated protein-like 2	1332	o1262-1284i	o(1-1262=1262) i(1284-1332=49)	NNT(436)/o 
+IPI00137311	Plexin 	1894	o1243-1265i	o(1-1243=1243) i(1265-1894=630)	NDT(1096)/o 
+IPI00115231	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:G530110M10 product:solute carrier family 12, member 4, full insert sequence	1087	o121-143i155-177o187-209i216-238o253-272i279-298o418-440i453-475o495-517i557-574o578-600i620-642o	o(1-121=121) i(143-155=13) o(177-187=11) i(209-216=8) o(238-253=16) i(272-279=8) o(298-418=121) i(440-453=14) o(475-495=21) i(517-557=41) o(574-578=5) i(600-620=21) o(642-1087=8)	NET(333)/o 
+IPI00221652	Transmembrane gamma-carboxyglutamic acid protein 4	226	o118-140i	o(1-118=118) i(140-226=87)	NYT(154)/i 
+IPI00122399	Golgi apparatus protein 1	1175	o1142-1164i	o(1-1142=1142) i(1164-1175=12)	NLT(161)/o NIT(206)/o 
+IPI00129159	Splice Isoform 1 of Neogenin	1493	o1136-1158i	o(1-1136=1136) i(1158-1493=336)	NAT(221)/o 
+IPI00115762	Neural cell adhesion molecule L1	1260	o1124-1146i	o(1-1124=1124) i(1146-1260=115)	NQT(670)/o 
+IPI00120793	Major prion protein	254	o111-133i234-253o	o(1-111=111) i(133-234=102) o(253-254=14)	NFT(196)/i 
+IPI00459329	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4921539A16 product:stromal cell derived factor receptor 1, full insert sequence	171	o111-133i	o(1-111=111) i(133-171=39)	NSS(57)/o 
+IPI00379131	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930513K05 product:integrin alpha X, full insert sequence	1168	o1108-1130i	o(1-1108=1108) i(1130-1168=39)	NLS(741)/o NCT(703)/o 
+IPI00132286	Integrin alpha-L	1163	o1086-1108i	o(1-1086=1086) i(1108-1163=56)	NIS(270)/o NLT(776)/o 
+IPI00222149	L1-like protei	1209	o1082-1104i	o(1-1082=1082) i(1104-1209=106)	NST(822)/o NVT(1027)/o 
+IPI00121337	Renal sodium-dependent phosphate transport protein 	637	o106-128i141-163o183-205i225-247o346-368i391-413o418-435i442-459o469-491i511-533o537-559i	o(1-106=106) i(128-141=14) o(163-183=21) i(205-225=21) o(247-346=100) i(368-391=24) o(413-418=6) i(435-442=8) o(459-469=11) i(491-511=21) o(533-537=5) i(559-637=79)	NTT(328)/o 
+IPI00404529	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530023M13 product:cell adhesion molecule with homology to L1CAM, full insert sequence	1150	o1044-1066i	o(1-1044=1044) i(1066-1150=85)	NNS(87)/o NGT(578)/o 
+IPI00622983	"6 days neonate skin cDNA, RIKEN full-length enriched library, clone:A030009B04 product:prominin 2, full insert sequence	835	o104-126i154-176o435-457i478-500o779-801i	o(1-104=104) i(126-154=29) o(176-435=260) i(457-478=22) o(500-779=280) i(801-835=35)	NTT(270)/o 
+IPI00128360	Splice Isoform GP145-TRKB of BDNF/NT-3 growth factors receptor	821	o10-32i431-453o	o(1-10=10) i(32-431=400) o(453-821=43)	NLT(205)/i NFT(121)/i 
+IPI00117735	Myelin P0 protein	248	o10-32i155-177o	o(1-10=10) i(32-155=124) o(177-248=16)	NGT(122)/i 
+IPI00321717	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1210001G01 product:solute carrier family 34	697	o103-125i138-160o180-202i222-244o366-388i409-431o485-507i527-546o550-572i	o(1-103=103) i(125-138=14) o(160-180=21) i(202-222=21) o(244-366=123) i(388-409=22) o(431-485=55) i(507-527=21) o(546-550=5) i(572-697=126)	NKS(295)/o 
+IPI00223178	"6 days neonate spleen cDNA, RIKEN full-length enriched library, clone:F430211A09 product:hypothetical protein, full insert sequence	366	o10-29i36-54o64-83i255-277o287-309i	o(1-10=10) i(29-36=8) o(54-64=11) i(83-255=173) o(277-287=11) i(309-366=58)	NQT(110)/i 
+IPI00115976	Integrin alpha-5	1053	o1003-1025i	o(1-1003=1003) i(1025-1053=29)	NCT(872)/o NYT(876)/o 
+IPI00466999	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330029H11 product:hypothetical Quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence	658	i105-127o	i(1-105=105) o(127-658=105)	NSS(398)/o 
+IPI00223987	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732490P18 product:INSULIN-REGULATED MEMBRANE AMINOPEPTIDASE IRAP homolog	1025	i110-132o	i(1-110=110) o(132-1025=110)	NIS(215)/o NQS(145)/o NAT(447)/o 
+IPI00221456	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930518G05 product:synaptic vesicle glycoprotein 2 b, full insert sequence	683	i111-133o148-170i177-196o201-223i236-258o273-294i389-411o537-559i566-588o592-614i627-649o654-672i	i(1-111=111) o(133-148=16) i(170-177=8) o(196-201=6) i(223-236=14) o(258-273=16) i(294-389=96) o(411-537=127) i(559-566=8) o(588-592=5) i(614-627=14) o(649-654=6) i(672-683=12)	NST(516)/o 
+IPI00313750	Adenylate cyclase type I	1353	i118-137o142-164i177-196o216-235i242-261o281-300i791-813o823-845i858-880o890-912i977-996o	i(1-118=118) o(137-142=6) i(164-177=14) o(196-216=21) i(235-242=8) o(261-281=21) i(300-791=492) o(813-823=11) i(845-858=14) o(880-890=11) i(912-977=66) o(996-1353=66)	NSS(964)/i 
+IPI00114256	Splice Isoform 1 of Synaptophysin-like protei	261	i118-140o150-172i213-235o	i(1-118=118) o(140-150=11) i(172-213=42) o(235-261=42)	NVS(95)/i NQT(72)/i 
+IPI00230718	Complement Component 	561	i12-31o	i(1-12=12) o(31-561=12)	NIS(276)/o 
+IPI00330632	Splice Isoform 1 of Collagen alpha 1(XIV) chain	1797	i12-31o	i(1-12=12) o(31-1797=12)	NGS(138)/o 
+IPI00402778	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230328N06 product:neurotrimin, full insert sequence	344	i12-31o	i(1-12=12) o(31-344=12)	NVS(284)/o NYT(292)/o 
+IPI00119033	Intercellular adhesion molecule 5	917	i12-31o833-855i	i(1-12=12) o(31-833=803) i(855-917=63)	NFT(762)/o NLS(636)/o NAT(645)/o 
+IPI00128358	Insulin receptor	1372	i12-31o947-969i	i(1-12=12) o(31-947=917) i(969-1372=404)	NLT(445)/o 
+IPI00108849	"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase	337	i12-34o	i(1-12=12) o(34-337=12)	NLS(109)/o 
+IPI00135659	Oligodendrocyte-myelin glycoprotein	443	i12-34o	i(1-12=12) o(34-443=12)	NFS(392)/o 
+IPI00319509	Aminopeptidase 	966	i12-34o	i(1-12=12) o(34-966=12)	NQS(606)/o NTS(332)/o NST(106)/o NQT(114)/o NAT(817)/o NRT(734)/o NNT(784)/o 
+IPI00458077	"4 days neonate male adipose cDNA, RIKEN full-length enriched library, clone:B430217G19 product:N-acylsphingosine amidohydrolase 2, full insert sequence	756	i12-34o	i(1-12=12) o(34-756=12)	NFS(74)/o NMS(600)/o 
+IPI00126405	Myelin-oligodendrocyte glycoprotein	246	i12-34o155-177i208-230o	i(1-12=12) o(34-155=122) i(177-208=32) o(230-246=32)	NAT(59)/o 
+IPI00221911	Leukocyte surface antigen CD5	219	i12-34o49-71i84-106o182-204i	i(1-12=12) o(34-49=16) i(71-84=14) o(106-182=77) i(204-219=16)	NDS(119)/o NST(129)/o 
+IPI00225883	Solute carrier family 40 member 	570	i12-34o58-80i93-115o125-147i302-324o339-361i373-395o449-471i491-513o518-540i	i(1-12=12) o(34-58=25) i(80-93=14) o(115-125=11) i(147-302=156) o(324-339=16) i(361-373=13) o(395-449=55) i(471-491=21) o(513-518=6) i(540-570=31)	NAT(174)/i 
+IPI00308691	"Solute carrier family 2, facilitated glucose transporter member 1	492	i12-34o65-87i94-112o122-144i156-175o185-207i272-291o306-328i335-357o367-389i402-424o428-450i	i(1-12=12) o(34-65=32) i(87-94=8) o(112-122=11) i(144-156=13) o(175-185=11) i(207-272=66) o(291-306=16) i(328-335=8) o(357-367=11) i(389-402=14) o(424-428=5) i(450-492=43)	NQT(45)/o 
+IPI00121338	CDE1-binding protein CDEB	763	i12-34o694-716i	i(1-12=12) o(34-694=661) i(716-763=48)	NQS(541)/o 
+IPI00314042	Meprin 1 alph	760	i12-34o727-749i	i(1-12=12) o(34-727=694) i(749-760=12)	NIS(452)/o NQT(546)/o NGS(553)/o NGS(41)/o NTS(330)/o NCT(270)/o 
+IPI00120166	Zinc transporter 	503	i12-34o79-101i114-136o242-264i306-328o	i(1-12=12) o(34-79=46) i(101-114=14) o(136-242=107) i(264-306=43) o(328-503=43)	NST(294)/i 
+IPI00337974	Splice Isoform 1 of Sodium channel protein type VIII alpha subuni	1978	i129-151o194-216i223-245o255-277i389-411o747-769i782-804o869-891i952-974o1196-1215i1236-1258o1268-1290i1317-1339o1440-1462i1524-1541o1551-1569i1582-1604o1652-1674i1741-1763o	i(1-129=129) o(151-194=44) i(216-223=8) o(245-255=11) i(277-389=113) o(411-747=337) i(769-782=14) o(804-869=66) i(891-952=62) o(974-1196=223) i(1215-1236=22) o(1258-1268=11) i(1290-1317=28) o(1339-1440=102) i(1462-1524=63) o(1541-1551=11) i(1569-1582=14) o(1604-1652=49) i(1674-1741=68) o(1763-1978=68)	NNT(1381)/o 
+IPI00381178	Liver carboxylesterase 31	571	i13-30o	i(1-13=13) o(30-571=13)	NIS(311)/o NDS(317)/o 
+IPI00122181	Toll-like receptor 7	1050	i13-30o851-873i	i(1-13=13) o(30-851=822) i(873-1050=178)	NSS(387)/o 
+IPI00124428	1-O-acylceramide synthase	412	i13-32o	i(1-13=13) o(32-412=13)	NYT(289)/o 
+IPI00130486	FK506-binding protein 9	570	i13-32o	i(1-13=13) o(32-570=13)	NGT(286)/o 
+IPI00133079	"18-day embryo whole body cDNA, RIKEN full-length enriched library, clone:1190003M12 product:hypothetical BRICHOS containing protein, full insert sequence	191	i13-32o	i(1-13=13) o(32-191=13)	NTS(33)/o 
+IPI00464135	Semaphorin-4B	823	i13-32o701-723i	i(1-13=13) o(32-701=670) i(723-823=101)	NSS(397)/o 
+IPI00153924	ADAM 1b	806	i13-32o705-727i	i(1-13=13) o(32-705=674) i(727-806=80)	NGT(476)/o 
+IPI00648076	OTTMUSP0000000054	478	i13-32o93-115i128-150o181-203i210-232o277-299i311-333o361-383i411-433o443-462i	i(1-13=13) o(32-93=62) i(115-128=14) o(150-181=32) i(203-210=8) o(232-277=46) i(299-311=13) o(333-361=29) i(383-411=29) o(433-443=11) i(462-478=17)	NST(47)/o NAS(56)/o NQS(69)/o 
+IPI00123342	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830010A06 product:hypoxia up-regulated 1, full insert sequence	999	i13-35o	i(1-13=13) o(35-999=13)	NGT(596)/o NYS(155)/o NHS(830)/o NLT(515)/o NAS(931)/o 
+IPI00128905	Golgi phosphoprotein 	393	i13-35o	i(1-13=13) o(35-393=13)	NIT(109)/o 
+IPI00230295	Putative polypeptide N-acetylgalactosaminyltransferase-like protein 	622	i13-35o	i(1-13=13) o(35-622=13)	NST(320)/o 
+IPI00469466	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830226M16 product:integrin alpha 7, full insert sequence	1140	i13-35o1041-1063i	i(1-13=13) o(35-1041=1007) i(1063-1140=78)	NVT(948)/o 
+IPI00119463	Voltage-dependent calcium channel gamma-1 subuni	223	i13-35o108-130i137-159o179-201i	i(1-13=13) o(35-108=74) i(130-137=8) o(159-179=21) i(201-223=23)	NCS(80)/o 
+IPI00226346	"Mus musculus cDNA fis, clone TRACH2000665, moderately similar to Rattus norvegicus putative integral membrane transport protein	552	i13-35o150-167i180-202o233-255i352-374o378-400i407-425o435-457i470-492o496-515i	i(1-13=13) o(35-150=116) i(167-180=14) o(202-233=32) i(255-352=98) o(374-378=5) i(400-407=8) o(425-435=11) i(457-470=14) o(492-496=5) i(515-552=38)	NDT(56)/o NGS(62)/o 
+IPI00311405	Poliovirus receptor related protein 1	515	i13-35o355-377i	i(1-13=13) o(35-355=321) i(377-515=139)	NGS(286)/o NGT(202)/o 
+IPI00128989	Vacuolar ATP synthase subunit S1	463	i13-35o419-441i	i(1-13=13) o(35-419=385) i(441-463=23)	NDT(255)/o 
+IPI00458893	Tetraspanin-1	204	i13-35o45-67i74-93o165-187i	i(1-13=13) o(35-45=11) i(67-74=8) o(93-165=73) i(187-204=18)	NDT(137)/o 
+IPI00153756	Tspan8 protei	235	i13-35o50-72i85-107o204-226i	i(1-13=13) o(35-50=16) i(72-85=14) o(107-204=98) i(226-235=10)	NET(118)/o 
+IPI00108098	CD82 antige	266	i13-35o55-77i84-106o229-251i	i(1-13=13) o(35-55=21) i(77-84=8) o(106-229=124) i(251-266=16)	NYT(127)/o NAT(131)/o NST(197)/o 
+IPI00311443	Tetraspanin-	221	i13-35o55-77i89-111o188-210i	i(1-13=13) o(35-55=21) i(77-89=13) o(111-188=78) i(210-221=12)	NGT(139)/o 
+IPI00123183	Aquaporin-	269	i13-35o63-85i98-120o135-157i164-184o210-232i	i(1-13=13) o(35-63=29) i(85-98=14) o(120-135=16) i(157-164=8) o(184-210=27) i(232-269=38)	NQT(42)/o 
+IPI00120769	"TIB-55 BB88 cDNA, RIKEN full-length enriched library, clone:I730044C04 product:solute carrier family 29 (nucleoside transporters), member 1, full insert sequence	460	i13-35o76-98i110-132o147-169i176-195o205-227i288-310o358-380i400-422o437-459i	i(1-13=13) o(35-76=42) i(98-110=13) o(132-147=16) i(169-176=8) o(195-205=11) i(227-288=62) o(310-358=49) i(380-400=21) o(422-437=16) i(459-460=2)	NVS(48)/o 
+IPI00338094	Bone morphogenetic protein receptor type II	1038	i152-174o	i(1-152=152) o(174-1038=152)	NGT(55)/i 
+IPI00465810	Ca2+ regulator SV2	742	i168-190o205-227i234-253o258-280i293-315o330-352i446-468o594-616i628-645o650-669i686-708o713-731i	i(1-168=168) o(190-205=16) i(227-234=8) o(253-258=6) i(280-293=14) o(315-330=16) i(352-446=95) o(468-594=127) i(616-628=13) o(645-650=6) i(669-686=18) o(708-713=6) i(731-742=12)	NFT(498)/o NST(573)/o 
+IPI00221426	"Osteoclast-like cell cDNA, RIKEN full-length enriched library, clone:I420023N13 product:glucosamine (N-acetyl)-6-sulfatase, full insert sequence	544	i17-36o	i(1-17=17) o(36-544=17)	NYT(175)/o 
+IPI00480532	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630047E11 product:hypothetical protein, full insert sequence	474	i17-36o176-198i211-233o244-266i273-295o315-337i357-379o399-421i	i(1-17=17) o(36-176=141) i(198-211=14) o(233-244=12) i(266-273=8) o(295-315=21) i(337-357=21) o(379-399=21) i(421-474=54)	NYS(48)/o NSS(52)/o 
+IPI00654122	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730073F09 product:phosphatidylinositol glycan, class S, full insert sequence	555	i19-36o519-541i	i(1-19=19) o(36-519=484) i(541-555=15)	NAS(370)/o 
+IPI00473680	"17 days embryo kidney cDNA, RIKEN full-length enriched library, clone:I920072N22 product:Glycoprotein 25L2 homolog	269	i203-222o	i(1-203=203) o(222-269=203)	NST(125)/i 
+IPI00115116	Plasmalemma vesicle-associated protei	438	i21-43o	i(1-21=21) o(43-438=21)	NLS(82)/o 
+IPI00317844	Solute carrier organic anion transporter family member 1A	670	i21-43o58-80i87-109o158-180i193-215o244-266i317-339o354-376i512-534o549-571i600-622o	i(1-21=21) o(43-58=16) i(80-87=8) o(109-158=50) i(180-193=14) o(215-244=30) i(266-317=52) o(339-354=16) i(376-512=137) o(534-549=16) i(571-600=30) o(622-670=30)	NLS(124)/o NRT(135)/o 
+IPI00625835	Solute carrier organic anion transporter family member 1A	670	i21-43o58-80i87-109o204-222i243-265o317-339i355-377o387-409i512-534o549-571i600-622o	i(1-21=21) o(43-58=16) i(80-87=8) o(109-204=96) i(222-243=22) o(265-317=53) i(339-355=17) o(377-387=11) i(409-512=104) o(534-549=16) i(571-600=30) o(622-670=30)	NLS(124)/o NRT(135)/o 
+IPI00352845	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830129A12 product:Similar to liver regeneration p-53 related protein, full insert sequence	519	i21-43o80-102i122-144o181-203i285-307o347-369i389-411o468-490i	i(1-21=21) o(43-80=38) i(102-122=21) o(144-181=38) i(203-285=83) o(307-347=41) i(369-389=21) o(411-468=58) i(490-519=30)	NST(436)/o NIT(427)/o 
+IPI00461962	Developmentally regulated G-protein-coupled recepto	1165	i21-43o835-857i870-892o897-919i940-962o996-1018i1039-1061o1065-1087i	i(1-21=21) o(43-835=793) i(857-870=14) o(892-897=6) i(919-940=22) o(962-996=35) i(1018-1039=22) o(1061-1065=5) i(1087-1165=79)	NSS(121)/o 
+IPI00153807	ATP-binding cassette sub-family A member 	1704	i22-44o261-283i304-326o346-368i373-392o1099-1121i1142-1164o1184-1206i1213-1235o	i(1-22=22) o(44-261=218) i(283-304=22) o(326-346=21) i(368-373=6) o(392-1099=708) i(1121-1142=22) o(1164-1184=21) i(1206-1213=8) o(1235-1704=8)	NTS(228)/o 
+IPI00226932	"0 day neonate cerebellum cDNA, RIKEN full-length enriched library, clone:C230096C10 product:hypothetical Quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence	997	i2-24o	i(1-2=2) o(24-997=2)	NQT(917)/o 
+IPI00112326	Epithelial membrane protein 	160	i2-24o66-88i95-117o137-157i	i(1-2=2) o(24-66=43) i(88-95=8) o(117-137=21) i(157-160=4)	NCT(43)/o 
+IPI00117950	"Adult male testis cDNA, RIKEN full-length enriched library, clone:1700021A02 product:weakly similar to SPERM ACROSOME MEMBRANE PROTEIN SAMP32	305	i228-250o	i(1-228=228) o(250-305=228)	NDS(175)/i 
+IPI00649133	32 kDa protei	290	i228-250o	i(1-228=228) o(250-290=228)	NVT(30)/i 
+IPI00222321	"13 days embryo forelimb cDNA, RIKEN full-length enriched library, clone:5930422O05 product:similar to BBP-LIKE PROTEIN 2	261	i230-252o	i(1-230=230) o(252-261=230)	NVS(101)/i 
+IPI00279051	RIKEN cDNA A930025J1	500	i230-252o262-281i337-359o363-385i406-428o448-465i	i(1-230=230) o(252-262=11) i(281-337=57) o(359-363=5) i(385-406=22) o(428-448=21) i(465-500=36)	NAT(161)/i NVT(164)/i 
+IPI00307966	ADP-ribosyl cyclase 	304	i23-45o	i(1-23=23) o(45-304=23)	NKT(124)/o 
+IPI00458003	Ectonucleotide pyrophosphatase/phosphodiesterase 	874	i23-45o	i(1-23=23) o(45-874=23)	NLS(594)/o 
+IPI00269674	Fc epsilon receptor II subtype b variant b delta 	309	i25-47o	i(1-25=25) o(47-309=25)	NVS(64)/o 
+IPI00112614	ATP-binding cassette sub-family A member 	2261	i25-47o639-661i681-703o718-740i745-767o777-797i818-840o1346-1368i1655-1677o1702-1724i1737-1759o1769-1791i1848-1870o	i(1-25=25) o(47-639=593) i(661-681=21) o(703-718=16) i(740-745=6) o(767-777=11) i(797-818=22) o(840-1346=507) i(1368-1655=288) o(1677-1702=26) i(1724-1737=14) o(1759-1769=11) i(1791-1848=58) o(1870-2261=58)	NKS(98)/o NET(489)/o 
+IPI00227906	Splice Isoform 4 of Sodium- and chloride-dependent transporter XTRP	552	i26-45o55-77i98-120o176-198i207-229o253-275i288-310o399-421i442-464o474-496i	i(1-26=26) o(45-55=11) i(77-98=22) o(120-176=57) i(198-207=10) o(229-253=25) i(275-288=14) o(310-399=90) i(421-442=22) o(464-474=11) i(496-552=57)	NAT(353)/o 
+IPI00121740	Splice Isoform A of Low affinity immunoglobulin epsilon Fc recepto	331	i26-48o	i(1-26=26) o(48-331=26)	NLT(114)/o 
+IPI00122368	P2X4c receptor subuni	366	i28-50o317-339i	i(1-28=28) o(50-317=268) i(339-366=28)	NTS(75)/o NCT(131)/o 
+IPI00471089	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530081G07 product:purinergic receptor P2X, ligand-gated ion channel 4, full insert sequence	388	i28-50o339-361i	i(1-28=28) o(50-339=290) i(361-388=28)	NQT(110)/o 
+IPI00275834	"Transmembrane protease, serine 4	435	i29-51o	i(1-29=29) o(51-435=29)	NGS(176)/o 
+IPI00461861	Neprilysi	750	i29-51o	i(1-29=29) o(51-750=29)	NES(145)/o NAT(285)/o 
+IPI00221859	"11 days pregnant adult female ovary and uterus cDNA, RIKEN full-length enriched library, clone:5031413M14 product:hypothetical Eukaryotic protein of unknown function, DUF284 containing protein, full insert sequence	353	i29-51o318-340i	i(1-29=29) o(51-318=268) i(340-353=14)	NYS(273)/o 
+IPI00122101	Splice Isoform GlyT-1A of Sodium- and chloride-dependent glycine transporter 	633	i29-51o61-83i114-136o213-235i242-264o291-313i326-348o375-397i426-448o458-480i501-520o535-557i	i(1-29=29) o(51-61=11) i(83-114=32) o(136-213=78) i(235-242=8) o(264-291=28) i(313-326=14) o(348-375=28) i(397-426=30) o(448-458=11) i(480-501=22) o(520-535=16) i(557-633=77)	NLS(177)/o NYT(183)/o 
+IPI00468236	Splice Isoform 1 of Transmembrane protein 16	911	i296-318o371-393i459-481o506-528i556-573o672-694i722-744o826-848i	i(1-296=296) o(318-371=54) i(393-459=67) o(481-506=26) i(528-556=29) o(573-672=100) i(694-722=29) o(744-826=83) i(848-911=64)	NIT(362)/o NGT(494)/o 
+IPI00403226	"0 day neonate skin cDNA, RIKEN full-length enriched library, clone:4631409B15 product:hypothetical protein, full insert sequence	212	i31-48o166-188i	i(1-31=31) o(48-166=119) i(188-212=25)	NDS(72)/o 
+IPI00115892	"Splice Isoform Long of H-2 class II histocompatibility antigen, gamma chain	279	i32-54o	i(1-32=32) o(54-279=32)	NVT(113)/o NMT(119)/o 
+IPI00169896	Splice Isoform 2 of Choline transporter-like protein 	704	i32-54o229-251i253-275o312-334i355-377o453-475i496-518o560-582i598-620o635-657i	i(1-32=32) o(54-229=176) i(251-253=3) o(275-312=38) i(334-355=22) o(377-453=77) i(475-496=22) o(518-560=43) i(582-598=17) o(620-635=16) i(657-704=48)	NET(185)/o 
+IPI00265095	Splice Isoform 2 of Transmembrane protein 16	484	i32-54o79-101i129-146o245-267i295-317o399-421i	i(1-32=32) o(54-79=26) i(101-129=29) o(146-245=100) i(267-295=29) o(317-399=83) i(421-484=64)	NYT(376)/o 
+IPI00317488	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:G530025F22 product:hypothetical Twin-arginine translocation pathway signal containing protein, full insert sequence	656	i33-55o189-211i269-288o303-322i335-354o369-391i411-433o494-516i523-545o560-582i587-609o629-648i	i(1-33=33) o(55-189=135) i(211-269=59) o(288-303=16) i(322-335=14) o(354-369=16) i(391-411=21) o(433-494=62) i(516-523=8) o(545-560=16) i(582-587=6) o(609-629=21) i(648-656=9)	NYS(157)/o 
+IPI00469280	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830025I04 product:solute carrier family 30	460	i34-51o61-83i96-118o133-155i200-219o229-251i	i(1-34=34) o(51-61=11) i(83-96=14) o(118-133=16) i(155-200=46) o(219-229=11) i(251-460=210)	NVS(395)/i 
+IPI00461438	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732483D01 product:long chain fatty acyl elongase, full insert sequence	267	i34-51o66-88i137-154o159-181i194-216o231-253i	i(1-34=34) o(51-66=16) i(88-137=50) o(154-159=6) i(181-194=14) o(216-231=16) i(253-267=15)	NMS(2)/i 
+IPI00129304	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730023E20 product:collectin sub-family member 12, full insert sequence	742	i34-56o	i(1-34=34) o(56-742=34)	NNS(159)/o NKT(168)/o NNT(386)/o NVT(67)/o 
+IPI00454043	Choline transporter-like protein 	707	i34-56o226-248i250-272o306-328i354-376o451-473i494-516o556-578i594-616o631-653i	i(1-34=34) o(56-226=171) i(248-250=3) o(272-306=35) i(328-354=27) o(376-451=76) i(473-494=22) o(516-556=41) i(578-594=17) o(616-631=16) i(653-707=55)	NST(67)/o 
+IPI00649186	Splice Isoform 1 of Choline transporter-like protein 	706	i34-56o231-253i255-277o314-336i357-379o455-477i498-520o562-584i600-622o637-659i	i(1-34=34) o(56-231=176) i(253-255=3) o(277-314=38) i(336-357=22) o(379-455=77) i(477-498=22) o(520-562=43) i(584-600=17) o(622-637=16) i(659-706=48)	NIT(200)/o 
+IPI00121550	Sodium/potassium-transporting ATPase beta-1 chai	304	i35-57o	i(1-35=35) o(57-304=35)	NCS(158)/o 
+IPI00130389	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K530020M04 product:dipeptidylpeptidase 6, full insert sequence	804	i35-57o	i(1-35=35) o(57-804=35)	NVS(343)/o NYS(752)/o 
+IPI00221418	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630101D12 product:hypothetical Phospholipase D/Transphosphatidylase/Phospholipase D phosphodiesterase active site profile containing protein, full insert sequence	503	i35-57o	i(1-35=35) o(57-503=35)	NIS(169)/o NHS(415)/o 
+IPI00177249	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630043M14 product:hypothetical protein, full insert sequence	697	i35-57o63-85i92-109o170-192i199-216o226-248i261-283o298-320i359-378o	i(1-35=35) o(57-63=7) i(85-92=8) o(109-170=62) i(192-199=8) o(216-226=11) i(248-261=14) o(283-298=16) i(320-359=40) o(378-697=40)	NST(548)/o 
+IPI00225530	"Adult male hippocampus cDNA, RIKEN full-length enriched library, clone:C630015N03 product:solute carrier family 24 (sodium/potassium/calcium exchanger), member 2, full insert sequence	666	i36-58o136-158i178-200o205-227i234-256o261-280i476-493o503-525i570-592o607-629i636-655o	i(1-36=36) o(58-136=79) i(158-178=21) o(200-205=6) i(227-234=8) o(256-261=6) i(280-476=197) o(493-503=11) i(525-570=46) o(592-607=16) i(629-636=8) o(655-666=8)	NLS(439)/i 
+IPI00221998	Adipocyte plasma membrane-associated protei	415	i37-59o	i(1-37=37) o(59-415=37)	NGT(159)/o 
+IPI00124221	Sodium/potassium-transporting ATPase beta-3 chai	278	i38-60o	i(1-38=38) o(60-278=38)	NLT(124)/o NAT(197)/o 
+IPI00130624	Schwannoma-associated protei	488	i38-60o	i(1-38=38) o(60-488=38)	NCS(234)/o 
+IPI00396687	Inactive dipeptidyl peptidase 1	800	i38-60o	i(1-38=38) o(60-800=38)	NYT(752)/o 
+IPI00123704	Sodium/potassium-transporting ATPase beta-2 chai	290	i39-61o	i(1-39=39) o(61-290=39)	NDS(118)/o NQS(193)/o NVT(197)/o NYT(238)/o 
+IPI00124269	Potassium-transporting ATPase beta chai	294	i39-61o	i(1-39=39) o(61-294=39)	NCT(130)/o NHT(146)/o NGT(225)/o NCS(161)/o NNT(193)/o 
+IPI00461577	"Adult male tongue cDNA, RIKEN full-length enriched library, clone:2310038C11 product:ATPase, H+/K+ transporting, beta polypeptide, gastric specific, full insert sequence	272	i39-61o	i(1-39=39) o(61-272=39)	NVS(99)/o NSS(103)/o 
+IPI00113411	Osteoblast differentiation promoting facto	539	i39-61o85-107i120-142o157-176i189-211o491-513i	i(1-39=39) o(61-85=25) i(107-120=14) o(142-157=16) i(176-189=14) o(211-491=281) i(513-539=27)	NQT(333)/o 
+IPI00129677	Asialoglycoprotein receptor major subuni	284	i40-62o	i(1-40=40) o(62-284=40)	NFS(75)/o NLT(78)/o 
+IPI00117986	CIP	914	i41-63o73-95i116-138o166-188i193-215o263-285i297-319o342-364i377-399o419-441i453-475o	i(1-41=41) o(63-73=11) i(95-116=22) o(138-166=29) i(188-193=6) o(215-263=49) i(285-297=13) o(319-342=24) i(364-377=14) o(399-419=21) i(441-453=13) o(475-914=13)	NAS(228)/o 
+IPI00330594	C-type lectin domain family 4 member 	548	i43-65o	i(1-43=43) o(65-548=43)	NSS(115)/o 
+IPI00348586	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530016O06 product:hypothetical SUR2-type hydroxylase/desaturase catalytic domain containing protein, full insert sequence	447	i44-61o114-131i168-190o364-383i411-433o	i(1-44=44) o(61-114=54) i(131-168=38) o(190-364=175) i(383-411=29) o(433-447=29)	NVS(9)/i 
+IPI00115397	B-cell surface protein CD20 homolo	291	i44-66o76-98i111-133o184-206i	i(1-44=44) o(66-76=11) i(98-111=14) o(133-184=52) i(206-291=86)	NSS(165)/o 
+IPI00114279	Excitatory amino acid transporter 	543	i44-66o89-111i123-145o240-259i280-302o317-339i346-368o392-414i421-443o453-475i	i(1-44=44) o(66-89=24) i(111-123=13) o(145-240=96) i(259-280=22) o(302-317=16) i(339-346=8) o(368-392=25) i(414-421=8) o(443-453=11) i(475-543=69)	NET(206)/o NVS(216)/o 
+IPI00310754	Langeri	331	i45-67o	i(1-45=45) o(67-331=45)	NIS(90)/o 
+IPI00470184	Splice Isoform Glt-1 of Excitatory amino acid transporter 	572	i45-67o91-108i120-142o241-258i279-301o316-338i345-367o407-429i436-458o	i(1-45=45) o(67-91=25) i(108-120=13) o(142-241=100) i(258-279=22) o(301-316=16) i(338-345=8) o(367-407=41) i(429-436=8) o(458-572=8)	NET(215)/o NTT(205)/o 
+IPI00113042	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4932410E13 product:N-acetylated alpha-linked acidic dipeptidase 2, full insert sequence	778	i47-69o	i(1-47=47) o(69-778=47)	NVS(352)/o 
+IPI00225374	Uronyl 2-sulfotransferas	407	i49-71o	i(1-49=49) o(71-407=49)	NMT(320)/o 
+IPI00410796	"Adult inner ear cDNA, RIKEN full-length enriched library, clone:F930021G24 product:Hypothetical quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence	555	i50-72o	i(1-50=50) o(72-555=50)	NGT(392)/o 
+IPI00459077	"10 days lactation, adult female mammary gland cDNA, RIKEN full-length enriched library, clone:D730047H02 product:similar to MACROPHAGE GALACTOSE N-ACETYL-GALACTOSAMINE SPECIFIC LECTIN	381	i50-72o	i(1-50=50) o(72-381=50)	NTT(91)/o 
+IPI00113726	Laminin alpha-1 chain	3084	i5-22o	i(1-5=5) o(22-3084=5)	NNT(562)/o NHS(1414)/o NAT(2055)/o NST(2067)/o NTS(2046)/o NFT(1718)/o NAT(1725)/o NIS(1344)/o NVT(1812)/o NHS(1763)/o NQT(1686)/o 
+IPI00128484	Hemopexin	460	i5-22o	i(1-5=5) o(22-460=5)	NGS(419)/o NCT(186)/o NGT(38)/o 
+IPI00463489	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K230009E18 product:Opioid binding protein/cell adhesion molecule (OBCAM) (Opioid-binding cell adhesion molecule) (OPCML) homolog	337	i5-24o	i(1-5=5) o(24-337=5)	NVS(277)/o NYT(285)/o 
+IPI00120227	Macrophage receptor MARC	518	i52-74o	i(1-52=52) o(74-518=52)	NLT(138)/o 
+IPI00648026	Endothelin-converting enzyme-1	753	i52-74o	i(1-52=52) o(74-753=52)	NES(345)/o 
+IPI00403586	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230106I24 product:hypothetical Lipolytic enzymes/Esterase/lipase/thioesterase family active site containing protein, full insert sequence	408	i5-27o	i(1-5=5) o(27-408=5)	NHT(270)/o 
+IPI00460063	Prenylcysteine oxidase	505	i5-27o	i(1-5=5) o(27-505=5)	NIT(323)/o NST(353)/o 
+IPI00469542	Histidine-rich calcium-binding protei	738	i5-27o	i(1-5=5) o(27-738=5)	NVS(102)/o 
+IPI00115089	Splice Isoform Long of Ectonucleoside triphosphate diphosphohydrolase 	495	i5-27o461-483i	i(1-5=5) o(27-461=435) i(483-495=13)	NLT(129)/o 
+IPI00134691	"UDP-glucuronosyltransferase 1-1 , microsomal	535	i5-27o493-515i	i(1-5=5) o(27-493=467) i(515-535=21)	NVT(89)/o 
+IPI00229528	"Adult male brain UNDEFINED_CELL_LINE cDNA, RIKEN full-length enriched library, clone:M5C1087M14 product:brain-specific angiogenesis inhibitor 1, full insert sequence	1582	i5-27o948-970i982-1004o1009-1031i1053-1072o1092-1114i1135-1157o	i(1-5=5) o(27-948=922) i(970-982=13) o(1004-1009=6) i(1031-1053=23) o(1072-1092=21) i(1114-1135=22) o(1157-1582=22)	NNS(401)/o 
+IPI00114810	Suppressor of tumorigenicity 1	855	i55-77o	i(1-55=55) o(77-855=55)	NQT(772)/o 
+IPI00265291	Ectonucleotide pyrophosphatase/phosphodiesterase 1 allotype 	905	i57-79o	i(1-57=57) o(79-905=57)	NGS(323)/o NAS(267)/o 
+IPI00109108	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430002M11 product:intergral membrane protein 1, full insert sequence	753	i64-86o131-153i160-179o189-211i218-235o250-272i284-306o316-334i346-368o409-431i452-474o504-526i	i(1-64=64) o(86-131=46) i(153-160=8) o(179-189=11) i(211-218=8) o(235-250=16) i(272-284=13) o(306-316=11) i(334-346=13) o(368-409=42) i(431-452=22) o(474-504=31) i(526-753=228)	NNT(592)/i NNT(596)/i 
+IPI00116056	Sodium-dependent noradrenaline transporte	617	i65-84o94-116i136-158o231-253i262-284o308-330i343-365o395-417i444-466o476-498i519-538o553-575i	i(1-65=65) o(84-94=11) i(116-136=21) o(158-231=74) i(253-262=10) o(284-308=25) i(330-343=14) o(365-395=31) i(417-444=28) o(466-476=11) i(498-519=22) o(538-553=16) i(575-617=43)	NAS(192)/o 
+IPI00187289	"10 days embryo whole body cDNA, RIKEN full-length enriched library, clone:2610511E24 product:hypothetical protein, full insert sequence	350	i65-87o	i(1-65=65) o(87-350=65)	NYT(155)/o NHT(162)/o 
+IPI00396840	Endothelin-converting enzyme-1	769	i68-90o	i(1-68=68) o(90-769=68)	NAT(165)/o 
+IPI00120751	"Adult male brain UNDEFINED_CELL_LINE cDNA, RIKEN full-length enriched library, clone:M5C1016E12 product:Proton myo-inositol transporter homolog	637	i68-90o110-132i139-158o163-185i197-219o229-248i314-336o351-373i385-407o496-518i531-553o558-580i	i(1-68=68) o(90-110=21) i(132-139=8) o(158-163=6) i(185-197=13) o(219-229=11) i(248-314=67) o(336-351=16) i(373-385=13) o(407-496=90) i(518-531=14) o(553-558=6) i(580-637=58)	NGS(447)/o 
+IPI00124836	Beta-sarcoglyca	320	i70-92o	i(1-70=70) o(92-320=70)	NAT(213)/o 
+IPI00114839	Splice Isoform 1 of Mucolipin-	580	i70-92o299-321i348-370o385-407i428-450o495-517i	i(1-70=70) o(92-299=208) i(321-348=28) o(370-385=16) i(407-428=22) o(450-495=46) i(517-580=64)	NDT(179)/o 
+IPI00115599	"Corticosteroid 11-beta-dehydrogenase, isozyme 1	292	i7-24o	i(1-7=7) o(24-292=7)	NGS(162)/o 
+IPI00467985	"ES cells cDNA, RIKEN full-length enriched library, clone:C330026G04 product:low density lipoprotein receptor-related protein 2, full insert sequence	426	i7-24o	i(1-7=7) o(24-426=7)	NAT(299)/o NCT(178)/o 
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 	4660	i7-24o4425-4447i	i(1-7=7) o(24-4425=4402) i(4447-4660=214)	NGS(2131)/o NFT(2134)/o NRT(2225)/o NST(2782)/o NQS(4329)/o NNS(2396)/o NQS(1676)/o NCT(3566)/o NNT(3317)/o NQT(2488)/o 
+IPI00111013	Cathepsin D	410	i7-26o	i(1-7=7) o(26-410=7)	NVT(261)/o 
+IPI00113057	Plasma kallikrein	638	i7-26o	i(1-7=7) o(26-638=7)	NIS(127)/o NYT(494)/o 
+IPI00165768	Proto-oncogene protein c-ro	2340	i7-26o	i(1-7=7) o(26-2340=7)	NVS(2218)/o 
+IPI00467883	Glycosyltransferase 8 domain containing 	371	i7-26o	i(1-7=7) o(26-371=7)	NVT(257)/o 
+IPI00118173	Membrane copper amine oxidas	765	i7-29o	i(1-7=7) o(29-765=7)	NVS(137)/o 
+IPI00122522	Gamma-glutamyltranspeptidase 1	568	i7-29o	i(1-7=7) o(29-568=7)	NMS(343)/o NTT(510)/o NGS(229)/o NTT(114)/o NNS(119)/o 
+IPI00122557	Esterase 31-lik	571	i7-29o	i(1-7=7) o(29-571=7)	NIS(311)/o NDS(317)/o 
+IPI00125813	Dipeptidyl peptidase 	760	i7-29o	i(1-7=7) o(29-760=7)	NNT(144)/o NET(514)/o 
+IPI00268475	SialoadheSi	1605	i7-29o	i(1-7=7) o(29-1605=7)	NTS(1253)/o NET(346)/o 
+IPI00378366	N-acetylated-alpha-linked acidic dipeptidase-like protei	745	i7-29o	i(1-7=7) o(29-745=7)	NIS(620)/o NTS(279)/o NGS(329)/o 
+IPI00380717	"13 days embryo heart cDNA, RIKEN full-length enriched library, clone:D330004H12 product:gamma-glutamyltransferase-like activity 1, full insert sequence	573	i7-29o	i(1-7=7) o(29-573=7)	NIS(347)/o 
+IPI00653175	"8 days embryo whole body cDNA, RIKEN full-length enriched library, clone:5730407E21 product:acid phosphatase 2, lysosomal, full insert sequence	407	i7-29o	i(1-7=7) o(29-407=7)	NTS(92)/o NET(167)/o 
+IPI00329927	Neurofascin	1240	i7-29o1109-1131i	i(1-7=7) o(29-1109=1081) i(1131-1240=110)	NVT(1015)/o NHT(1047)/o NFS(877)/o NQT(881)/o 
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence	1179	i7-29o1142-1164i	i(1-7=7) o(29-1142=1114) i(1164-1179=16)	NMT(112)/o NVT(217)/o NTT(418)/o NSS(1113)/o NIT(882)/o NQT(531)/o NTS(100)/o NVT(105)/o NHT(459)/o 
+IPI00154056	Lysosomal acid phosphatase	423	i7-29o382-404i	i(1-7=7) o(29-382=354) i(404-423=20)	NLT(267)/o 
+IPI00345286	"0 day neonate lung cDNA, RIKEN full-length enriched library, clone:E030028C07 product:hypothetical Threonine-rich region profile containing protein, full insert sequence	500	i7-29o428-450i	i(1-7=7) o(29-428=400) i(450-500=51)	NTT(108)/o 
+IPI00127447	Lysosome membrane protein I	478	i7-29o434-456i	i(1-7=7) o(29-434=406) i(456-478=23)	NES(412)/o NQS(122)/o NGT(105)/o 
+IPI00331214	Platelet glycoprotein I	472	i7-29o444-466i	i(1-7=7) o(29-444=416) i(466-472=7)	NLS(235)/o NGT(247)/o NDT(205)/o NET(417)/o NIT(102)/o NCT(321)/o 
+IPI00136915	2-hydroxyacylsphingosine 1-beta-galactosyltransferase	541	i7-29o473-495i	i(1-7=7) o(29-473=445) i(495-541=47)	NST(78)/o 
+IPI00471231	"Adult male liver tumor cDNA, RIKEN full-length enriched library, clone:C730037I10 product:similar to UDP GLUCURONOSYLTRANSFERASE UGT2A3	534	i7-29o493-515i	i(1-7=7) o(29-493=465) i(515-534=20)	NMT(204)/o 
+IPI00138180	Vascular endothelial-cadherin	784	i7-29o598-620i	i(1-7=7) o(29-598=570) i(620-784=165)	NFT(523)/o NIT(535)/o 
+IPI00311731	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930433D02 product:Rhesus blood group-associated C glycoprotein, full insert sequence	498	i7-29o64-82i89-111o126-145i152-174o179-201i214-236o251-273i280-302o307-329i341-363o395-417i	i(1-7=7) o(29-64=36) i(82-89=8) o(111-126=16) i(145-152=8) o(174-179=6) i(201-214=14) o(236-251=16) i(273-280=8) o(302-307=6) i(329-341=13) o(363-395=33) i(417-498=82)	NIS(48)/o 
+IPI00622082	Angiopoietin-1 receptor	1122	i7-29o747-769i	i(1-7=7) o(29-747=719) i(769-1122=354)	NLT(595)/o 
+IPI00377642	Pituitary tumor-transforming gene 1 protein-interacting protein	174	i7-29o94-116i	i(1-7=7) o(29-94=66) i(116-174=59)	NRS(42)/o 
+IPI00114641	CD98 heavy chai	526	i76-98o	i(1-76=76) o(98-526=76)	NET(166)/o NMT(399)/o NIT(259)/o NES(385)/o 
+IPI00119952	Splice Isoform 1 of Neuronal membrane glycoprotein M6-	328	i78-100o129-151i171-193o264-286i	i(1-78=78) o(100-129=30) i(151-171=21) o(193-264=72) i(286-328=43)	NGT(217)/o 
+IPI00463492	Tmem2 protei	1383	i83-105o	i(1-83=83) o(105-1383=83)	NES(292)/o 
+IPI00461384	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930033O22 product:MYELOBLAST KIAA0230 homolog	1475	i9-26o	i(1-9=9) o(26-1475=9)	NIT(1277)/o 
+IPI00123619	"Cytochrome P450, family 2, subfamily d, polypeptide 22	500	i9-28o	i(1-9=9) o(28-500=9)	NLS(401)/o 
+IPI00118069	Tissue factor	294	i9-31o253-275i	i(1-9=9) o(31-253=223) i(275-294=20)	NYT(57)/o 
+IPI00461517	OTTMUSP0000000050	312	i9-31o41-63i87-109o124-146i233-255o	i(1-9=9) o(31-41=11) i(63-87=25) o(109-124=16) i(146-233=88) o(255-312=88)	NMS(155)/i 
+IPI00116921	Scavenger receptor class B member 	509	i9-31o440-462i	i(1-9=9) o(31-440=410) i(462-509=48)	NGS(310)/o NVS(330)/o 
+IPI00120907	"Oligopeptide transporter, small intestine isoform	709	i9-31o51-73i85-107o122-144i164-186o201-223i280-297o327-349i361-380o621-643i650-672o	i(1-9=9) o(31-51=21) i(73-85=13) o(107-122=16) i(144-164=21) o(186-201=16) i(223-280=58) o(297-327=31) i(349-361=13) o(380-621=242) i(643-650=8) o(672-709=8)	NMT(406)/o NTT(532)/o NIS(439)/o 
+IPI00134191	"Solute carrier family 2, facilitated glucose transporter member 3	493	i9-31o59-81i94-111o121-143i156-178o304-326i333-355o365-387i400-422o426-448i	i(1-9=9) o(31-59=29) i(81-94=14) o(111-121=11) i(143-156=14) o(178-304=127) i(326-333=8) o(355-365=11) i(387-400=14) o(422-426=5) i(448-493=46)	NYT(43)/o 
+IPI00314355	B-cell differentiation antigen CD7	354	i96-118o	i(1-96=96) o(118-354=96)	NSS(136)/o 
+IPI00330680	RIKEN cDNA 2310036D2	275	i97-119o	i(1-97=97) o(119-275=97)	NIT(184)/o 

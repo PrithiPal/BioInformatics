@@ -1,0 +1,5 @@
+overall Avg. No. of Seq(F&L) = 1.60707 Avg. No. of Seq.(All) = 1.58225
+onlyfirst Avg. No. of Seq(F&L) = 0.865385 Avg. No. of Seq.(All) = 1.73077
+onlylast Avg. No. of Seq(F&L) = 0.571429 Avg. No. of Seq.(All) = 1.14286
+both Avg. No. of Seq(F&L) = 0.375 Avg. No. of Seq.(All) = 0.75
+none Avg. No. of Seq(F&L) = 1.3567 Avg. No. of Seq.(All) = 1.49763

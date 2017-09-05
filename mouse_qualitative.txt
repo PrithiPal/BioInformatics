@@ -1,0 +1,1234 @@
+Supplementary Table 1. Quantitative analysis of extracellular proteomes from different tissues using spectrum count from MS/MS analysis (number of spectrum counts from each tissue)																	
+IPI	ProteinName	ProteinLocation	Unique-sequences	PeptideProPhet	Brain	Mammary	Intestine	Heart	Kidney	Liver	Ovary	Prostate	Epidermis	Spleen	Stomatch	Testis	Total Spectral Count
+
+	Macrophage colony-stimulating factor 1 receptor 	TM	K.HN#MTYFCK.T	0.9998	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00108098	CD82 antigen	TM	R.N#YTAN#ATSSR.E	0.9984	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00108098	CD82 antigen	TM	K.GFCEADN#STVSENNPEDWPVNTEGCMEK.A	0.9074	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00108535	Splice Isoform Long of Carcinoembryonic antigen-related cell adhesion molecule 1 	A	R.EIIYSN#GSLLFQMITMK.D	1	0	0	0	0	0	3	0	1	0	0	0	0	4
+IPI00108535	Splice Isoform Long of Carcinoembryonic antigen-related cell adhesion molecule 1 	A	K.N#ITVLEPVTQPFLQVTN#TTVK.E	1	0	4	2	2	0	5	0	2	0	3	0	0	18
+IPI00108764	C-X-C chemokine receptor type 5	TM	K.VGQPHNN#DSLPQCTFSQENEAETR.A	1	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00108811	Glucosylceramidase 	S	R.DLGPALAN#SSHDVK.L	0.9999	0	0	1	0	0	3	0	0	0	0	0	0	4
+IPI00108811	Glucosylceramidase 	S	R.MELSVGAIQAN#R.T	0.9934	0	0	2	0	0	1	0	0	0	1	0	1	5
+IPI00108844	Cation-dependent mannose-6-phosphate receptor 	TM	R.IN#ETHIFN#GSNWIMLIYK.G	0.9364	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00108844	Cation-dependent mannose-6-phosphate receptor 	TM	R.EASN#HSSGAGLVQIN#K.S	1	4	6	5	2	4	7	6	2	2	9	5	7	59
+IPI00108849	"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase"	A_low	R.KPNN#LSDTVK.E	0.9993	0	0	0	0	0	0	4	0	0	2	0	0	6
+IPI00109074	"ES cells cDNA, RIKEN full-length enriched library, clone:2410116I05 product:weakly similar to L1MD-9 REPETITIVE SEQUENCE"	I	K.KDFN#NSLQEIQENTAK.Q	0.9577	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00109108	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430002M11 product:intergral membrane protein 1, full insert sequence"	TM	R.TILVDN#NTWN#NTHISR.V	0.9758	0	0	1	0	0	0	0	0	0	0	4	1	6
+IPI00109213	Sodium/calcium exchanger 1 	TM	A.DTEAETGGN#ETTECTGSYYCK.K	1	4	0	0	2	0	0	0	0	0	0	0	0	6
+IPI00109375	Splice Isoform Beta of Poliovirus receptor related protein 2 	TM	R.VEDEGN#YTCEFATFPN#GTR.R	1	0	0	0	0	0	0	0	0	0	0	0	6	6
+IPI00109375	Splice Isoform Beta of Poliovirus receptor related protein 2 	TM	R.MVN#TTFICTATNAVGTGR.A	1	0	0	3	0	0	1	0	0	0	0	0	5	9
+IPI00109397	CDK5 regulatory subunit associated protein 1	S	R.DNSEVQFNNAGSAN#LSRGFTTNYKPK.Q	0.9218	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00109727	Thy-1 membrane glycoprotein 	S	K.VLTLAN#FTTK.D	0.9999	14	3	3	1	0	2	3	4	2	5	3	0	40
+IPI00109919	T3 olfactory receptor	TM	M.EVCN#STLR.S	0.9759	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00109946	MRC OX-45 surface antigen 	S	K.PSIEIN#KTEASTDSCHLR.L	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00109946	MRC OX-45 surface antigen 	S	K.SPGYVLDLIVTPQN#K.S	0.9998	0	1	0	0	0	0	0	0	0	5	0	0	6
+IPI00110325	Lysophosphatidic acid receptor Edg-7	TM	R.MDFFYN#R.S	0.9831	0	0	0	0	0	0	0	0	0	0	0	3	3
+IPI00110810	Prostate stem cell antigen 	S	R.DCLNVQN#CSLDQHSCFTSR.I	0.9999	0	0	0	0	0	0	0	0	0	0	5	0	5
+IPI00110852	"Translocon-associated protein alpha, muscle specific isoform"	A	R.YPQDYQFYIQN#FTALPLNTVVPPQR.Q	0.9998	0	0	0	0	0	0	0	1	0	1	0	3	5
+IPI00111013	Cathepsin D 	S	K.YYHGELSYLN#VTR.K	1	2	8	0	0	0	6	11	12	1	10	3	14	67
+IPI00111115	"Adult male stomach cDNA, RIKEN full-length enriched library, clone:2210003I03 product:weakly similar to METASTASIS-ASSOCIATED GPI- ANCHORED PROTEIN"	S	R.MNIGN#FSVPVYIR.T	0.9999	0	1	0	0	0	0	0	0	0	0	2	0	3
+IPI00111158	Voltage-dependent calcium channel alpha-2-delta-2 subunit	S	K.AGFEYAFDQLQNSN#ITR.A	0.9998	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00111163	Ectonucleotide pyrophosphatase/phosphodiesterase 5 	TM	K.FDEVYDALAGAHPN#LTVYK.K	0.9989	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00111183	Atrial natriuretic peptide receptor A 	S	K.KFN#FTMEDGLK.N	0.9976	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00111286	"8 days embryo whole body cDNA, RIKEN full-length enriched library, clone:5730592L21 product:HT PROTEIN homolog"	S	R.N#ETHSICSACDESCK.T	1	0	0	0	0	0	0	0	3	0	0	0	4	7
+IPI00111366	Splice Isoform 1 of Tumor necrosis factor receptor superfamily member 13C	TM	R.DSSVPTQCN#QTECFDPLVR.N	0.9999	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00111793	Nidogen 	S	R.CVAN#YTGNGR.Q	0.9999	0	0	0	0	0	0	1	0	0	0	0	2	3
+IPI00112105	Cystatin-related epididymal spermatogenic protein 	S	K.KPLN#NTENCIPQK.K	1	0	0	0	0	0	0	0	0	0	0	0	4	4
+IPI00112176	Copper homeostasis protein cutC homolog	I	R.N#SSVAMGASLAHSEYSLK.V	0.9386	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00112322	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030614P22 product:UDP-glucuronosyltransferase 2 family, member 5, full insert sequence"	A_low	S.LGSMVSN#MTEEK.A	0.9999	0	0	0	0	0	10	0	0	0	0	0	0	10
+IPI00112326	Epithelial membrane protein 1	TM	K.N#CTGGNCDGSLSYGNEDAIK.A	1	0	1	4	0	0	0	4	3	5	3	4	0	24
+IPI00112614	ATP-binding cassette sub-family A member 1	TM	R.YPTPGEAPGVVGNFN#K.S	0.9846	0	0	0	0	0	0	2	0	0	0	0	0	2
+IPI00112614	ATP-binding cassette sub-family A member 1	TM	R.EAFN#ETNQAIQTISR.F	0.9999	0	0	0	0	0	0	2	0	0	1	0	0	3
+IPI00112662	"10, 11 days embryo whole body cDNA, RIKEN full-length enriched library, clone:2810003K23 product:hypothetical protein, full insert sequence"	I	K.DYNKKQISQLNALITLLIGN#LTAGDRMK.I	0.8411	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00112674	"Adult male testis cDNA, RIKEN full-length enriched library, clone:1700074P13 product:hypothetical Serine proteases, trypsin family containing protein, full insert sequence"	S	K.EQICN#YSFTVVHPNFDAK.L	0.9999	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00113001	Putative taste receptor type 2 member 43	TM	M.RN#RTLPAADMIVASLASSR.F	0.9239	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00113039	Splice Isoform 3 of Soluble calcium-activated nucleotidase 1	I	R.ISHYN#DTYPLSPPQR.T	0.9999	0	0	1	0	0	1	0	0	0	1	3	0	6
+IPI00113042	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4932410E13 product:N-acetylated alpha-linked acidic dipeptidase 2, full insert sequence"	TM	K.GSLN#VSYNIGPGFTGSEYSR.N	0.9487	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00113057	Plasma kallikrein 	A	R.GSNFN#ISK.T	0.9589	0	2	0	1	0	1	0	0	0	2	1	1	8
+IPI00113057	Plasma kallikrein 	A	K.LQTPLN#YTEFQKPICLPSK.A	1	0	3	0	2	0	0	2	0	0	0	0	2	9
+IPI00113158	Folate receptor beta 	S	K.NACCSVN#TSQELHK.A	1	0	6	0	0	0	2	2	0	1	0	0	0	11
+IPI00113227	Heparin cofactor II 	S	K.NGN#MSGISDQR.I	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00113227	Heparin cofactor II 	S	A.EQLTNEN#LTTSFLPANFHK.E	1	0	3	0	1	0	0	3	0	0	4	0	6	17
+IPI00113310	"Adult pancreas islet cells cDNA, RIKEN full-length enriched library, clone:C820019D11 product:kidney-specific membrane protein, full insert sequence"	A	R.EATEISHVLLCN#ITQR.V	0.9999	0	0	0	0	6	0	0	0	0	0	0	0	6
+IPI00113350	Cannabinoid receptor 2	TM	R.ETEVTN#GSNGGLEFNPMK.E	1	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00113411	Osteoblast differentiation promoting factor	TM	K.EAEN#QTIPALEELLK.E	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00113480	Myeloperoxidase 	S	R.ALMPFDSLHDDPCLLTN#R.S	0.9953	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00113480	Myeloperoxidase 	S	R.N#LTNQLGLLAVNTR.F	1	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00113517	Cathepsin B 	S	N.GSRPPCTGEGDTPR.C	0.926	0	0	0	0	0	1	0	0	0	1	0	0	2
+IPI00113539	Fibronectin 	S	R.HEEGHMLN#CTCFGQGR.G	1	0	0	0	1	2	1	0	4	1	2	1	0	12
+IPI00113539	Fibronectin 	S	R.DQCIVDDITYNVN#DTFHK.R	1	0	6	4	0	3	8	5	7	2	5	6	1	47
+IPI00113726	Laminin alpha-1 chain 	S	R.QISIN#NTAVMQR.L	0.9853	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00113726	Laminin alpha-1 chain 	S	R.PLLAPCVPCNCNN#HSDVCDPETGK.C	0.9814	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00113726	Laminin alpha-1 chain 	S	R.VN#ATVQETNDLLHN#STMTTLLAGR.K	0.9935	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00113726	Laminin alpha-1 chain 	S	R.VFN#TSEDLSR.V	0.9982	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00113726	Laminin alpha-1 chain 	S	K.ERN#FTEMQQN#ATLELK.A	0.9987	0	0	0	0	0	0	0	0	0	0	0	3	3
+IPI00113726	Laminin alpha-1 chain 	S	R.IAN#ISMEVGR.K	0.997	0	1	0	0	0	0	0	0	0	0	1	1	3
+IPI00113726	Laminin alpha-1 chain 	S	R.VQEEQN#VTSELIAK.G	1	0	0	0	0	0	0	2	0	0	0	0	2	4
+IPI00113726	Laminin alpha-1 chain 	S	K.EANSLLSN#HSEK.L	0.9613	0	0	0	0	0	0	0	3	1	0	0	1	5
+IPI00113726	Laminin alpha-1 chain 	S	K.VATLN#QTAR.K	0.9993	0	1	2	0	2	0	2	0	0	0	2	0	9
+IPI00113824	Basement membrane-specific heparan sulfate proteoglycan core protein 	A	R.IQGEEIVFHDVN#LTTH.G	0.9958	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00113824	Basement membrane-specific heparan sulfate proteoglycan core protein 	A	K.LTVPSSQN#SSFR.L	0.9817	0	2	0	0	0	0	0	0	0	0	0	0	2
+IPI00113824	Basement membrane-specific heparan sulfate proteoglycan core protein 	A	R.SLTQGSLIVGNLAPVN#GTSQGK.F	1	0	2	0	1	0	1	0	0	0	2	0	1	7
+IPI00114063	Niemann-Pick C1-like protein 1 	TM	R.LYNGPN#DTYACCSTK.Q	1	0	0	5	0	0	0	0	0	0	0	0	0	5
+IPI00114063	Niemann-Pick C1-like protein 1 	TM	K.NPELSGGLTSLSN#ISCLSNTPAR.H	0.9937	0	0	5	0	0	0	0	0	0	0	0	0	5
+IPI00114256	Splice Isoform 1 of Synaptophysin-like protein	TM	R.LNQASFHTPPN#VSVCDVNWEK.H	0.9981	3	0	4	0	2	4	3	0	0	1	6	0	23
+IPI00114256	Splice Isoform 1 of Synaptophysin-like protein	TM	K.N#QTVTATFGYPFR.L	1	4	12	17	1	9	5	12	6	3	15	9	8	101
+IPI00114265	PREDICTED: RIKEN cDNA 2010001C14	S	R.LDQCN#TTFGNEVFSVMYR.A	1	0	0	4	0	0	0	0	0	0	0	0	0	4
+IPI00114265	PREDICTED: RIKEN cDNA 2010001C14	S	K.GTPDPEYPSDSN#QSGTR.L	0.9999	0	0	4	0	0	0	0	0	0	0	0	0	4
+IPI00114274	Semaphorin-4D 	TM	R.AAN#YTSSLNLPDK.T	0.9973	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00114279	Excitatory amino acid transporter 1	TM	K.VPIQSN#ETLLGAVINN#VSEAMETLTR.I	1	5	3	0	0	0	0	0	0	0	0	0	0	8
+IPI00114295	Noelin-2 	I	K.VQN#VSQSMEVLELR.T	0.9998	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00114319	Extracellular superoxide dismutase [Cu-Zn] 	S	R.LEAYFSLEGFPAEQN#ASNR.A	0.9999	0	2	0	0	0	2	0	0	0	0	0	0	4
+IPI00114348	"Splice Isoform 2A of Dihydropyridine-sensitive L-type, calcium channel alpha-2/delta subunits "	A	R.SLDNDNYVFTAPYFN#K.S	0.9513	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00114348	"Splice Isoform 2A of Dihydropyridine-sensitive L-type, calcium channel alpha-2/delta subunits "	A	K.DDLDPERN#ESEPGSQR.I	0.9999	6	3	2	1	3	0	6	3	3	4	5	0	36
+IPI00114350	Angiopoietin-1 	A	K.LTDVETQVLN#QTSR.L	0.99	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00114361	Beta-microseminoprotein 	A	K.DNCDVQFHPEN#CTYSVVDR.K	1	0	0	0	0	0	0	0	5	0	0	0	0	5
+IPI00114457	Transforming growth factor beta 1 	S	R.LASPPSQGEVPPGPLPEAVLALYN#STR.D	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00114457	Transforming growth factor beta 1 	S	K.DISHSIYMFFN#TSDIR.E	0.9976	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00114641	CD98 heavy chain	TM	K.DEIN#ETDLK.Q	0.9988	1	1	2	0	1	0	0	0	0	0	0	5	10
+IPI00114641	CD98 heavy chain	TM	R.PVSLN#MTVK.G	0.9861	0	2	4	0	5	0	4	0	0	1	0	4	20
+IPI00114641	CD98 heavy chain	TM	K.LMNAPLYLAEWQN#ITK.N	1	5	0	5	0	1	0	2	2	0	1	1	5	22
+IPI00114641	CD98 heavy chain	TM	K.APLMPWN#ESSIFHIPR.P	1	8	4	6	0	8	1	5	4	3	11	5	13	68
+IPI00114788	B-lymphocyte antigen CD19 	TM	R.RPN#VSLLSLSLGGEHPVR.E	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00114788	B-lymphocyte antigen CD19 	TM	R.GN#LTIER.H	0.9846	0	0	0	0	0	0	1	1	0	1	0	0	3
+IPI00114810	Suppressor of tumorigenicity 14	TM	R.VIN#QTTCEDLMPQQITPR.M	0.9921	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00114839	Splice Isoform 1 of Mucolipin-1	TM	R.GHVDPAN#DTFDIDPR.V	0.9676	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00114881	Carbonic anhydrase 6 	S	K.AQVVTIENSVMDHNN#NTIQNGYR.S	0.9919	0	0	4	0	0	0	0	0	0	0	3	0	7
+IPI00114958	Splice Isoform HMW of Kininogen-1 	S	K.IAN#FSQSCTLYSGDDLVEALPKPCPGCPR.D	1	0	11	0	8	6	0	10	9	5	7	7	10	73
+IPI00115089	Splice Isoform Long of Ectonucleoside triphosphate diphosphohydrolase 2	TM	R.LLN#LTSPEATAK.V	0.997	0	1	0	0	0	0	1	2	0	0	0	3	7
+IPI00115116	Plasmalemma vesicle-associated protein	TM	R.ADSLYSQVVGLSASQAN#LSK.Q	0.9189	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00115231	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:G530110M10 product:solute carrier family 12, member 4, full insert sequence"	TM	K.TVVVDN#ETVATR.L	0.9999	0	0	0	0	0	0	2	0	0	0	0	0	2
+IPI00115397	B-cell surface protein CD20 homolog	TM	R.LELIQTSKPYVDIYDCEPSN#SSEK.N	0.9672	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00115482	Sodium/bile acid cotransporter	TM	N.VSAPFN#FSLPPGFGHR.A	1	0	0	0	0	0	9	0	0	0	0	0	0	9
+IPI00115516	EMILIN-1 	S	R.FN#STLGPSEEQEK.N	0.9991	0	0	0	0	0	0	3	0	0	1	0	0	4
+IPI00115516	EMILIN-1 	S	R.ESN#STSLTQAALLEK.L	1	0	0	0	1	0	0	1	0	0	3	3	0	8
+IPI00115516	EMILIN-1 	S	K.LEGLLAN#VSR.E	1	0	0	2	0	0	0	3	0	0	1	2	0	8
+IPI00115599	"Corticosteroid 11-beta-dehydrogenase, isozyme 1"	TM	K.QSN#GSIAVISSLAGK.M	1	0	2	0	0	0	2	0	0	0	0	0	0	4
+IPI00115762	Neural cell adhesion molecule L1 	TM	K.VPGN#QTSTTLK.L	0.9961	1	1	0	0	0	0	0	0	0	2	0	0	4
+IPI00115793	Desmoglein-2 	TM	R.YVQN#GTYTAK.V	0.9998	0	0	2	3	0	0	0	0	0	0	5	0	10
+IPI00115854	TROP2 protein	TM	R.AFN#HSDLDSELR.R	0.9987	0	0	0	0	0	0	0	0	1	0	1	0	2
+IPI00115892	"Splice Isoform Long of H-2 class II histocompatibility antigen, gamma chain"	TM	R.PMSMDNMLLGPVKN#VTK.Y	0.9972	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00115892	"Splice Isoform Long of H-2 class II histocompatibility antigen, gamma chain"	TM	K.YGN#MTQDHVMHLLTR.S	1	0	1	3	0	0	0	0	0	1	14	0	0	19
+IPI00115976	Integrin alpha-5 	TM	K.VTGLSN#CTSN#YTPN.S	0.9994	0	0	0	0	0	2	3	0	0	0	0	0	5
+IPI00116056	Sodium-dependent noradrenaline transporter	TM	K.LLN#ASVLGDHTK.Y	0.996	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00116105	Corticosteroid-binding globulin 	S	R.GSTQYLENLGFN#MSK.M	1	1	3	2	2	2	1	4	0	2	3	4	0	24
+IPI00116105	Corticosteroid-binding globulin 	S	K.DLFTN#QSDFADTTK.D	1	1	3	4	2	2	0	3	0	4	6	0	0	25
+IPI00116105	Corticosteroid-binding globulin 	S	R.EEDFYVN#ETSTVK.V	1	0	13	2	3	5	4	5	1	8	4	7	3	55
+IPI00116355	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330047K04 product:glial cell line derived neurotrophic factor family receptor alpha 2, full insert sequence"	S	R.NAIQAFGN#GTDVN#MSPK.G	1	3	0	0	0	0	0	0	0	0	2	0	0	5
+IPI00116913	Laminin alpha-5 chain 	S	R.LN#ASIADLQSK.L	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00116913	Laminin alpha-5 chain 	S	R.PGALN#FSYSPLLR.D	0.9638	1	0	0	0	0	1	1	0	0	0	0	0	3
+IPI00116913	Laminin alpha-5 chain 	S	R.LN#VTSPDLFR.L	0.9996	1	0	0	0	2	0	0	0	0	0	0	0	3
+IPI00116913	Laminin alpha-5 chain 	S	K.QELSQDN#ATLK.A	0.9959	0	0	0	0	1	0	2	0	0	1	0	0	4
+IPI00116913	Laminin alpha-5 chain 	S	R.EALNQAVN#TTR.E	0.9996	0	2	0	0	2	0	0	1	0	2	1	1	9
+IPI00116913	Laminin alpha-5 chain 	S	R.EQLQGIN#ASSAAWAR.L	0.9992	0	0	0	4	3	0	3	3	0	0	3	2	18
+IPI00116913	Laminin alpha-5 chain 	S	R.QLLAN#SSALEETILGHQGR.L	1	0	0	0	5	4	0	3	3	0	4	5	1	25
+IPI00116921	Scavenger receptor class B member 1	TM	R.FTAPDTLFAN#GSVYPPNEGFCPCR.E	0.9997	0	0	0	0	0	1	3	0	0	0	0	0	4
+IPI00116921	Scavenger receptor class B member 1	TM	R.ESGIQN#VSTCR.F	0.9999	0	4	0	0	0	3	5	0	0	0	0	1	13
+IPI00116945	Splice Isoform 1 of Complement factor D 	S	K.LSQN#ASLGPHVRPLPLQYEDK.E	1	0	14	2	3	6	1	16	0	10	4	5	4	65
+IPI00117094	Frizzled 4 	TM	R.IAMCQNLGYN#VTK.M	0.9885	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00117140	"Fc receptor, IgG, low affinity IIb"	TM	K.EDTVTLTCEGTHNPGN#SSTQWFHNGR.S	0.9998	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00117140	"Fc receptor, IgG, low affinity IIb"	TM	R.YHHYSSN#FSIPK.A	1	0	2	0	0	0	2	0	0	2	0	0	1	7
+IPI00117140	"Fc receptor, IgG, low affinity IIb"	TM	K.ATVN#DSGEYR.C	1	0	2	0	1	0	2	2	0	2	3	0	1	13
+IPI00117161	Zona pellucida sperm-binding protein 2 	TM	K.PALNLDTLLVGN#SSCQPIFK.V	0.9999	0	0	0	0	0	0	4	0	0	0	0	0	4
+IPI00117413	Splice Isoform 1 of B-cell receptor CD22 	TM	R.AN#DSGNLGLR.M	0.9999	0	0	2	0	0	0	0	0	0	5	0	0	7
+IPI00117413	Splice Isoform 1 of B-cell receptor CD22 	TM	R.YN#SSNPDVTSYR.W	1	0	0	0	0	0	0	0	0	0	8	0	0	8
+IPI00117413	Splice Isoform 1 of B-cell receptor CD22 	TM	K.VNPTEVEKN#NSVTMTCR.V	1	0	0	0	0	0	0	0	0	0	13	0	0	13
+IPI00117424	Intercellular adhesion molecule 2 	TM	K.IN#CSTNCAAPDMGGLETPTNK.I	0.9999	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00117735	Myelin P0 protein 	TM	K.DGSIVIHNLDYSDN#GTFTCDVK.N	1	0	19	0	0	0	0	0	4	13	0	0	0	36
+IPI00117831	Ceruloplasmin 	S	K.ELHHLQEQN#VSNVFLDK.E	1	0	0	0	0	0	0	0	0	0	0	0	5	5
+IPI00117831	Ceruloplasmin 	S	K.EYEGAVYPDN#TTDFQR.A	1	3	4	1	0	5	0	1	1	2	0	4	14	35
+IPI00117950	"Adult male testis cDNA, RIKEN full-length enriched library, clone:1700021A02 product:weakly similar to SPERM ACROSOME MEMBRANE PROTEIN SAMP32"	TM	K.LLKPDQQPVILTN#DSAVLEITR.E	0.9963	0	0	0	0	0	0	0	0	0	0	0	7	7
+IPI00117957	Asporin 	S	R.ITDIEN#GTFANIPR.V	1	0	2	2	1	0	0	1	0	9	0	4	0	19
+IPI00117986	CIP1	TM	R.PGTN#ASSVPHR.H	0.9963	0	0	2	0	0	1	0	0	0	2	0	0	5
+IPI00118020	Nectin-like protein 1	A	K.MTQESALIFPFLN#K.S	0.986	5	0	0	0	0	0	0	0	1	0	1	0	7
+IPI00118037	"Adult male testis cDNA, RIKEN full-length enriched library, clone:1700018F16 product:similar to PUTATIVE METALLOPEPTIDASE"	S	R.HHFYTN#ISGLTSFGEK.V	0.9978	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00118037	"Adult male testis cDNA, RIKEN full-length enriched library, clone:1700018F16 product:similar to PUTATIVE METALLOPEPTIDASE"	S	R.MCSAYPELELVTSADGLN#NTQK.L	1	0	0	0	0	0	0	0	0	0	0	0	3	3
+IPI00118069	Tissue factor 	TM	K.PTN#YTYTVQISDR.S	0.9969	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00118130	Alpha-1-acid glycoprotein 1 	S	N.PEHAN#FTIGEPITN#ETLSWLSDK.W	1	0	0	0	1	0	0	1	1	0	0	0	0	3
+IPI00118130	Alpha-1-acid glycoprotein 1 	S	R.QAIQTMQSEFFYLTTNLIN#DTIELR.E	1	0	3	1	1	0	0	2	4	2	0	3	13	29
+IPI00118130	Alpha-1-acid glycoprotein 1 	S	R.ESQTIGDQCVYN#STHLGFQR.E	1	0	5	0	1	1	0	8	14	3	4	1	27	64
+IPI00118173	Membrane copper amine oxidase	S	K.PN#VSELVVGPLPHPSYMR.D	1	0	12	0	0	0	0	5	0	2	0	2	0	21
+IPI00118191	Splice Isoform 1 of Receptor-type tyrosine-protein phosphatase N2 	A	K.VSANIQN#MTTADVIK.A	0.9817	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00118351	"Adult male testis cDNA, RIKEN full-length enriched library, clone:1700016G05 product:hypothetical Serine proteases, trypsin family containing protein, full insert sequence"	S	R.YWN#YSHTAPQDDLMLIK.L	0.9992	0	0	0	0	0	0	0	0	0	0	0	3	3
+IPI00118355	Pancreatic lipase-related protein 1 	S	K.FAN#NTSVEPQK.F	0.9997	0	0	0	0	0	0	0	4	0	0	0	0	4
+IPI00118385	Splice Isoform 1 of Glutamate [NMDA] receptor subunit zeta 1 	TM	K.FAN#YSIMNLQNR.K	0.9803	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00118385	Splice Isoform 1 of Glutamate [NMDA] receptor subunit zeta 1 	TM	K.LVQVGIYN#GTHVIPNDR.K	0.9688	2	0	0	0	0	0	0	0	0	0	1	0	3
+IPI00118385	Splice Isoform 1 of Glutamate [NMDA] receptor subunit zeta 1 	TM	K.VICTGPN#DTSPGSPR.H	1	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00118413	Thrombospondin 1	S	L.DNNVVN#GSSPAIR.T	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00118413	Thrombospondin 1	S	K.VSCPIMPCSN#ATVPDGECCPR.C	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00118413	Thrombospondin 1	S	K.VVN#STTGPGEHLR.N	1	0	0	1	2	3	0	4	1	0	9	1	3	24
+IPI00118851	PREDICTED: protein disulfide isomerase-like protein of the testis	I	M.VLTPAGLTQTLN#ETR.F	0.9992	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00118851	PREDICTED: protein disulfide isomerase-like protein of the testis	I	K.ALLFN#NSDEVADFVK.S	0.9999	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00118851	PREDICTED: protein disulfide isomerase-like protein of the testis	I	K.YQN#HSTVIIAK.I	0.9974	0	0	0	0	0	0	0	0	0	0	0	5	5
+IPI00118851	PREDICTED: protein disulfide isomerase-like protein of the testis	I	R.VNVPSVQILN#LSSDGR.Y	1	0	0	0	0	0	0	0	0	0	0	0	9	9
+IPI00119004	"Adult male cerebellum cDNA, RIKEN full-length enriched library, clone:1500019E20 product:hypothetical Lipolytic enzyme, G-D-S-L containing protein, full insert sequence"	A_low	R.KGPGMENPVAVTIFFGAN#DSSLK.D	0.9105	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00119033	Intercellular adhesion molecule 5 	TM	R.PVVAELAASPPSVRPGGN#FTLTCR.A	0.8594	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00119033	Intercellular adhesion molecule 5 	TM	R.NSMTPGN#LSPGIYLCN#ATNR.H	0.9717	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00119063	AM2 receptor	TM	R.TCPLDEFQCN#NTLCK.P	0.9583	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00119063	AM2 receptor	TM	R.GVTHLN#ISGLK.M	0.9942	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00119063	AM2 receptor	TM	R.GPCSHLCLINYN#R.T	0.9917	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00119063	AM2 receptor	TM	K.LYWTDGDN#ISMANMDGSN#HTLLFSGQK.G	0.9998	0	0	0	0	0	1	3	0	0	0	0	0	4
+IPI00119063	AM2 receptor	TM	A.VAN#DTNSCELSPCR.I	1	0	0	0	0	0	5	0	0	0	0	0	0	5
+IPI00119063	AM2 receptor	TM	R.LN#GTDPIVAADSK.R	1	0	0	0	0	0	1	3	0	0	2	0	0	6
+IPI00119063	AM2 receptor	TM	K.LNLDGSN#YTLLK.Q	1	0	1	0	0	0	5	1	0	0	1	0	0	8
+IPI00119063	AM2 receptor	TM	K.QTGDVTCN#CTDGR.V	1	0	1	0	0	0	3	4	1	0	0	0	0	9
+IPI00119063	AM2 receptor	TM	K.DN#ATDSVPLR.T	1	1	0	1	0	0	2	4	0	0	0	0	1	9
+IPI00119063	AM2 receptor	TM	R.FN#STEYQVVTR.V	0.9999	1	1	0	0	0	6	3	0	0	0	0	0	11
+IPI00119063	AM2 receptor	TM	R.MHLN#GSNVQVLHR.T	1	1	0	1	0	0	3	4	1	0	0	0	2	12
+IPI00119063	AM2 receptor	TM	R.IETILLN#GTDR.K	1	1	1	0	0	0	8	2	0	1	0	0	0	13
+IPI00119063	AM2 receptor	TM	K.LTSCATN#ASMCGDEAR.C	1	0	6	0	0	0	6	4	2	4	4	5	5	36
+IPI00119065	Laminin beta-2 chain 	A	R.AN#ASTFAVPSPVSNSADTR.R	0.9998	0	0	0	1	0	0	0	1	0	0	0	0	2
+IPI00119065	Laminin beta-2 chain 	A	R.AQAALDKAN#ASR.G	0.9993	0	0	0	0	1	0	0	1	0	0	0	0	2
+IPI00119095	Ganglioside GM2 activator 	A	K.EGTYSLPTSN#FTVPDLELPSWLSTGNYR.I	0.9233	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00119130	"Adult male cerebellum cDNA, RIKEN full-length enriched library, clone:1500005I02 product:hypothetical BTB/POZ domain containing protein, full insert sequence"	A	R.ELLSN#QSEVMLR.E	0.9997	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00119299	Splice Isoform 1 of Leukemia inhibitory factor receptor 	TM	R.LGVQMHPGQEIHN#FTLTGR.N	1	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00119299	Splice Isoform 1 of Leukemia inhibitory factor receptor 	TM	K.VPSN#STETVIESDQFQPGVR.Y	1	0	1	0	3	0	1	1	0	0	2	1	0	9
+IPI00119299	Splice Isoform 1 of Leukemia inhibitory factor receptor 	TM	R.IEGLTN#ETYR.L	1	1	1	0	1	0	5	1	0	0	1	0	0	10
+IPI00119299	Splice Isoform 1 of Leukemia inhibitory factor receptor 	TM	R.HDPN#MTCDYVIK.W	1	0	3	1	1	1	1	2	0	3	1	1	0	14
+IPI00119299	Splice Isoform 1 of Leukemia inhibitory factor receptor 	TM	K.VVLAGSN#MTICCMSPTK.V	1	0	4	0	3	0	2	6	0	0	5	0	0	20
+IPI00119463	Voltage-dependent calcium channel gamma-1 subunit	TM	K.SCEHVTPSGEKN#CSYFR.H	0.9999	0	0	0	0	0	0	0	3	0	0	0	0	3
+IPI00119522	"Carboxypeptidase N, polypeptide 2 homolog"	S	R.AFSGSPN#LTK.V	0.822	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00119522	"Carboxypeptidase N, polypeptide 2 homolog"	S	R.LQDLEITGSPVSN#LSAHIFSN#LSSLEK.L	1	0	0	0	3	0	0	1	0	0	1	1	1	7
+IPI00119522	"Carboxypeptidase N, polypeptide 2 homolog"	S	K.LSLDSNN#LTALHPALFHN#LSR.L	1	0	3	0	5	0	0	0	0	0	1	0	0	9
+IPI00119525	Histamine H3 receptor	TM	R.APPDGLMN#ASGALAGEAAAAGGAR.G	0.9981	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00119756	OX-2 membrane glycoprotein 	TM	K.GTGTGIEN#STESHFHSN#GTTSVTSILR.V	1	3	2	0	0	0	0	1	0	0	0	0	1	7
+IPI00119809	Mama protein	S	K.APIPTALDTN#SSK.T	1	0	6	2	0	0	2	0	2	0	1	2	1	16
+IPI00119809	Mama protein	S	K.GLN#LTEDTYKPR.L	0.9999	0	4	1	0	0	1	3	0	0	6	4	0	19
+IPI00119809	Mama protein	S	R.ALGYEN#ATQALGR.A	1	0	1	0	0	0	9	4	1	5	4	2	0	26
+IPI00119818	"Adult male liver cDNA, RIKEN full-length enriched library, clone:1300004A21 product:inter alpha-trypsin inhibitor, heavy chain 4, full insert sequence"	S	K.AFITN#FSMIIDGVTYPGVVK.E	1	0	0	0	0	0	0	0	0	0	0	0	6	6
+IPI00119818	"Adult male liver cDNA, RIKEN full-length enriched library, clone:1300004A21 product:inter alpha-trypsin inhibitor, heavy chain 4, full insert sequence"	S	R.GLMLLLN#DTQHFSNNVK.G	1	0	0	0	2	0	0	1	5	0	2	0	14	24
+IPI00119818	"Adult male liver cDNA, RIKEN full-length enriched library, clone:1300004A21 product:inter alpha-trypsin inhibitor, heavy chain 4, full insert sequence"	S	R.ISASGAELEALEAQVLN#LSLK.Y	1	0	3	0	3	0	0	0	6	0	7	0	7	26
+IPI00119818	"Adult male liver cDNA, RIKEN full-length enriched library, clone:1300004A21 product:inter alpha-trypsin inhibitor, heavy chain 4, full insert sequence"	S	K.VSGQMHMQN#ITFQTEASVAQQEK.E	1	0	4	0	6	1	0	6	6	0	2	0	14	39
+IPI00119952	Splice Isoform 1 of Neuronal membrane glycoprotein M6-b	TM	K.SPQSN#GTSGVEQICVDVR.Q	0.9999	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00120073	FK506-binding protein 7 	A	K.IEVLHRPEN#CSK.T	0.9858	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00120160	Zona pellucida sperm-binding protein 3 receptor 	S	M.VINGN#LSVER.V	0.999	0	0	0	0	0	0	0	0	0	0	0	4	4
+IPI00120166	Zinc transporter 1	TM	K.SSVEIIN#STQAPMR.D	0.9911	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00120187	Fibromodulin 	S	R.LYLDHNN#LTR.M	0.9914	0	0	0	0	0	0	0	2	0	1	0	0	3
+IPI00120225	Insulin-like growth factor 1 receptor 	TM	R.N#STQSMYCIPCEGPCPK.V	0.8615	0	0	0	0	0	0	2	1	0	0	0	0	3
+IPI00120225	Insulin-like growth factor 1 receptor 	TM	R.DVMQVAN#TTMSSR.S	0.9982	1	0	1	0	2	0	0	0	0	0	1	1	6
+IPI00120227	Macrophage receptor MARCO	TM	R.QQFNN#LTQNPELFQIK.G	0.8801	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00120245	Integrin alpha-V 	TM	R.TAADATGLQPILNQFTPAN#VSR.Q	0.995	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00120245	Integrin alpha-V 	TM	K.AN#TTQPGIVEGGQVLK.C	0.9999	0	0	0	0	0	0	5	0	0	1	0	1	7
+IPI00120245	Integrin alpha-V 	TM	R.IKTPEKN#DTGAAGQGER.S	1	1	1	3	0	1	0	3	1	2	3	2	2	19
+IPI00120389	DNA cross-link repair 1A protein	I	M.N#ISESSGAGEVR.R	0.9296	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00120434	23 kDa protein	S	G.NPEVSLEGSPGDRVN#LSCIGVSDPTR.W	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00120564	Splice Isoform 6 of Neuronal cell adhesion molecule 	TM	K.LSPYVN#YSFR.V	0.9932	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00120564	Splice Isoform 6 of Neuronal cell adhesion molecule 	TM	Y.ILQYQPIN#STHELGPLVDLK.I	0.9924	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00120674	"B6-derived CD11 +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F730209H22 product:integrin alpha M, full insert sequence"	S	R.LN#YTLVGEPLR.S	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00120674	"B6-derived CD11 +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F730209H22 product:integrin alpha M, full insert sequence"	S	R.TPVLN#CSVAVCK.R	0.9998	0	0	0	0	0	0	0	0	3	0	0	0	3
+IPI00120674	"B6-derived CD11 +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F730209H22 product:integrin alpha M, full insert sequence"	S	K.AVN#QTGALYQCDYSTSR.C	1	0	1	1	0	0	0	1	0	0	2	0	0	5
+IPI00120674	"B6-derived CD11 +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F730209H22 product:integrin alpha M, full insert sequence"	S	K.AIVASENN#MSR.T	0.9999	0	0	1	0	0	0	0	0	2	4	0	0	7
+IPI00120751	"Adult male brain UNDEFINED_CELL_LINE cDNA, RIKEN full-length enriched library, clone:M5C1016E12 product:Proton myo-inositol transporter homolog"	TM	K.IN#GSAVIDSSCVPVNK.A	1	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00120769	"TIB-55 BB88 cDNA, RIKEN full-length enriched library, clone:I730044C04 product:solute carrier family 29 (nucleoside transporters), member 1, full insert sequence"	TM	R.LDVSQN#VSSDTDQSCESTK.A	1	0	0	2	2	1	9	0	1	0	4	2	5	26
+IPI00120793	Major prion protein 	TM	K.GEN#FTETDVK.M	1	5	0	0	2	0	0	1	2	1	2	2	0	15
+IPI00120848	Mimecan 	S	I.SSLTDDTFCKAN#DTR.Y	0.9521	0	0	0	0	0	0	1	0	2	0	0	0	3
+IPI00120870	Splice Isoform 2 of Periostin 	S	K.GVN#ETLLVNELK.S	0.9996	0	3	0	0	0	0	2	0	4	0	3	0	12
+IPI00120882	Natural killer cell surface protein P1-34	TM	K.ITGDTEN#GSCASISGDK.V	0.9999	0	0	1	0	0	0	0	0	1	0	0	0	2
+IPI00120900	Oviduct-specific glycoprotein 	S	K.HAVTPEN#NTMAAEAK.T	1	0	0	0	0	0	0	8	0	0	0	0	0	8
+IPI00120900	Oviduct-specific glycoprotein 	S	R.YEN#MTTVPSDGSVTPGGTASPR.K	1	0	0	0	0	0	0	12	0	0	0	0	0	12
+IPI00120907	"Oligopeptide transporter, small intestine isoform"	TM	K.VLNIGNNN#MTVHFPGN.S	0.9973	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00120907	"Oligopeptide transporter, small intestine isoform"	TM	K.QYTIN#TTAVAPTCLTDFK.S	1	0	0	6	0	0	0	0	0	0	0	0	0	6
+IPI00120907	"Oligopeptide transporter, small intestine isoform"	TM	K.LTSIN#ISSSGSPGVTTVAHDFEQGHR.H	1	0	0	8	0	0	0	0	0	0	0	0	0	8
+IPI00121038	Splice Isoform V0 of Versican core protein 	A	R.FEN#QTCFPLPDSR.F	1	2	1	0	0	0	0	0	0	0	0	0	0	3
+IPI00121114	Serum paraoxonase/lactonase 3	S	R.VSTLYANN#GSVLQGSTVASVYHK.R	1	0	3	0	0	0	4	0	0	0	0	0	0	7
+IPI00121190	Epidermal growth factor receptor 	TM	R.EFVENSECIQCHPECLPQAMN#ITCTGR.G	1	0	1	0	0	0	6	0	0	0	0	0	1	8
+IPI00121190	Epidermal growth factor receptor 	TM	R.DIVQNVFMSN#MSMDLQSHPSSCPK.C	1	0	0	0	4	0	7	1	0	0	0	2	4	18
+IPI00121240	Apon protein	S	K.ASVVN#VTQHCTMESWESMNEVAR.R	1	0	2	0	0	0	0	3	0	0	0	0	0	5
+IPI00121274	Complement component C8 beta chain 	S	K.THMFN#FTSGFK.V	0.9992	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00121337	Renal sodium-dependent phosphate transport protein 2	TM	R.VEAIGSLAN#TTMEK.C	1	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00121338	CDE1-binding protein CDEBP	TM	R.RN#QSLSLLYK.V	0.9614	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00121362	F11r protein	TM	R.AFMN#SSFTIDPK.S	0.9999	0	0	1	0	0	2	2	0	1	0	0	0	6
+IPI00121378	CD166 antigen 	TM	R.LSLSEN#YTLSIANAK.I	0.9046	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00121378	CD166 antigen 	TM	R.DSYPDGN#ITWYR.N	0.9734	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00121378	CD166 antigen 	TM	K.EGDN#ITLQCLGNGNPPPEEFMFYLPGQPEGIR.S	0.9999	0	0	0	0	0	4	0	0	0	0	0	0	4
+IPI00121378	CD166 antigen 	TM	R.TVNSLN#VSAISIPEHDEADDISDENR.E	0.9811	0	0	0	0	0	5	0	0	0	0	0	0	5
+IPI00121378	CD166 antigen 	TM	K.IIISPEEN#VTLTCTAENQLER.T	1	2	0	0	0	0	8	1	0	0	0	0	0	11
+IPI00121550	Sodium/potassium-transporting ATPase beta-1 chain	TM	K.LDWLGN#CSGLNDDSYGYR.E	0.9999	5	0	0	0	1	4	1	0	0	0	0	0	11
+IPI00121627	"B16 F10Y cells cDNA, RIKEN full-length enriched library, clone:G370012H18 product:cleft lip and palate associated transmembrane protein 1, full insert sequence"	TM	K.DYYPIN#ESLASLPLR.V	0.9991	0	1	2	0	0	0	0	0	0	0	0	0	3
+IPI00121740	Splice Isoform A of Low affinity immunoglobulin epsilon Fc receptor	TM	R.LSQN#LTGLQEDLR.N	1	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00121908	"Class II histocompatibility antigen, M beta 1 chain "	A	K.IVPCEFGVLYPLAEN#FSR.I	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00122101	Splice Isoform GlyT-1A of Sodium- and chloride-dependent glycine transporter 1	TM	R.PAALSGN#LSHLFN#YTLQR.T	1	6	0	0	0	0	0	0	0	0	0	0	0	6
+IPI00122117	"Adult male liver tumor cDNA, RIKEN full-length enriched library, clone:C730005G24 product:coagulation factor XIII, beta subunit, full insert sequence"	S	R.TYEN#GSSVEYR.C	1	0	2	0	2	2	2	4	0	0	0	1	0	13
+IPI00122143	Jak2 protein	I	K.KAGN#QTGLYVLR.C	0.9903	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00122181	Toll-like receptor 7 	TM	K.ELKN#SSLSVLHK.L	0.9001	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00122257	5'-nucleotidase 	TM	K.LDN#YSTQELGR.T	1	0	0	3	0	0	6	2	9	0	1	2	3	26
+IPI00122272	Splice Isoform Long of Extracellular matrix protein 1 	S	R.NVALVAGDTGN#ATGLGEQGPTR.G	1	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00122293	Prolargin 	S	K.NSFN#ISNLLVLHLSHNK.I	0.9765	0	0	0	0	0	0	0	6	0	0	0	0	6
+IPI00122293	Prolargin 	S	R.VPVIPPRIHYLYLQNNFITELPLESFQN#ATGLR.W	1	0	1	0	0	0	0	1	0	2	0	6	0	10
+IPI00122368	P2X4c receptor subunit	TM	K.GVAVTN#TSQLGFR.I	1	0	0	0	0	0	5	0	0	0	3	0	0	8
+IPI00122368	P2X4c receptor subunit	TM	K.TSICDSDAN#CTLGSSDTHSSGIGTGR.C	1	0	1	1	0	0	1	1	0	0	7	0	0	11
+IPI00122399	Golgi apparatus protein 1 	TM	K.LN#LTTDPK.F	0.9979	0	0	0	0	0	0	5	1	0	1	0	0	7
+IPI00122399	Golgi apparatus protein 1 	TM	R.GN#ITEYQCHQYITK.M	1	1	0	0	0	1	3	4	1	1	0	0	3	14
+IPI00122411	EGF-like module containing mucin-like hormone receptor-like 1 	TM	K.VINEECKEN#ESINLAAR.G	0.9981	0	0	0	0	0	3	0	0	0	3	0	0	6
+IPI00122438	Fibrillin-1 	S	V.DTDECSVGNPCGN#GTCK.N	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00122438	Fibrillin-1 	S	R.N#CTDIDECR.I	1	0	1	0	0	0	0	0	0	0	0	1	0	2
+IPI00122438	Fibrillin-1 	S	K.AWGTPCELCPSVN#TSEYK.I	1	0	1	0	0	0	0	0	0	1	0	0	0	2
+IPI00122438	Fibrillin-1 	S	K.CTDLDECSN#GTHMCSQHADCK.N	0.9999	0	1	0	0	0	0	0	2	0	0	0	0	3
+IPI00122438	Fibrillin-1 	S	R.NYYADN#QTCDGELLFN#MTK.K	1	0	4	1	1	0	0	4	4	5	3	1	5	28
+IPI00122522	Gamma-glutamyltranspeptidase 1 	TM	R.N#MSSEFYATQLR.A	1	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00122522	Gamma-glutamyltranspeptidase 1 	TM	R.LHNQLLPN#TTTVEK.D	0.9983	0	0	1	0	2	0	0	0	0	0	0	0	3
+IPI00122522	Gamma-glutamyltranspeptidase 1 	TM	K.AFYN#GSLTAQIVK.D	0.9991	0	0	0	0	3	0	0	0	0	0	0	0	3
+IPI00122522	Gamma-glutamyltranspeptidase 1 	TM	R.LAN#TTMFN#NSK.D	1	2	2	2	0	13	0	2	0	0	6	1	2	30
+IPI00122557	Esterase 31-like	A	K.NVN#ISYIVN#DSFFPQRPEK.L	0.9947	0	0	0	0	0	6	0	0	0	0	0	0	6
+IPI00122737	222 kDa protein	I	R.QAEEAEEQANTN#LSK.F	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00122811	Ig epsilon chain C region	I	K.N#FTCHVTHPPSFN#ESR.T	0.9974	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00122971	"Splice Isoform N-CAM 180 of Neural cell adhesion molecule 1, 180 kDa isoform "	TM	K.IYNTPSASYLEVTPDSENDFGNYN#CTAVNR.I	0.9971	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00122973	Splice Isoform 1 of Intercellular adhesion molecule 1 	TM	R.EAFLPQGGSVQVN#CSSSCK.E	1	0	0	0	0	0	0	1	0	0	4	0	0	5
+IPI00122973	Splice Isoform 1 of Intercellular adhesion molecule 1 	TM	R.TELDLRPQGLALFSN#VSEAR.S	1	0	0	0	0	0	5	0	0	0	6	2	0	13
+IPI00122977	Plasma protease C1 inhibitor 	S	A.ITITN#DTMGK.V	0.9161	0	0	0	0	0	3	0	0	0	0	0	0	3
+IPI00122977	Plasma protease C1 inhibitor 	S	R.DTYVN#ASQSLYGSSPR.V	1	0	5	4	4	1	5	6	1	1	4	3	4	38
+IPI00123058	Contactin 1 	S	R.GN#YSCFVSSPSITK.S	1	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00123058	Contactin 1 	S	K.AN#STGTLVITN#PTR.I	0.9889	2	1	1	0	0	0	0	0	0	0	0	0	4
+IPI00123183	Aquaporin-1	TM	R.N#QTLVQDNVK.V	0.9985	0	0	2	0	0	1	2	0	0	1	0	0	6
+IPI00123194	Biglycan 	S	R.MIEN#GSLSFLPTLR.E	1	0	5	3	2	2	0	4	3	8	3	4	5	39
+IPI00123194	Biglycan 	S	K.LLQVVYLHSNN#ITK.V	1	0	9	8	0	3	0	7	7	9	11	13	7	74
+IPI00123196	Decorin 	S	R.ISDTN#ITAIPQGLPTSLTEVHLDGNK.I	1	0	7	2	4	0	0	4	2	13	4	7	6	49
+IPI00123196	Decorin 	S	K.LGLSFNSITVMEN#GSLANVPHLR.E	1	0	16	0	0	0	0	2	9	18	4	1	2	52
+IPI00123196	Decorin 	S	K.YIQVVYLHNNN#ISAVGQNDFCR.A	1	0	19	3	0	0	0	2	6	39	0	11	3	83
+IPI00123342	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830010A06 product:hypoxia up-regulated 1, full insert sequence"	S	K.EN#GTDAVQEEEESPAEGSK.D	1	0	0	0	0	1	0	3	3	0	0	3	4	14
+IPI00123342	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830010A06 product:hypoxia up-regulated 1, full insert sequence"	S	R.FQISPQLQFSPEEVLGMVLN#YSR.S	1	0	0	0	0	0	0	1	6	0	4	0	3	14
+IPI00123342	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830010A06 product:hypoxia up-regulated 1, full insert sequence"	S	R.LSALDNLLN#HSSIFLK.G	1	0	0	0	0	0	0	0	2	0	4	0	12	18
+IPI00123342	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830010A06 product:hypoxia up-regulated 1, full insert sequence"	S	R.VFGSQN#LTTVK.L	0.9998	0	4	1	0	2	0	4	0	1	3	0	6	21
+IPI00123342	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830010A06 product:hypoxia up-regulated 1, full insert sequence"	S	R.AEPPLN#ASAGDQEEK.V	0.9998	0	0	4	0	0	4	3	2	0	4	1	4	22
+IPI00123619	"Cytochrome P450, family 2, subfamily d, polypeptide 22"	TM	K.GTTLITN#LSSALK.D	0.8187	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00123704	Sodium/potassium-transporting ATPase beta-2 chain	TM	K.FLEPYN#DSIQAQK.N	1	4	0	0	0	0	0	1	0	0	0	0	0	5
+IPI00123704	Sodium/potassium-transporting ATPase beta-2 chain	TM	R.VINFYAGAN#QSMN#VTCVGK.R	1	9	0	0	0	0	0	0	0	0	0	0	0	9
+IPI00123704	Sodium/potassium-transporting ATPase beta-2 chain	TM	K.FHVN#YTQPLVAVK.F	0.9999	13	0	0	0	0	0	0	0	0	0	0	0	13
+IPI00123746	Cadherin-13 	S	K.DPAGWLSINPIN#GTVDTTAVLDR.E	0.999	0	0	0	2	0	0	0	0	0	0	0	0	2
+IPI00123746	Cadherin-13 	S	K.QEN#ISVGSVLLTVN#ATDPDSLQHQTIR.Y	1	0	0	0	7	0	0	0	0	0	0	0	0	7
+IPI00123746	Cadherin-13 	S	K.IN#NTHALVSLLQNLNK.A	0.9945	0	5	0	3	0	0	0	2	0	0	2	0	12
+IPI00123758	"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 "	S	R.YN#CSIESPR.K	0.9998	0	0	0	0	0	0	5	0	0	0	0	0	5
+IPI00123831	SDR1 protein	TM	K.AN#ATIEVK.A	0.992	0	0	0	0	0	4	0	0	1	0	0	0	5
+IPI00123831	SDR1 protein	TM	R.ESLLPVTLQCN#LTSSSH.T	1	6	0	0	0	1	0	0	0	0	0	4	0	11
+IPI00123957	Cd97 protein	TM	R.DFNPATVN#YTIQK.L	0.9999	0	1	0	0	0	0	2	0	0	0	1	0	4
+IPI00123957	Cd97 protein	TM	K.ISEN#GSSVAGILSSPNMEK.L	0.9998	0	3	0	0	0	0	0	0	1	0	0	0	4
+IPI00123966	Potassium voltage-gated channel subfamily E member 3	TM	R.PGPGPGPDN#QTEDRR.A	0.9999	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00123980	Lymphocyte antigen Ly-6I 	S	K.MN#ISCCQEDLCNAAVPTGGSSWTTAG.V	0.8019	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00124006	EP1	S	K.EN#LTLPPLSSEVNGVECPACYNN#K.T	1	0	0	0	0	0	0	0	0	0	0	12	0	12
+IPI00124058	PREDICTED: cubilin (intrinsic factor-cobalamin receptor)	S	R.TFN#SSTGDIVSPNFPK.H	0.9988	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00124221	Sodium/potassium-transporting ATPase beta-3 chain	TM	K.N#LTSCPDGAPFIQHGPDYR.A	1	11	2	0	0	0	2	1	0	0	0	1	0	17
+IPI00124221	Sodium/potassium-transporting ATPase beta-3 chain	TM	K.EEN#ATIATYPEFGVLDLK.Y	1	4	1	2	1	1	5	1	0	0	0	1	3	19
+IPI00124265	Splice Isoform 2 of Latent transforming growth factor beta binding protein 4 	S	R.N#ATSVDSGAPGGAAPGGPGFR.A	1	0	0	0	0	0	0	3	0	1	4	2	0	10
+IPI00124269	Potassium-transporting ATPase beta chain	TM	A.SQQDSIN#CTSEK.Y	1	0	0	0	0	0	0	0	0	0	0	22	0	22
+IPI00124269	Potassium-transporting ATPase beta chain	TM	K.YFFQESFAAPN#HTK.F	1	0	0	0	0	0	0	0	0	0	0	24	0	24
+IPI00124269	Potassium-transporting ATPase beta chain	TM	K.DTEPLQVEYYPPN#GTFSLHYFPYYGK.K	1	0	0	0	0	0	0	0	0	0	0	24	0	24
+IPI00124269	Potassium-transporting ATPase beta chain	TM	K.FTADMLQN#CSGLADPSFGFEEGKPCFIIK.M	1	0	0	0	0	0	0	0	0	0	0	26	0	26
+IPI00124269	Potassium-transporting ATPase beta chain	TM	K.FLPSN#NTAPR.V	0.9962	0	0	0	0	0	0	0	0	0	0	28	0	28
+IPI00124283	Splice Isoform II of Macrophage scavenger receptor types I and II	TM	R.N#TSDTSQGPMEKEN#TSNVEMR.F	1	0	1	1	0	0	4	0	0	0	0	0	0	6
+IPI00124340	Sodium/glucose cotransporter 2	TM	K.DPSVGN#ISSTCYQPR.P	1	0	0	0	0	3	0	0	0	1	0	0	0	4
+IPI00124428	1-O-acylceramide synthase 	S	K.VFVYTPTTN#YTLR.D	0.9999	0	0	0	0	0	0	0	0	0	2	0	1	3
+IPI00124640	"Osteoclast-like cell cDNA, RIKEN full-length enriched library, clone:I420031M06 product:granulin, full insert sequence"	S	K.VGNVECGEGHFCHDN#QTCCK.D	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00124697	Trehalase 	S	K.FSELATVHN#HSIPK.E	1	0	0	5	0	0	0	0	0	0	0	0	0	5
+IPI00124725	Inter-alpha-trypsin inhibitor heavy chain H3 	S	K.EN#ITAEALDLSLK.Y	1	2	7	2	0	1	3	5	12	7	1	6	5	51
+IPI00124799	"9 days embryo whole body cDNA, RIKEN full-length enriched library, clone:D030016M23 product:Sorting nexin 21 homolog"	I	R.RN#FTAETIAR.R	0.9692	0	1	0	0	0	0	2	0	0	0	0	1	4
+IPI00124836	Beta-sarcoglycan	TM	R.ITSN#ATSDLNIK.V	0.9999	0	2	0	0	0	0	0	0	0	1	2	0	5
+IPI00124987	Granulocyte-macrophage colony-stimulating factor receptor alpha chain 	TM	R.VLN#STGHDVAR.C	0.9843	0	2	0	0	0	0	0	0	0	0	0	0	2
+IPI00125154	DSD-1-proteoglycan 	A	K.SDVPN#TSPN#STSQHVAEFETER.G	1	6	0	0	0	0	0	0	0	0	0	0	0	6
+IPI00125310	"Complement C1q subcomponent, A chain "	S	K.VLTNQESPYQN#HTGR.F	1	0	4	0	0	1	3	4	0	3	2	2	2	21
+IPI00125705	Testis-specific protein TES101RP	A	R.HCPTCVALGSCSSAPSMPCAN#GTTQCYQGR.L	1	0	0	0	0	0	0	0	0	0	0	0	8	8
+IPI00125705	Testis-specific protein TES101RP	A	R.VPETTATSN#MSGTR.H	1	4	0	0	0	0	1	0	0	0	0	0	19	24
+IPI00125813	Dipeptidyl peptidase 4	TM	K.IPN#NTQWITWSPEGHK.L	0.9999	0	0	2	0	0	3	0	0	0	0	0	0	5
+IPI00125813	Dipeptidyl peptidase 4	TM	K.LDFIVLN#ETR.F	1	0	0	5	0	0	16	0	0	0	1	0	0	22
+IPI00125829	Splice Isoform 1 of Solute carrier family 12 member 6	TM	K.EVDN#MTVPSK.L	0.8815	2	0	2	0	0	0	0	0	0	0	2	0	6
+IPI00125851	Chloride channel protein 5	TM	K.LCDYENHFN#TSK.G	0.9997	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00126092	Splice Isoform 2 of Leukocyte common antigen 	TM	K.TSRPTDNSIN#VTCGPPYETNGPK.T	1	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00126092	Splice Isoform 2 of Leukocyte common antigen 	TM	K.SLPNN#VTSFEVESLKPYK.Y	1	0	0	2	0	0	0	0	0	0	10	0	0	12
+IPI00126146	Splice Isoform 2 of Tyrosine-protein kinase receptor TYRO3 	TM	K.VGGPAPSPSVLN#VTGVTQR.T	1	1	0	0	0	0	0	0	0	0	0	0	4	5
+IPI00126186	Macrophage mannose receptor 1 	A	R.TSYCN#ESFYFLCK.K	1	0	0	0	0	0	0	0	0	2	0	1	0	3
+IPI00126194	Alpha-2-macroglobulin 	S	K.LTN#QTLGFSFAVEQDIPVK.N	1	0	0	0	1	0	0	0	1	0	2	0	0	4
+IPI00126194	Alpha-2-macroglobulin 	S	R.VVSVDISFRPLN#ETFPVVYIETPK.R	1	0	1	0	1	2	4	0	0	0	2	1	0	11
+IPI00126194	Alpha-2-macroglobulin 	S	Y.LN#ETQQLTEAIK.S	1	1	3	1	0	3	9	2	7	3	10	3	8	50
+IPI00126194	Alpha-2-macroglobulin 	S	K.VN#LSFPSAQSLPASDTHLK.V	1	4	4	7	4	5	9	3	5	2	5	5	4	57
+IPI00126194	Alpha-2-macroglobulin 	S	R.IN#VSYTGERPSSNMVIVDVK.M	1	1	12	2	8	11	8	8	10	4	14	7	12	97
+IPI00126214	Ecotropic virus integration 1 site protein	I	E.ERMN#GSHFKDK.K	0.8261	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00126232	Splice Isoform 1 of Meprin A beta-subunit 	TM	M.HFN#TSILNEGATAMLESR.L	0.842	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00126232	Splice Isoform 1 of Meprin A beta-subunit 	TM	K.VGVTDVFPN#GTQFSR.G	1	0	0	4	0	9	0	0	0	0	0	0	0	13
+IPI00126232	Splice Isoform 1 of Meprin A beta-subunit 	TM	K.TAFQN#GTESTIVTR.I	0.994	0	0	9	0	5	0	0	0	0	0	0	0	14
+IPI00126267	Olfactory receptor MOR256-9	TM	-.MIN#SSVSSDFILVGFSDQ.P	0.9799	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00126303	"H-2 class I histocompatibility antigen, K-Q alpha chain"	TM	R.YYN#QSAGGSHTIQR.M	1	0	9	5	2	1	16	7	1	4	9	2	3	59
+IPI00126316	Mast cell carboxypeptidase A 	S	R.NQN#STCIGTDLNR.N	1	0	4	0	0	0	0	0	0	5	0	2	0	11
+IPI00126405	Myelin-oligodendrocyte glycoprotein 	TM	K.N#ATGMEVGWYR.S	0.9989	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00126500	Splice Isoform A of Anion exchange protein 2	TM	L.VPDN#SSASGQSGQEKPR.G	0.9993	0	0	0	0	0	0	0	0	0	0	4	0	4
+IPI00126769	Cathepsin F 	A	K.VYIN#DSVELSR.N	0.9436	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00127150	Zona pellucida binding protein	I	R.DGTHCLQCN#NSLVYGAK.T	1	0	0	0	0	0	0	0	0	0	0	0	4	4
+IPI00127232	Splice Isoform 1 of Glutamate receptor-interacting protein 1	I	R.N#MTLLATIMSGSTMSLNHEAPMAR.S	0.9195	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00127280	Myeloid bactenecin	S	K.DCDFLEDGEERN#CTGK.F	1	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00127352	AMBP protein 	S	K.EDSCQLN#YSEGPCLGMQER.Y	1	0	7	0	2	1	5	6	9	0	3	2	15	50
+IPI00127406	"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 "	S	R.EQYIHEN#YSR.A	0.9265	0	0	0	1	0	0	0	0	0	0	0	0	1
+IPI00127407	"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 "	S	K.YIHEN#YTK.A	0.9891	0	3	0	0	0	0	4	0	0	0	0	0	7
+IPI00127447	Lysosome membrane protein II	TM	R.TMVFPVMYLN#ESVLIDK.E	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00127447	Lysosome membrane protein II	TM	R.N#QSVGDPNVDLIR.T	1	0	1	1	0	0	3	0	0	1	3	0	2	11
+IPI00127447	Lysosome membrane protein II	TM	K.ANIQFGEN#GTTISAVTNK.A	1	0	3	2	0	1	3	0	1	2	6	2	4	24
+IPI00127560	Transthyretin 	A	K.TLGISPFHEFADVVFTAN#DSGHR.H	1	0	6	0	6	0	4	2	2	0	3	0	3	26
+IPI00127674	Olfactory receptor MOR264-2	TM	M.YVVILIGN#TSILVIAR.I	0.8283	0	0	0	0	0	1	1	0	0	0	1	0	3
+IPI00127770	"Mammary gland RCB-0526 Jyg-MC(A) cDNA, RIKEN full-length enriched library, clone:G830049G01 product:CD164 antigen, full insert sequence"	TM	K.TYCANEPLSN#CSQVN#R.T	1	0	0	1	0	0	0	0	0	0	1	0	3	5
+IPI00127856	Alpha-1-acid glycoprotein 2 	S	K.TQMVFFN#LTPNLIN#DTMELR.E	1	0	0	0	0	0	0	0	2	1	0	0	2	5
+IPI00127856	Alpha-1-acid glycoprotein 2 	S	R.EYHTIDDHCVYN#STHLGIQR.E	1	0	0	0	0	0	0	0	10	0	0	0	9	19
+IPI00128024	Platelet glycoprotein IX	TM	R.QLLLAN#NSLR.S	0.9965	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00128154	Cathepsin L 	S	R.AEFAVAN#DTGFVDIPQQEK.A	1	0	1	0	0	0	0	2	0	0	0	0	0	3
+IPI00128186	ADAM DEC1 	S	K.LYNGN#VTQMR.T	0.9929	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00128249	Alpha-2-HS-glycoprotein 	S	R.CPLLTPFN#DTNVVHTVNTALAAFNTQNN#GTYFK.L	1	0	6	5	9	2	0	8	6	5	3	6	4	54
+IPI00128249	Alpha-2-HS-glycoprotein 	S	R.RPFGVVYEMEVDTLETTCHALDPTPLAN#CSVR.Q	1	0	21	4	9	5	0	7	3	7	4	11	11	82
+IPI00128358	Insulin receptor 	TM	K.HN#LTITQGK.L	0.9992	1	0	3	2	3	1	1	0	0	1	1	1	14
+IPI00128360	Splice Isoform GP145-TRKB of BDNF/NT-3 growth factors receptor 	TM	R.LAAPN#LTVEEGK.S	0.9999	2	0	0	0	0	1	0	0	0	0	0	0	3
+IPI00128360	Splice Isoform GP145-TRKB of BDNF/NT-3 growth factors receptor 	TM	R.HIN#FTR.N	0.9943	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00128399	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030625B17 product:Carboxylesterase ML1 (EC 3.1.1.1) homolog"	S	K.N#ATTYPPMCSQDAAR.G	0.998	0	4	2	0	0	2	0	0	0	0	0	0	8
+IPI00128454	Seizure related 6 homolog	TM	R.LLAN#SSMLGEGQVLR.S	1	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00128484	Hemopexin 	S	K.SLGPNTCSSN#GSSLYFIHGPNLYCYSSIDK.L	1	0	0	0	0	0	0	0	0	0	0	0	6	6
+IPI00128484	Hemopexin 	S	R.SWSTVGN#CTAALR.W	1	0	4	0	1	0	3	4	0	2	1	0	0	15
+IPI00128484	Hemopexin 	S	R.VAEVEN#GTKPD.S	1	0	5	5	0	2	5	1	9	0	0	0	16	43
+IPI00128628	Sphingosine 1-phosphate receptor Edg-5	TM	K.VLEHYN#YTK.E	0.9993	0	0	0	0	0	0	3	0	0	0	0	1	4
+IPI00128905	Golgi phosphoprotein 2	A	K.AVLVNN#ITTGEK.L	1	0	0	1	0	0	0	2	0	0	0	3	0	6
+IPI00128915	Splice Isoform 1 of Chondroitin sulfate proteoglycan 4 	TM	R.LDPTVLDASELAN#R.T	0.9999	0	6	3	1	0	0	0	0	0	0	4	0	14
+IPI00128989	Vacuolar ATP synthase subunit S1 	TM	A.IHPPVSYN#DTAPR.I	1	3	1	1	3	2	11	2	0	0	7	5	2	37
+IPI00129075	ROSA26AS	I	R.RKAN#QSAGK.E	0.9017	0	0	0	1	0	0	0	0	0	0	0	0	1
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1 	TM	R.FYPEDLQLIWLENGN#VSRN#DTPK.N	0.9953	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1 	TM	R.N#HTVLGLAH.S	0.9133	0	0	0	0	0	0	0	0	0	2	1	0	3
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1 	TM	R.ISN#VTPEDAGTYYCVK.F	1	3	0	0	0	0	0	0	0	0	0	1	0	4
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1 	TM	K.N#VSYN#ISSTVR.V	0.9989	1	0	0	0	0	1	0	0	0	2	0	0	4
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1 	TM	R.GIAN#LSNFIR.V	0.9999	1	0	0	0	0	0	0	0	0	4	0	0	5
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1 	TM	K.VTQQSPTSMNQVN#LTCR.A	1	7	0	0	0	0	1	0	0	2	4	0	0	14
+IPI00129158	Splice Isoform 1 of Tyrosine-protein phosphatase non-receptor type substrate 1 	TM	K.NTDGTYN#YTSLFLVN#SSAHR.E	1	7	3	0	0	0	1	0	0	1	6	0	0	18
+IPI00129159	Splice Isoform 1 of Neogenin 	A	K.LPSGTLVISN#ATEGDGGLYR.C	1	0	0	1	0	1	1	2	0	0	1	1	1	8
+IPI00129215	Pantetheinase 	S	K.N#NSIYVVANMGDK.K	0.9603	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00129240	Vitronectin 	S	R.N#ISEGFSGIPDNVDAAFALPAHR.Y	1	0	6	0	4	0	5	1	0	0	6	0	4	26
+IPI00129243	Splice Isoform I of Gamma-glutamyl hydrolase 	S	K.LPLN#FTEGAR.K	0.9992	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00129243	Splice Isoform I of Gamma-glutamyl hydrolase 	S	R.SINGVLLPGGGAN#LTDSGYSR.V	0.909	0	0	0	0	0	0	1	0	0	0	1	0	2
+IPI00129250	Leucine-rich alpha-2-glycoprotein 	S	K.MFSQN#DTR.C	1	0	2	0	0	0	0	2	0	0	0	0	0	4
+IPI00129250	Leucine-rich alpha-2-glycoprotein 	S	R.SLPPGLFSTSAN#LSTLVLR.E	1	0	1	0	0	0	0	0	5	0	0	0	2	8
+IPI00129265	Lysosomal acid lipase/cholesteryl ester hydrolase 	S	K.NYFHYN#QSFPPSYNIK.N	0.9986	0	0	0	0	0	1	0	0	0	3	0	0	4
+IPI00129265	Lysosomal acid lipase/cholesteryl ester hydrolase 	S	D.PEVNMN#VTEIIMR.W	1	0	0	0	0	0	6	0	0	1	1	2	0	10
+IPI00129304	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730023E20 product:collectin sub-family member 12, full insert sequence"	TM	K.ETLQN#NSFLITTVN#K.T	0.9999	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00129304	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730023E20 product:collectin sub-family member 12, full insert sequence"	TM	R.HTDDLTSLN#NTLVNIR.L	1	0	0	0	0	0	0	2	1	0	1	0	0	4
+IPI00129304	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730023E20 product:collectin sub-family member 12, full insert sequence"	TM	K.MDN#VTDGMETSHQTYDNK.L	0.9998	0	0	0	0	1	0	4	0	0	0	1	0	6
+IPI00129397	PREDICTED: similar to RIM binding protein 2 (RIM-BP2)	I	K.ILGN#STLMGR.A	0.9833	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00129423	Thrombomodulin 	A	R.GFQWVTGDN#HTSYSR.W	0.9853	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00129526	Endoplasmin 	S	R.EEEAIQLDGLN#ASQIR.E	1	0	0	0	0	0	0	0	0	0	0	0	4	4
+IPI00129571	Collagen alpha 1(III) chain 	S	R.ASQN#ITYHCK.N	0.9886	0	3	0	0	0	0	3	0	2	0	0	0	8
+IPI00129613	Protocadherin gamma C3	TM	R.ITVLDANDNAPAFN#QSLYR.A	0.9998	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00129646	T-lymphocyte surface antigen Ly-9 	TM	K.VSEDGYSLYMSN#LTK.S	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00129677	Asialoglycoprotein receptor major subunit	TM	R.QN#FSN#LTVSTEDQVK.A	1	0	0	0	0	0	6	0	0	0	0	0	0	6
+IPI00129755	Alpha-1-antitrypsin 1-2 	S	N.ASAVFLLPEDGK.M	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00129923	Protein FAM3D 	TM	R.GLNVALVN#GSTGQVMK.K	1	0	0	0	0	0	0	0	0	0	0	5	0	5
+IPI00129960	Cadherin-16 	TM	K.N#LSYEAAPDHK.V	1	0	0	0	0	13	0	0	0	0	0	0	0	13
+IPI00129965	PREDICTED: similar to alpha-1-B glycoprotein	I	K.LLFVGPQHAGN#YSCR.Y	1	7	16	17	13	6	22	18	1	19	11	21	0	151
+IPI00129968	Embigin 	TM	K.YSN#LSLK.S	0.9038	0	0	0	0	0	0	2	0	0	0	0	3	5
+IPI00129968	Embigin 	TM	K.DDEPLETTGDFN#TTK.M	1	0	0	0	0	0	0	3	0	0	0	0	5	8
+IPI00129968	Embigin 	TM	K.YIIN#GSHAN#ETR.L	1	4	2	0	0	1	0	1	0	0	0	0	2	10
+IPI00130010	Complement factor H 	S	R.CQSPYQMN#GSDTVTCVNSR.W	1	0	1	0	0	1	0	1	0	0	0	0	4	7
+IPI00130010	Complement factor H 	S	K.LTEFTHN#STMDYK.C	1	0	4	4	4	4	8	6	7	0	1	2	7	47
+IPI00130010	Complement factor H 	S	K.DNSCVDPPHVPN#ATIVTR.T	1	0	6	3	2	3	3	7	4	1	2	4	18	53
+IPI00130015	Dipeptidyl-peptidase I 	S	R.SDIN#CSVMEATEEK.V	1	0	1	0	0	0	0	1	0	1	3	0	0	6
+IPI00130015	Dipeptidyl-peptidase I 	S	R.ILTN#NSQTPILSPQEVVSCSPYAQGCDGGFPYLIAGK.Y	1	0	5	0	0	0	6	2	2	0	5	0	0	20
+IPI00130249	GPI-anchored metastasis-associated protein homolog	S	R.GLNPAGN#ESAYEPNGAECY.S	0.8041	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00130342	Lymphocyte antigen 6 complex locus G6C protein 	S	R.EVFN#ETNHK.L	0.9977	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00130342	Lymphocyte antigen 6 complex locus G6C protein 	S	K.LGLNYN#TTCCDK.D	0.9986	0	0	0	0	0	0	0	0	0	0	2	0	2
+IPI00130389	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K530020M04 product:dipeptidylpeptidase 6, full insert sequence"	TM	R.AQN#VSILTLCDATTGVCTK.K	0.8173	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00130389	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K530020M04 product:dipeptidylpeptidase 6, full insert sequence"	TM	K.AN#YSLQIYPDESHYFHSVALK.Q	0.9886	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00130486	FK506-binding protein 9 	A	R.YHYN#GTLLDGTLFDSSYSR.N	0.9994	0	1	0	0	0	0	1	0	0	0	0	0	2
+IPI00130573	Carboxypeptidase D 	TM	R.FANEYPN#ITR.L	0.999	0	0	0	0	0	0	0	0	0	0	3	0	3
+IPI00130573	Carboxypeptidase D 	TM	K.DLDTDFTSN#ASQPETK.A	0.9999	0	0	0	0	0	2	4	0	0	0	0	0	6
+IPI00130589	Superoxide dismutase	I	R.HVGDLGN#VTAGK.D	0.9011	0	0	0	0	0	2	0	0	0	0	0	1	3
+IPI00130624	Schwannoma-associated protein	TM	K.ELGVVMYN#CSCLAR.D	0.9999	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00130627	Legumain 	S	K.SHTN#TSHVMQYGN#K.S	0.9766	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00130627	Legumain 	S	Y.DDIANSEEN#PTPGVVINRPN#GTDVYK.G	0.9708	0	0	0	0	0	0	7	0	0	0	0	0	7
+IPI00130654	Afamin 	S	P.TKPQDVDHFN#ATQK.F	1	2	0	0	0	1	2	0	0	0	0	0	1	6
+IPI00130654	Afamin 	S	R.HVEDKFN#ETTQR.S	1	3	6	4	3	1	2	5	1	3	2	2	0	32
+IPI00130661	Tripeptidyl-peptidase I 	A	K.DVGSGTTN#NSQACAQFLEQYFHNSDLTEFMR.L	0.971	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00131021	Heparan sulfate 2-O-sulfotransferase 1	I	R.YHVLHIN#TTK.N	0.9323	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00131062	Sodium channel beta-1 subunit 	TM	R.LLFFDNYEHN#TSVVK.K	0.9997	8	0	0	0	0	0	0	0	0	0	0	0	8
+IPI00131114	Type VI collagen alpha 3 subunit	S	R.ALN#GSALYTGSSLDFVR.N	1	0	4	0	0	2	0	4	1	5	0	2	0	18
+IPI00131116	EGF-like module containing mucin-like hormone receptor-like 4 	TM	K.TMTLLEAGN#NTMK.V	0.8481	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00131137	9 kDa protein	I	K.GKAN#ASEDANNPAENGDAK.T	0.9591	0	0	0	0	0	0	0	0	0	1	0	1	2
+IPI00131143	Splice Isoform 1 of Sel-1 homolog 	S	K.MYSEGSDIVPQSN#ETALHYFK.K	0.947	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00131143	Splice Isoform 1 of Sel-1 homolog 	S	R.EATIVGEN#ETYPR.A	0.9993	0	0	1	0	0	2	0	0	0	0	0	0	3
+IPI00131292	Organic cation/carnitine transporter 1	TM	R.N#HSIPLETK.D	0.9456	0	0	2	0	0	0	0	0	0	1	0	0	3
+IPI00131432	"Bullous pemphigoid antigen 1, isoform 5"	A_low	K.LDETN#NTLK.C	0.8857	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00131472	Splice Isoform Flip of Glutamate receptor 3 	TM	R.VMHGGAN#ITGFQIVNNENPMVQQFIQR.W	0.9985	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00131526	Splice Isoform 1 of CD209 antigen-like protein B	TM	R.IPIFQGQN#ESIQEK.I	1	0	2	2	0	0	0	0	1	2	2	3	0	12
+IPI00131526	Splice Isoform 1 of CD209 antigen-like protein B	TM	R.IPISQGKN#ESMQAK.I	1	0	7	2	0	0	0	7	0	4	8	3	2	33
+IPI00131622	Prion-like protein doppel 	TM	K.EMLVTSCVN#ATQAANQAEFSR.E	1	0	0	0	0	0	0	0	0	0	0	0	7	7
+IPI00131641	LOC237403 protein	TM	R.TQGDGHN#ETQVGVR.F	0.9911	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00131772	"Adult male liver tumor cDNA, RIKEN full-length enriched library, clone:C730026J11 product:CDNA FLJ14681 FIS, CLONE NT2RP2004270, WEAKLY SIMILAR TO PROTEIN PTM1 homolog"	TM	R.N#ISSQEGSTDVVAR.T	0.9994	0	0	2	0	0	0	1	0	0	0	0	0	3
+IPI00131830	Serine protease inhibitor A3K 	S	K.FN#LTETPEADIH.Q	1	1	19	2	8	2	10	8	2	8	6	6	6	78
+IPI00131830	Serine protease inhibitor A3K 	S	K.YTGN#ASALLILPDQGR.M	1	4	28	16	17	14	22	30	9	18	18	5	32	213
+IPI00131830	Serine protease inhibitor A3K 	S	K.NLINDYVSN#QTQGMIK.E	1	6	55	17	20	19	40	40	13	29	21	24	35	319
+IPI00131881	ADAM 10 	A	D.PKPN#FTDCNR.H	0.8398	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00131881	ADAM 10 	A	R.IN#TTSDEKDPTNPFR.F	0.9996	0	0	2	0	1	0	5	1	0	2	0	0	11
+IPI00131904	Dickkopf-related protein 3 	A	R.VGN#NTVHVHQEVHK.I	0.9995	4	0	0	0	0	0	2	0	0	0	0	0	6
+IPI00132121	Pro-epidermal growth factor 	TM	R.GAHNCAENAACTNTEGGYN#CTCAGRPSSPG.R	0.9001	0	0	0	0	0	0	0	4	0	0	0	0	4
+IPI00132286	Integrin alpha-L 	TM	K.GN#ISAAHDITR.Y	0.999	0	0	0	0	0	1	0	0	0	3	0	0	4
+IPI00132286	Integrin alpha-L 	TM	K.CEAN#LTLSSPAR.S	0.9999	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00132371	Homeobox protein Hox-A5	I	G.KNSLGN#SSGASANAGSTHISSR.E	0.8856	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00132474	Integrin beta-1 	TM	R.KEN#SSEICSNNGECVCGQCVCR.K	1	0	0	0	1	0	0	0	6	0	8	7	0	22
+IPI00132474	Integrin beta-1 	TM	R.NPCTSEQN#CTSPFSYK.N	1	1	3	4	2	3	7	5	3	2	8	7	3	48
+IPI00132474	Integrin beta-1 	TM	K.DTCAQECSHFN#LTK.V	1	0	2	6	2	3	3	4	4	2	10	11	1	48
+IPI00132600	Niemann-Pick C1 protein 	TM	K.NPN#LTISFTAER.S	0.9877	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00132600	Niemann-Pick C1 protein 	TM	R.LYN#VTHQFCN#ASVMDPTCVR.C	1	0	0	0	0	0	5	5	0	0	1	0	1	12
+IPI00132827	Pygopus homolog 1	I	M.EDPVN#QSNVELK.N	0.8844	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00132874	"B16 F10Y cells cDNA, RIKEN full-length enriched library, clone:G370063I01 product:monoglyceride lipase, full insert sequence"	I	T.LKVLAAKLLNFVLPN#MTLGR.I	0.8844	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00133001	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930524B15 product:hypothetical protein, full insert sequence"	I	R.MIAEN#ESYRR.R	0.9233	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00133079	"18-day embryo whole body cDNA, RIKEN full-length enriched library, clone:1190003M12 product:hypothetical BRICHOS containing protein, full insert sequence"	A_low	A.LTN#TSDSYPLDGSVGTQTIHVDALR.G	1	0	0	0	0	0	0	0	0	0	0	4	0	4
+IPI00133082	CD177 antigen	S	R.HGDLCNDVN#STK.I	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00133103	CREG1 protein 	S	K.VN#KTEEDYAR.D	0.9986	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00133257	Splice Isoform Long of Hematopoietic progenitor cell antigen CD34 	TM	M.VLAN#STELPSK.L	1	0	1	0	0	2	0	1	0	1	0	3	2	10
+IPI00133448	Seminal vesicle antigen	S	R.N#YTLTLNMK.I	0.9904	0	0	0	0	0	0	0	5	0	0	0	0	5
+IPI00133448	Seminal vesicle antigen	S	K.CPDSDEPLLYGDSYQMYN#ITDK.I	1	0	0	0	0	0	0	0	19	0	0	2	0	21
+IPI00133751	Splice Isoform 1 of Microfibril-associated glycoprotein 4 	S	R.FN#GSVSFFR.G	0.9999	0	1	0	0	0	0	1	0	2	1	2	0	7
+IPI00133751	Splice Isoform 1 of Microfibril-associated glycoprotein 4 	S	R.VDLEDFEN#NTAYAK.Y	1	0	3	0	0	0	1	0	3	4	3	2	1	17
+IPI00134013	Heme carrier protein 1	TM	R.FSTELGYN#GTR.H	0.9995	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00134191	"Solute carrier family 2, facilitated glucose transporter member 3"	TM	K.DFLN#YTLEER.L	0.9996	2	0	0	0	0	0	0	0	0	0	0	3	5
+IPI00134200	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930471K13 product:hypothetical RNI-like structure containing protein, full insert sequence"	TM	K.LIPLGVFTGLSN#LTK.L	0.9956	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00134200	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930471K13 product:hypothetical RNI-like structure containing protein, full insert sequence"	TM	F.ISNQPGEGEAN#STR.A	0.9979	10	0	0	0	0	0	0	0	0	0	0	0	10
+IPI00134390	Microsomal dipeptidase 	A	R.MCQLYPETFMCVTN#SSDILQAFR.R	1	0	3	0	0	0	0	0	0	0	0	0	4	7
+IPI00134483	Lectin lambda	A	R.PGACTN#ITMGVVCK.L	0.9997	0	1	0	0	0	0	1	0	0	0	0	0	2
+IPI00134549	Splice Isoform LAMP-2A of Lysosome-associated membrane glycoprotein 2 	TM	A.LIVN#LTDSK.G	1	0	2	0	0	0	5	7	1	1	6	0	3	25
+IPI00134549	Splice Isoform LAMP-2A of Lysosome-associated membrane glycoprotein 2 	TM	K.VPFIFNINPATTN#FTGSCQPQSAQLR.L	1	0	7	0	0	0	26	6	5	0	5	0	5	54
+IPI00134691	"UDP-glucuronosyltransferase 1-1 , microsomal"	TM	K.EN#VTATLVELGR.T	0.9999	0	0	5	0	0	12	0	0	0	0	0	0	17
+IPI00134743	"Alkaline phosphatase, tissue-nonspecific isozyme "	S	K.N#RTDVEYELDEK.A	0.9997	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00134743	"Alkaline phosphatase, tissue-nonspecific isozyme "	S	R.CN#TTQGNEVTSILR.W	0.9259	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00134743	"Alkaline phosphatase, tissue-nonspecific isozyme "	S	R.EN#VSMVDYAHNNYQAQSAVPLR.H	1	0	1	0	0	4	0	6	2	0	1	0	2	16
+IPI00135132	Kinesin family member 21B	I	R.NVFSRLTSN#QSQGSALDK.S	0.9436	2	0	5	0	2	0	2	0	0	1	0	2	14
+IPI00135560	Phospholipid transfer protein 	S	K.GHFYYN#ISDVR.V	0.9728	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00135560	Phospholipid transfer protein 	S	K.VSN#VSCEASVSK.M	1	2	0	0	0	2	1	4	0	0	1	1	3	14
+IPI00135635	Serine protease inhibitor A3M 	S	K.FN#LTETSEADIHQGFGHLLQR.L	0.9998	0	3	0	4	0	0	0	8	0	0	0	6	21
+IPI00135659	Oligodendrocyte-myelin glycoprotein 	S	R.GMPNN#FSEMPR.Q	0.9767	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00136348	Histamine H1 receptor	TM	-.MSLPN#TSSA.S	0.9001	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00136594	CDO	TM	R.RLYSHLATASIDPADSGN#YSCVVGN#K.S	0.9351	0	0	0	1	0	0	1	0	0	0	2	0	4
+IPI00136642	Antithrombin-III 	S	K.SLTFN#ESYQDVSEVVYGAK.L	1	0	2	0	2	0	0	0	1	0	0	0	2	7
+IPI00136642	Antithrombin-III 	S	K.LGACN#DTLK.Q	1	1	5	5	1	2	9	5	5	2	4	8	6	53
+IPI00136657	A-kinase anchor protein 3	I	R.QLDEAVGN#VTR.L	0.8339	0	1	0	0	0	0	0	0	1	0	1	0	3
+IPI00136712	Splice Isoform 1 of Noelin 	A_low	K.VQN#MSQSIEVLDR.R	0.9999	4	0	0	0	0	0	0	0	0	0	1	0	5
+IPI00136915	2-hydroxyacylsphingosine 1-beta-galactosyltransferase 	TM	R.YPGIFN#STTSDAFLQSK.M	0.9999	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00136925	Immunoglobulin J chain 	S	R.EN#ISDPTSPLR.R	0.9999	1	1	5	2	0	3	0	2	0	0	0	2	16
+IPI00136972	Endothelial protein C receptor 	TM	K.LLTHTLEGPSQN#VTILQLQPWQDPESWER.T	0.9998	0	0	0	0	0	0	1	0	0	2	0	0	3
+IPI00136972	Endothelial protein C receptor 	TM	K.AAN#FTLK.Q	0.9449	0	1	0	0	0	1	0	0	0	2	1	0	5
+IPI00137177	Lysosomal protective protein 	S	K.MYVTN#DTEVAENNYEALK.D	1	1	1	1	0	0	0	1	1	1	3	2	0	11
+IPI00137177	Lysosomal protective protein 	S	R.LDPPCTN#TTAPSNYLNNPYVR.K	1	0	3	0	0	0	0	3	0	1	6	0	0	13
+IPI00137311	Plexin 1	TM	R.ENSCMVYN#DTTMVCR.A	0.9986	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00137500	Microfibrillar-associated protein 5 	S	D.LAGDKN#ATAECRDEK.F	0.9992	0	0	0	0	0	0	0	4	0	0	0	0	4
+IPI00137831	Reticulocalbin-1 	S	R.VVRPDSELGERPPEDN#QSFQYDHEAFLGK.E	0.9997	0	0	0	0	0	0	0	2	0	0	0	0	2
+IPI00137987	Zinc-alpha-2-glycoprotein 	S	K.DTTGSHTFQGMFGCEITNN#R.S	1	0	3	0	0	0	0	2	0	0	0	0	0	5
+IPI00137987	Zinc-alpha-2-glycoprotein 	S	R.YLN#YSR.S	0.9974	0	4	3	0	0	0	3	1	0	0	2	1	14
+IPI00138046	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732420G10 product:similar to Phospholipase B"	S	F.IGGNDLCASCSN#STR.F	0.9405	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00138180	Vascular endothelial-cadherin 	TM	K.NEDSN#FTLINNHDNTAN#ITVK.Y	0.9691	0	2	0	0	0	0	0	0	1	0	0	1	4
+IPI00138209	Splice Isoform 2A of Desmocollin-2 	A	R.AN#YTILK.G	0.8422	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00138342	Liver carboxylesterase N 	S	K.EGASEEETN#LSK.M	1	0	3	2	1	4	0	2	0	0	1	0	1	14
+IPI00138342	Liver carboxylesterase N 	S	K.NIQAVNEIIATLSQCN#DTSSAAMVQCLR.Q	1	0	7	3	12	5	11	6	5	2	7	4	4	66
+IPI00138342	Liver carboxylesterase N 	S	R.FHSELN#ISESMIPAVIEK.Y	1	3	16	7	9	6	6	9	3	4	12	8	11	94
+IPI00139788	Serotransferrin 	S	K.N#STLCDLCIGPLK.C	1	6	18	9	9	6	17	10	12	19	10	4	16	136
+IPI00153202	Splice Isoform 1 of Angiotensin-converting enzyme 2 	TM	K.N#QTVPFLEEDVR.V	0.9991	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00153202	Splice Isoform 1 of Angiotensin-converting enzyme 2 	TM	K.CDISN#STEAGQK.L	0.9999	0	0	4	0	0	0	0	0	0	0	0	0	4
+IPI00153258	Splice Isoform 1 of Protein Z-dependent protease inhibitor 	S	R.EGN#FTSTFDK.K	1	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00153258	Splice Isoform 1 of Protein Z-dependent protease inhibitor 	S	R.ASQQLSN#ETSSFGFNLLR.K	1	0	1	0	0	0	0	0	4	0	0	0	0	5
+IPI00153258	Splice Isoform 1 of Protein Z-dependent protease inhibitor 	S	K.LPYQGN#ATMLVVLMEK.T	1	0	2	2	0	0	0	0	0	1	2	0	1	8
+IPI00153343	Potassium voltage-gated channel subfamily C member 4	TM	R.VGN#ITSVR.F	0.9686	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00153756	Tspan8 protein	TM	R.ILN#ETLYENAK.L	1	0	1	31	0	5	1	1	3	3	0	27	1	73
+IPI00153807	ATP-binding cassette sub-family A member 3	TM	R.YHAN#TSAQQLFQK.L	1	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00153840	Membrane glycoprotein	TM	R.QTLFFN#GTR.A	0.9497	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00153840	Membrane glycoprotein	TM	R.AEAVGETLTLPGLVSADN#GTYTCEAANK.H	0.9996	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00153924	ADAM 1b 	TM	K.EGDVCRPADGPCDLEEYCN#GTSAACPSDR.K	1	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00153959	Splice Isoform 1 of Stabilin-1 	TM	K.GCADYCN#QTITK.R	0.9964	0	0	0	0	0	1	1	0	0	0	0	0	2
+IPI00153959	Splice Isoform 1 of Stabilin-1 	TM	K.AYTIFVPTN#HSLETQGN#NSVLGIDTVR.H	0.9994	0	3	0	0	0	3	0	0	0	0	0	0	6
+IPI00154043	Carboxylesterase 6	S	K.TVAN#LSGCEATDSEALIHCLR.A	1	0	0	2	0	0	1	0	0	0	0	0	0	3
+IPI00154056	Lysosomal acid phosphatase 	TM	K.N#LTLMATTSQFPK.L	0.9714	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00154057	Protocadherin 1	A	N.DNAPFITAPSN#TSHR.L	0.9948	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00165768	Proto-oncogene protein c-ros	A_low	R.NVFLNN#VSHCGEAAPTGGVINK.G	0.9912	1	0	0	0	0	0	0	0	0	1	0	0	2
+IPI00165807	Splice Isoform 1 of N-acetylmuramoyl-L-alanine amidase 	S	R.GFGVAFVGN#YTGSLPNEAALNTVR.D	0.9959	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00165807	Splice Isoform 1 of N-acetylmuramoyl-L-alanine amidase 	S	K.LEPEHLQLQN#ISQEQLAQVATLATK.E	1	0	0	0	0	0	0	2	0	0	0	0	4	6
+IPI00169554	Sodium/glucose cotransporter KST1	TM	R.SEN#SSCGLPR.E	0.9999	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00169600	PREDICTED: RIKEN cDNA A430096B05 gene	I	R.QVTVTTLNTN#ISIHK.N	0.9987	0	3	0	0	0	0	0	0	0	0	0	0	3
+IPI00169600	PREDICTED: RIKEN cDNA A430096B05 gene	I	K.VITVLVAN#YTLR.L	0.9997	0	5	0	0	0	0	0	0	0	0	0	0	5
+IPI00169818	Leucine-rich repeat-containing protein 25 	TM	R.QN#CSGQQQLLCLHPATEAPR.N	0.9946	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00169834	PREDICTED: cDNA sequence BC033606	A	R.HSQN#LTAMQELK.K	1	0	0	4	0	0	0	0	0	0	0	0	4	8
+IPI00169870	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630004H03 product:hypothetical Glycosyl transferase, family 25/Endoplasmic reticulum targeting sequence containing protein, full insert sequence"	S	K.AMN#TSQVEAMGIQMLPGYR.D	0.973	0	1	0	0	0	0	0	0	0	1	0	0	2
+IPI00169896	Splice Isoform 2 of Choline transporter-like protein 2	TM	K.GVLMVGN#ETTYEDGHGAR.K	1	0	5	1	0	2	0	8	2	2	9	6	10	45
+IPI00170216	Splice Isoform 1 of Latent transforming growth factor beta binding protein 4 	A	R.VN#GSCVDVDECATGGR.C	1	0	0	0	0	0	0	2	0	0	2	1	0	5
+IPI00172181	Muc5b protein	S	K.ETN#CTTSCPQGFK.Y	0.9423	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00172242	"H-2 class II histocompatibility antigen, A-Q beta chain "	A	K.GECYFTN#GTQR.I	1	0	5	0	0	0	0	0	0	2	1	0	0	8
+IPI00172243	"H-2 class II histocompatibility antigen, A-K beta chain "	A	Q.PFCYFTN#GTQR.I	0.9845	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00177179	"10 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:6530403D23 product:SIMILAR TO TUMOR-ASSOCIATED ANTIGEN 1 homolog"	TM	W.PSNVN#GSHR.E	0.933	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00177249	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630043M14 product:hypothetical protein, full insert sequence"	TM	R.LIIILDSEN#STPWVK.E	0.8907	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00187289	"10 days embryo whole body cDNA, RIKEN full-length enriched library, clone:2610511E24 product:hypothetical protein, full insert sequence"	TM	R.IN#YTHPFFN#HTMQSALIVQGPQEVK.K	0.9999	0	0	0	0	0	0	0	0	0	0	0	3	3
+IPI00187353	ERO1-like protein beta 	S	K.LGAIN#STLSN#ESK.E	0.9997	0	0	0	0	0	1	0	0	0	3	3	2	9
+IPI00221418	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630101D12 product:hypothetical Phospholipase D/Transphosphatidylase/Phospholipase D phosphodiesterase active site profile containing protein, full insert sequence"	TM	R.N#ISVVVATHSPTLAK.T	0.984	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00221418	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630101D12 product:hypothetical Phospholipase D/Transphosphatidylase/Phospholipase D phosphodiesterase active site profile containing protein, full insert sequence"	TM	K.VFIVPVGN#HSNIPFSR.V	1	0	2	0	0	0	5	1	0	0	8	0	0	16
+IPI00221426	"Osteoclast-like cell cDNA, RIKEN full-length enriched library, clone:I420023N13 product:glucosamine (N-acetyl)-6-sulfatase, full insert sequence"	S	K.YYN#YTLSINGK.A	0.9986	0	0	0	0	0	0	0	0	0	1	0	1	2
+IPI00221456	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930518G05 product:synaptic vesicle glycoprotein 2 b, full insert sequence"	TM	R.FIN#STFLEQK.E	0.9999	9	0	0	0	0	0	0	0	0	0	0	0	9
+IPI00221652	Transmembrane gamma-carboxyglutamic acid protein 4 	TM	S.AN#YTRTAR.Y	1	0	0	0	0	0	0	0	0	2	0	0	0	2
+IPI00221706	Osteopetrosis associated transmembrane protein 1 	TM	R.NIGN#TSEGPR.C	0.9998	0	3	0	3	0	2	0	0	0	4	1	0	13
+IPI00221798	Reticulocalbin-3 	S	R.N#ATYGHYEPGEEFHDVEDAETYK.K	0.9987	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00221859	"11 days pregnant adult female ovary and uterus cDNA, RIKEN full-length enriched library, clone:5031413M14 product:hypothetical Eukaryotic protein of unknown function, DUF284 containing protein, full insert sequence"	TM	R.QGN#YSAGLPR.G	0.9806	0	0	2	0	0	0	0	0	0	0	1	0	3
+IPI00221877	"0 day neonate cerebellum cDNA, RIKEN full-length enriched library, clone:C230008I02 product:Hypothetical eukaryotic protein kinase containing protein, full insert sequence"	I	R.GEIGSGN#FSQVK.L	0.9544	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00221911	Leukocyte surface antigen CD53	TM	K.LNTLVAEGLN#DSIQHYHSDN#STMK.A	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00221998	Adipocyte plasma membrane-associated protein	TM	R.AGPN#GTLFVVDAYK.G	1	0	2	1	0	1	1	1	0	0	0	0	0	6
+IPI00222149	L1-like protein	TM	R.VDVMN#STLVK.V	0.9972	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00222149	L1-like protein	TM	R.KITEGVN#VTQK.I	0.9968	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00222266	"Adult male olfactory brain cDNA, RIKEN full-length enriched library, clone:6430517H21 product:ZFP76P homolog"	I	R.YEVCDTSITVN#STLK.T	0.8947	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00222301	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030616J04 product:BRAIN-ENRICHED MEMBRANE-ASSOCIATED PROTEIN TYROSINE PHOSPHATASE 2 (EC 3.1.3.48) (BEM-2) (PROTEIN-TYROSINE- PHOSPHATASE) (PHOSPHOTYROSINE PHOSPHATASE) (PTPASE) homolog"	TM	K.DGVYSTN#ETLSN#TTAPNPVR.N	0.9999	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00222321	"13 days embryo forelimb cDNA, RIKEN full-length enriched library, clone:5930422O05 product:similar to BBP-LIKE PROTEIN 2"	TM	R.LPADCIECATN#VSCTYGK.P	0.9539	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00222369	"16 days embryo head cDNA, RIKEN full-length enriched library, clone:C130005L02 product:inter-alpha (globulin) inhibitor H5, full insert sequence"	S	K.AEGDVGPPPSTLINQN#ETFAK.V	1	1	1	0	0	0	0	3	0	0	0	0	0	5
+IPI00222589	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930032O19 product:PTK7 protein tyrosine kinase 7, full insert sequence"	TM	R.DN#VTGEEVR.S	0.8929	0	0	1	0	0	0	0	0	0	3	0	0	4
+IPI00222833	Limbic system-associated membrane protein 	A	R.GTDN#ITVR.Q	0.9938	4	0	0	0	0	3	0	0	0	0	0	0	7
+IPI00222833	Limbic system-associated membrane protein 	A	K.STEGQSSLTVTN#VTEEHYGN#YTCVAANK.L	0.9999	8	0	0	0	0	0	0	0	0	0	0	0	8
+IPI00223178	"6 days neonate spleen cDNA, RIKEN full-length enriched library, clone:F430211A09 product:hypothetical protein, full insert sequence"	TM	R.RGDVN#QTLSSHR.A	0.9964	0	0	0	0	0	0	3	0	0	1	0	0	4
+IPI00223446	Laminin alpha-4 chain 	S	K.IQIN#NSENTLR.S	0.9911	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00223446	Laminin alpha-4 chain 	S	R.N#LTEVVPQLLDQLR.T	0.9984	0	2	0	0	0	0	0	0	0	0	0	0	2
+IPI00223446	Laminin alpha-4 chain 	S	K.RPASN#ISASIQR.I	0.9958	0	2	0	0	0	0	3	1	0	0	0	0	6
+IPI00223446	Laminin alpha-4 chain 	S	R.HVTDMN#STIHLLR.T	1	0	3	0	2	0	0	0	0	0	0	3	1	9
+IPI00223769	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630028L24 product:CD44 antigen, full insert sequence"	TM	R.TEAADLCQAFN#STLPTMDQMK.L	1	0	0	0	0	1	0	0	0	0	3	0	0	4
+IPI00223769	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630028L24 product:CD44 antigen, full insert sequence"	TM	A.HPHQQIDLN#VTCR.Y	0.9929	0	1	1	0	0	0	0	0	0	5	0	0	7
+IPI00223987	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732490P18 product:INSULIN-REGULATED MEMBRANE AMINOPEPTIDASE IRAP homolog"	TM	R.DIILHSTGHN#ISR.V	0.9907	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00223987	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732490P18 product:INSULIN-REGULATED MEMBRANE AMINOPEPTIDASE IRAP homolog"	TM	K.TN#QSAELIQPVATNGK.V	0.9993	0	0	2	0	1	0	1	0	0	0	0	0	4
+IPI00223987	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732490P18 product:INSULIN-REGULATED MEMBRANE AMINOPEPTIDASE IRAP homolog"	TM	R.EETLLYDN#ATSSVADR.K	1	0	1	0	2	0	3	0	0	1	0	0	0	7
+IPI00224036	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930556I21 product:BUTYROPHILIN-LIKE PROTEIN BUTR-1 homolog"	S	R.TSFN#GSHVAR.G	0.9978	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00224073	"Adult male kidney cDNA, RIKEN full-length enriched library, clone:F530005P20 product:Hypothetical peptidase family M20/M25/M40 containing protein, full insert sequence"	S	K.GALDLMLQVN#MTPGHSSAPPK.E	0.9392	0	0	0	0	0	1	1	0	0	0	0	0	2
+IPI00224073	"Adult male kidney cDNA, RIKEN full-length enriched library, clone:F530005P20 product:Hypothetical peptidase family M20/M25/M40 containing protein, full insert sequence"	S	R.HYAN#ITNGMYR.F	0.9998	0	1	4	0	5	2	0	0	0	0	0	0	12
+IPI00224678	Splice Isoform Short of Ephrin-A5 	S	K.VFVRPTN#DTVHESAEPSR.G	1	1	0	1	0	0	0	1	0	0	0	0	0	3
+IPI00225072	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830227L19 product:ectonucleotide pyrophosphatase/phosphodiesterase 4, full insert sequence"	TM	R.SN#YSVIDLTPVAAILPK.I	0.9994	0	0	0	0	0	4	0	0	0	0	0	0	4
+IPI00225072	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830227L19 product:ectonucleotide pyrophosphatase/phosphodiesterase 4, full insert sequence"	TM	K.IN#VTEVYDK.L	0.9948	0	1	0	0	0	1	0	0	0	2	0	0	4
+IPI00225214	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430025G02 product:hypothetical Glutamic acid-rich region containing protein, full insert sequence"	I	K.EELN#FTHICEYTQK.S	0.8556	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00225355	Target of Nesh-SH3 variant 1	S	K.VHIN#TTSDSILLK.F	0.9902	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00225374	Uronyl 2-sulfotransferase	TM	K.LGN#MTVTVR.K	0.9605	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00225405	"10 days lactation, adult female mammary gland cDNA, RIKEN full-length enriched library, clone:D730009J23 product:SODIUM/HYDROGEN EXCHANGER 4"	TM	A.TSYVN#ESSN#PTAQQAPDAR.F	0.9757	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00225530	"Adult male hippocampus cDNA, RIKEN full-length enriched library, clone:C630015N03 product:solute carrier family 24 (sodium/potassium/calcium exchanger), member 2, full insert sequence"	TM	A.SEPVQNGN#LSHNIEAADAPK.A	0.8222	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00225715	Glycosylphosphatidylinositol-specific phospholipase D	A	K.NLN#YTER.G	0.9999	0	2	0	0	0	1	2	0	0	0	0	1	6
+IPI00225715	Glycosylphosphatidylinositol-specific phospholipase D	A	R.VN#GTLTQVLLVGAPTHDDVSK.M	1	0	2	0	3	1	0	4	0	0	6	3	0	19
+IPI00225883	Solute carrier family 40 member 1	TM	R.LADMN#ATIRR.I	0.8377	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00226008	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930403E08 product:hypothetical protein, full insert sequence"	I	R.ASN#ETLISYGIPDNDEQR.T	0.9966	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00226052	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4921537E06 product:hypothetical C2 domain (Calcium/lipid-binding domain, CaLB) structure containing protein, full insert sequence"	I	K.VLDQN#YSEVFLPK.S	0.9045	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00226208	Lyl1 protein	I	R.SQPVLPGDCDGDPN#GSVR.P	0.9635	0	0	3	0	0	0	0	0	0	1	0	0	4
+IPI00226260	"10 day old male pancreas cDNA, RIKEN full-length enriched library, clone:1810073M23 product:TRANSMEMBRANE 9 SUPERFAMILY PROTEIN MEMBER 3 homolog"	TM	R.IVDVN#LTSEGK.V	0.9996	0	0	0	0	0	0	0	0	2	2	0	0	4
+IPI00226310	"2 days pregnant adult female ovary cDNA, RIKEN full-length enriched library, clone:E330019B14 product:hypothetical von Willebrand factor type A domain containing protein, full insert sequence"	S	K.LGN#FSELATHN#QTFLK.K	1	0	3	0	3	0	0	5	0	0	1	0	4	16
+IPI00226346	"Mus musculus cDNA fis, clone TRACH2000665, moderately similar to Rattus norvegicus putative integral membrane transport protein"	TM	P.ILDN#DTASDN#GSR.I	0.9999	0	0	0	0	0	3	0	0	0	0	0	0	3
+IPI00226932	"0 day neonate cerebellum cDNA, RIKEN full-length enriched library, clone:C230096C10 product:hypothetical Quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence"	S	R.FINYN#QTVSR.M	0.9987	2	0	1	0	1	0	0	0	1	0	0	0	5
+IPI00227126	Splice Isoform 1 of Tenascin-R 	I	R.GTN#ESEASSTQFTTEIDAPK.N	0.8643	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00227126	Splice Isoform 1 of Tenascin-R 	I	K.GQCAN#GTCLCQEGYAGEDCSQRR.C	0.999	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00227126	Splice Isoform 1 of Tenascin-R 	I	R.IGSYN#GTAGDSLSYHQGRPF.S	1	5	0	0	0	0	0	0	0	0	0	0	0	5
+IPI00227522	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530053A07 product:hypothetical von Willebrand factor type D domain/EGF-like domain/Trypsin Inhibitor-like cysteine rich domain containing protein, full insert sequence"	I	R.PTN#CSSRPCVEGCVCLPGFVASR.G	1	0	0	0	0	0	0	0	9	0	0	0	0	9
+IPI00227522	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530053A07 product:hypothetical von Willebrand factor type D domain/EGF-like domain/Trypsin Inhibitor-like cysteine rich domain containing protein, full insert sequence"	I	R.N#TTGCLPK.E	0.9985	0	0	0	0	0	0	0	15	0	0	0	0	15
+IPI00227522	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530053A07 product:hypothetical von Willebrand factor type D domain/EGF-like domain/Trypsin Inhibitor-like cysteine rich domain containing protein, full insert sequence"	I	K.GLVSN#ITQNCR.I	1	0	0	0	0	0	0	0	30	3	0	0	0	33
+IPI00227522	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530053A07 product:hypothetical von Willebrand factor type D domain/EGF-like domain/Trypsin Inhibitor-like cysteine rich domain containing protein, full insert sequence"	I	R.IFTN#ISGHFK.H	1	0	0	2	0	0	0	0	46	1	0	0	0	49
+IPI00227522	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530053A07 product:hypothetical von Willebrand factor type D domain/EGF-like domain/Trypsin Inhibitor-like cysteine rich domain containing protein, full insert sequence"	I	K.EHCGVQN#GSFGCFPEYFR.I	1	0	1	1	0	0	0	1	60	0	0	1	0	64
+IPI00227548	Semen coagulation protein 	S	R.VLIYFGAQEYPN#VTEYAVGPVEQPMYMR.K	1	0	0	0	0	0	0	0	5	0	0	0	0	5
+IPI00227826	Cell adhesion molecule nectin-3 beta	TM	K.GPDSLIDGGN#ETVAAVCVAATGK.P	0.8027	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00227906	Splice Isoform 4 of Sodium- and chloride-dependent transporter XTRP2	TM	R.DEYPSVLMYLN#ATQTAR.V	1	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00229083	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530002K18 product:hypothetical Kazal-type serine protease inhibitor domain containing protein, full insert sequence"	S	F.AGPENVIKEPN#CTMYK.S	0.9999	0	0	0	0	0	0	0	14	0	0	0	0	14
+IPI00229528	"Adult male brain UNDEFINED_CELL_LINE cDNA, RIKEN full-length enriched library, clone:M5C1087M14 product:brain-specific angiogenesis inhibitor 1, full insert sequence"	TM	R.EQRLCN#NSAVCP.V	0.9818	0	0	0	0	0	0	1	0	0	0	0	1	2
+IPI00229839	Splice Isoform 1 of SID1 transmembrane family member 2 	TM	R.TGELFTFN#TTAAQPQYFK.Y	0.9903	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00229839	Splice Isoform 1 of SID1 transmembrane family member 2 	TM	R.TYADDVNSELVNIYTFN#HTVTR.N	0.9327	0	0	0	0	0	4	0	0	0	0	0	0	4
+IPI00229926	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530011I03 product:lipase, member H, full insert sequence"	S	K.LRGEDGN#ITESK.I	0.8841	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00229992	Plexin B1 	A	R.VVAVSPAN#ISR.E	0.9983	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00229992	Plexin B1 	A	K.YTSDPN#VTSVGPSK.S	0.9995	3	0	1	0	0	0	1	0	0	0	0	1	6
+IPI00230034	D-dopachrome tautomerase	I	S.IGVVGTAEQN#R.T	0.931	0	0	0	0	0	2	0	0	0	0	0	1	3
+IPI00230295	Putative polypeptide N-acetylgalactosaminyltransferase-like protein 4	TM	K.LEN#STAPIR.S	0.8494	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00230440	Adenosylhomocysteinase	I	K.VPAINVN#DSVTK.S	0.9974	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00230509	Splice Isoform 2 of Sialoadhesin 	S	R.NFN#CSTPYLCLQEK.Q	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00230718	Complement Component 9	S	K.GAGEVSPAEHSSKPTN#ISAK.F	1	0	2	0	3	0	0	3	2	0	2	0	0	12
+IPI00263041	"12 days embryo female mullerian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6820402E08 product:weakly similar to PLACE1003493 PROTEIN"	S	K.FN#TTSINVGSSYFPEHGYFR.A	0.8786	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00263505	Splice Isoform 1 of Sad1/unc-84 protein-like 1	TM	K.TLSPTGN#ISSAPK.D	0.9215	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00263726	"Solute carrier family 2 (facilitated glucoSe tranSporter), member 4"	TM	K.VIEQSYN#ATWLGR.Q	1	0	0	0	2	0	0	0	0	0	0	0	0	2
+IPI00265095	Splice Isoform 2 of Transmembrane protein 16F	TM	K.ENPYIGLGN#YTLCR.Y	1	0	0	4	0	0	0	3	0	0	2	0	0	9
+IPI00265291	Ectonucleotide pyrophosphatase/phosphodiesterase 1 allotype b	TM	K.VYN#GSVPFEER.I	0.9997	1	0	0	0	0	5	0	0	0	0	0	1	7
+IPI00265291	Ectonucleotide pyrophosphatase/phosphodiesterase 1 allotype b	TM	K.MN#ASFSLK.S	0.9994	0	0	0	0	1	4	1	0	0	1	1	0	8
+IPI00265854	Complement receptor type 2 	TM	K.APYFYN#DSVMFK.C	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00265854	Complement receptor type 2 	TM	K.ASLGCQSPSTIPNGN#HTGGSIAR.F	0.9999	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00267963	HypotHetical protein LOC320736	TM	R.IIQYYGN#FSR.T	0.9693	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00268184	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030008G12 product:MEMBRANE-BOUND AMINOPEPTIDASE P (EC 3.4.11.9), full insert sequence"	S	R.LPVTAVN#TTMR.L	0.9999	0	1	1	0	0	0	2	2	0	0	0	0	6
+IPI00268184	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030008G12 product:MEMBRANE-BOUND AMINOPEPTIDASE P (EC 3.4.11.9), full insert sequence"	S	R.NEN#FSSGPSFETISASGLNAALAHYSPTK.E	0.98	0	0	7	0	0	0	0	0	0	0	0	0	7
+IPI00268475	SialoadheSin	TM	K.AN#TSLELLLEGVR.V	0.9998	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00268475	SialoadheSin	TM	K.MNPAGPVLEN#ETVTLLCSTPK.E	1	0	4	0	0	0	0	0	0	2	3	1	0	10
+IPI00269674	Fc epsilon receptor II subtype b variant b delta 6	TM	K.QLGDTAIQN#VSHVTK.D	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00271262	Murinoglobulin-2 	S	K.EVNSKLDNNGCSTQEVN#ITELQSK.K	0.9999	0	3	0	0	0	5	2	0	0	0	0	2	12
+IPI00271927	"Adult male spleen cDNA, RIKEN full-length enriched library, clone:0910001F14 product:complement receptor 2, full insert sequence"	TM	R.N#GSHTGSFSENVPYGSTVTYTCDPSPEK.G	0.9998	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00271927	"Adult male spleen cDNA, RIKEN full-length enriched library, clone:0910001F14 product:complement receptor 2, full insert sequence"	TM	K.EVN#CSFPEDTNGIQK.G	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00271927	"Adult male spleen cDNA, RIKEN full-length enriched library, clone:0910001F14 product:complement receptor 2, full insert sequence"	TM	K.APPICESVN#K.T	0.9947	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00272669	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4932433F15 product:hypothetical Collagen triple helix repeat containing protein, full insert sequence"	I	K.VQDALQN#QTDSLLALAGLVQR.L	0.9996	0	0	0	0	0	0	0	0	1	0	0	1	2
+IPI00272690	"Angiotensin-converting enzyme, somatic isoform "	TM	K.LITGQPN#MSASAMMNYFK.P	0.9999	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00272690	"Angiotensin-converting enzyme, somatic isoform "	TM	R.QQYNSLLSN#MSR.I	0.9996	0	2	1	0	2	0	0	0	0	0	0	0	5
+IPI00275834	"Transmembrane protease, serine 4"	TM	R.AVEIRPDQNLPVAQVTGNSQELQVQN#GSR.S	0.9994	0	0	6	0	0	1	0	0	0	0	0	0	7
+IPI00276515	Splice Isoform L-MAG of Myelin-associated glycoprotein 	TM	R.N#VTVN#ETER.E	0.9672	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00279010	Lu protein	TM	R.N#QSGIYGCR.V	0.9954	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00279010	Lu protein	TM	F.VFLN#SSSTVVN#CSAR.G	0.9998	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00279051	RIKEN cDNA A930025J12	TM	K.EN#ATN#VTFTGDK.I	1	0	0	0	0	0	0	2	0	0	0	2	1	5
+IPI00279079	Fibrinogen beta chain 	S	K.GTAGNALMDGASQLVGEN#R.T	1	0	0	4	4	6	8	1	5	2	6	5	5	46
+IPI00284339	67 kDa protein	TM	K.YMNAIPSVVEGDN#LTISPK.C	1	0	0	6	0	0	0	0	0	0	1	0	0	7
+IPI00307966	ADP-ribosyl cyclase 1	TM	K.LVTQTIPCN#K.T	0.9985	0	0	0	0	1	2	0	0	0	3	0	0	6
+IPI00308213	"Ig gamma-1 chain C region, membrane-bound form"	TM	R.EEQFN#STFR.S	0.9998	0	6	1	0	0	2	1	3	2	0	2	0	17
+IPI00308245	Extra cellular link domain-containing 1	TM	K.NPQMN#FTEANEACK.M	1	0	7	4	0	0	0	6	0	6	0	5	3	31
+IPI00308391	Zinc finger protein 592	I	V.LHSSNPVPLYAPN#LSPPADSR.I	0.8813	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00308484	SPARC-like protein 1 	S	K.ILDQACGTDN#QTYASSCHLFATK.C	0.9439	1	0	0	0	0	0	1	0	0	0	0	0	2
+IPI00308609	"9 days embryo whole body cDNA, RIKEN full-length enriched library, clone:D030015M14 product:VESICULAR INTEGRAL-MEMBRANE PROTEIN VIP36"	TM	R.VFPYISVMVNN#GSLSYDHSK.D	0.9999	0	2	2	0	0	1	0	0	0	1	0	2	8
+IPI00308670	Splice Isoform 1 of Nucleoporin-like 2	I	K.KPN#ISGFTDISPEELR.L	0.8928	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00308691	"Solute carrier family 2, facilitated glucose transporter member 1"	TM	K.VIEEFYN#QTWNHR.I	1	3	0	0	0	1	0	0	0	0	1	0	2	7
+IPI00308892	"Adult male urinary bladder cDNA, RIKEN full-length enriched library, clone:9530048E14 product:weakly similar to LYSOZYME C, TYPE M"	S	K.WESNFNTN#TTR.F	0.9217	0	0	0	0	0	0	0	6	0	0	0	0	6
+IPI00308971	Cation-independent mannose-6-phosphate receptor 	TM	R.AGIN#ASYSEK.G	0.9443	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00308990	Monocyte differentiation antigen CD14 	A	K.VLSIAQAHSLN#FSCEQVR.V	0.9608	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00308990	Monocyte differentiation antigen CD14 	A	R.N#PSPDELPQVGN#LSLK.G	1	0	2	0	0	0	0	0	0	0	0	0	0	2
+IPI00309068	"0 day neonate eyeball cDNA, RIKEN full-length enriched library, clone:E130014G12 product:Kaiso protein, full insert sequence"	I	K.EDLPSN#NT.A	1	0	0	0	1	0	0	0	0	0	0	0	0	1
+IPI00309214	Serum amyloid P-component 	S	K.LIPHLEKPLQN#FTLCFR.T	1	0	0	0	0	0	0	0	3	0	0	0	0	3
+IPI00309999	Laminin alpha-2 chain 	S	K.LN#ETLGNQDK.T	1	0	4	0	0	0	0	0	0	0	0	2	0	6
+IPI00309999	Laminin alpha-2 chain 	S	R.NSGLLGALN#DTMDK.L	0.9999	0	3	0	5	0	0	0	0	0	0	0	0	8
+IPI00310049	Carboxypeptidase B2 	A	R.IPFNVLMNNVEDLIEQQTFN#DTVSPR.A	0.9996	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00310059	Polymeric-immunoglobulin receptor 	TM	K.TN#QSCELVIDSTEK.V	0.9989	0	0	3	0	0	1	0	0	0	0	0	0	4
+IPI00310109	"12 days embryo male wolffian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6720483E16 product:lysosomal membrane glycoprotein 2, full insert sequence"	TM	K.EASHYSIHDIVLSYN#TSDSTVFPGAVAK.G	0.9999	0	0	0	0	0	5	0	0	0	0	0	2	7
+IPI00310109	"12 days embryo male wolffian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6720483E16 product:lysosomal membrane glycoprotein 2, full insert sequence"	TM	K.EVNVYMYLAN#GSAFN#ISNK.N	1	0	0	0	0	0	18	0	0	0	0	2	0	20
+IPI00310754	Langerin	TM	R.VDN#ISTLGSDLK.T	1	0	1	0	0	0	0	0	0	1	3	0	0	5
+IPI00310797	Fibroleukin 	S	R.LHIGNYN#GTAGDALR.F	1	0	0	0	0	0	0	2	0	0	0	0	1	3
+IPI00311165	HepHaestin isoform 2	S	R.NVITN#QTLNN#DTVASSFLK.S	0.9944	0	1	2	0	0	0	0	0	0	0	0	0	3
+IPI00311165	HepHaestin isoform 2	S	R.EEGMQAIYN#VSQCSSHQDSPR.Q	0.9995	0	0	4	0	0	0	4	0	0	0	0	0	8
+IPI00311405	Poliovirus receptor related protein 1 	TM	K.ADANPPATEYHWTTLN#GSLPK.G	0.9921	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00311405	Poliovirus receptor related protein 1 	TM	R.NPN#GTVTVISR.Y	0.9987	1	0	0	0	0	0	1	0	1	1	0	0	4
+IPI00311443	Tetraspanin-2	TM	R.GN#GTLITFH.S	0.9945	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00311731	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930433D02 product:Rhesus blood group-associated C glycoprotein, full insert sequence"	TM	R.KN#ISSDVENEFYYR.Y	0.9419	0	0	0	0	3	0	0	0	0	0	0	0	3
+IPI00311808	Transmembrane glycoprotein NMB 	TM	R.DLPIVFDVLIHDPSHFLN#DSAISYK.W	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00311808	Transmembrane glycoprotein NMB 	TM	N.DRN#LSDEIFLR.D	0.9635	0	0	0	0	0	0	0	0	3	0	0	0	3
+IPI00312063	Low-density lipoprotein receptor 	TM	K.DMSDELGCVN#VTQCDGPNK.F	0.998	0	0	0	0	0	0	2	0	0	0	0	0	2
+IPI00312498	Mucin-15 	TM	R.RN#VTQHTIEDVK.I	0.8508	0	2	0	0	0	0	0	0	0	0	0	0	2
+IPI00312509	Tyrosine-protein kinase receptor UFO 	TM	K.DTQTEAGSPFVGNPGN#ITGAR.G	1	0	0	0	0	0	0	1	0	0	4	0	0	5
+IPI00312648	Splice Isoform 2 of Gamma-glutamyltransferase 5 	S	K.GFN#FSAETVAR.P	0.9993	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00312648	Splice Isoform 2 of Gamma-glutamyltransferase 5 	S	R.QLFFN#GTETLR.S	0.9318	0	3	1	0	0	0	2	0	0	0	0	0	6
+IPI00313750	Adenylate cyclase type IX	TM	R.NPCN#SSVLQDGR.R	0.9998	4	0	1	0	0	1	3	0	0	0	0	1	10
+IPI00313900	Lumican 	S	R.LSHNELADSGVPGNSFN#ISSLLELDLSYNK.L	1	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00313900	Lumican 	S	K.LGSFDGLVN#LTFIYLQHNQLK.E	1	0	6	0	0	0	0	0	7	0	2	0	0	15
+IPI00313900	Lumican 	S	K.AFEN#VTDLQWLILDHNLLENSK.I	1	0	9	0	0	0	0	4	5	2	4	4	4	32
+IPI00313900	Lumican 	S	K.LHINYNN#LTESVGPLPK.S	1	0	48	12	5	2	0	14	23	66	3	19	16	208
+IPI00314042	Meprin 1 alpha	TM	R.N#ISQILENTVK.G	1	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00314042	Meprin 1 alpha	TM	K.N#QTSSAIN#GSVIWDRPSK.V	0.9709	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00314042	Meprin 1 alpha	TM	K.HLLN#GSDHDTDVGEQK.D	0.9863	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00314042	Meprin 1 alpha	TM	K.GAGYFMFFN#TSLGAR.G	0.9999	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00314042	Meprin 1 alpha	TM	R.MYN#CTATHTLLDHCDFEK.T	0.9987	0	0	1	0	2	0	0	0	0	0	0	0	3
+IPI00314056	Epithelial V-like antigen 1	TM	K.LQFDDN#GTYTCQVK.N	0.9946	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00314132	Splice Isoform 1 of Mucin and cadherin-like protein 	TM	K.VN#TTVIPETQLK.A	0.9916	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00314132	Splice Isoform 1 of Mucin and cadherin-like protein 	TM	R.VTN#SSEFMMNK.D	0.9988	0	0	2	0	2	0	0	0	0	0	0	0	4
+IPI00314141	Serine protease inhibitor A3N 	S	K.YTGN#ASALFILPDQGR.M	1	0	3	0	1	2	4	4	0	3	3	1	1	22
+IPI00314355	B-cell differentiation antigen CD72	TM	R.IWEATN#SSLQQQLR.E	0.9999	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00314538	Tubulointerstitial nephritis antigen	I	R.VSSN#ETEIMR.E	0.9976	0	0	0	0	7	0	0	0	0	0	0	0	7
+IPI00314538	Tubulointerstitial nephritis antigen	I	K.DQN#TTNNICAMASR.S	1	0	0	1	0	6	0	0	0	0	0	0	0	7
+IPI00314549	Calcitonin gene-related peptide type 1 receptor 	TM	K.IMQDPIQQAEGLYCN#R.T	0.9998	0	1	0	1	0	1	0	0	0	1	1	0	5
+IPI00314549	Calcitonin gene-related peptide type 1 receptor 	TM	A.ESEEGVN#QTDLGVTR.N	1	0	1	4	0	0	3	3	1	0	3	0	1	16
+IPI00314726	Naglu	S	R.LLLTAAPN#LTTSPAFR.Y	1	0	2	0	0	0	2	2	0	0	3	0	2	11
+IPI00316989	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230347I19 product:MAMMALIAN EPENDYMIN RELATED PROTEIN- 2 (SIMILAR TO MAMMALIAN EPENDYMIN RELATED PROTEIN 1) homolog"	A	R.N#YTVVMSTR.F	0.8709	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00317340	"Adult male bone cDNA, RIKEN full-length enriched library, clone:9830118D19 product:lactotransferrin, full insert sequence"	S	K.N#SSNFHLNQLQGLR.S	1	0	7	0	0	0	0	1	0	0	7	0	0	15
+IPI00317488	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:G530025F22 product:hypothetical Twin-arginine translocation pathway signal containing protein, full insert sequence"	TM	K.FGEFGN#YSLLVQHASSGANK.I	1	0	0	0	0	0	0	0	0	0	0	0	7	7
+IPI00317844	Solute carrier organic anion transporter family member 1A4	TM	T.ILPTSN#LSSNSFVCTEN#R.T	0.9996	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00318395	Potassium voltage-gated channel subfamily E member 2	TM	R.RN#TTAEEQALQAR.V	0.9999	0	0	0	0	0	0	0	0	0	0	7	0	7
+IPI00318748	Toll-like receptor 9 	A	K.ALTN#GTLPN#GTLLQK.L	0.9999	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00318748	Toll-like receptor 9 	A	R.FSAAASCSN#ITR.L	0.9997	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00318748	Toll-like receptor 9 	A	K.VTPGALLGLSN#LTHLSLK.Y	0.9997	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00318993	L-selectin 	A	K.CAFN#CSEGR.E	0.9629	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00319167	Hydrocephalus-inducing protein	I	K.KPNSNLESDYQSLVIKN#I.T	0.9922	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00319509	Aminopeptidase N	TM	K.SGQEDHYWLDVEKN#QSAK.F	1	0	0	2	0	0	2	0	0	0	1	0	0	5
+IPI00319509	Aminopeptidase N	TM	A.QHYN#TSYPLPK.S	0.9525	0	0	2	0	0	3	1	0	0	0	0	0	6
+IPI00319509	Aminopeptidase N	TM	R.VILRPYLTPNNQGLYIFQGN#STVR.F	1	0	0	6	0	0	1	0	0	0	0	0	0	7
+IPI00319509	Aminopeptidase N	TM	R.FTCN#QTTDVIIIHSK.K	1	0	0	4	0	0	2	2	0	0	0	0	0	8
+IPI00319509	Aminopeptidase N	TM	R.N#ATLVNEADK.L	0.9997	0	0	9	0	1	2	0	1	0	1	1	0	15
+IPI00319509	Aminopeptidase N	TM	K.QVTPLFFYFQN#R.T	1	0	2	7	1	3	3	0	0	2	2	0	0	20
+IPI00319509	Aminopeptidase N	TM	K.NPNN#NTIHPNLR.S	0.9995	0	5	12	0	3	8	5	2	5	0	3	0	43
+IPI00320065	T-cell surface glycoprotein CD1d1 	TM	K.VLNADQGTSATVQMLLN#DTCPLFVR.G	0.9999	0	0	0	0	0	3	0	0	0	1	0	0	4
+IPI00320420	Clusterin 	S	K.AFPEVCN#ETMMALWEECKPCLK.H	0.9999	0	2	0	0	0	0	0	7	0	1	0	5	15
+IPI00320420	Clusterin 	S	R.QELN#DSLQVAER.L	1	0	4	2	1	1	0	2	4	2	3	6	4	29
+IPI00320605	Integrin beta-2 	TM	Y.LRPGQAAAFN#VTFR.R	0.9904	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00320605	Integrin beta-2 	TM	K.LN#FTGPGEPDSLR.C	1	0	0	0	0	0	0	0	1	0	3	0	0	4
+IPI00320675	Complement factor I 	S	N.FN#VSLIYGR.T	0.9999	0	1	0	0	0	2	1	2	0	0	0	0	6
+IPI00321190	Sulfated glycoprotein 1 	S	K.TN#SSFIQGFVDHVKEDCDR.L	1	0	3	0	0	0	0	0	4	0	3	0	0	10
+IPI00321190	Sulfated glycoprotein 1 	S	K.DN#ATQEEILHYLEK.T	1	1	0	0	0	0	0	3	3	0	6	1	7	21
+IPI00321222	DAMP-1 protein	TM	R.N#TTHLLQR.Q	0.9804	0	1	0	0	0	4	3	0	0	0	0	0	8
+IPI00321348	"ImmunoglobulIn superfamIly, member 8"	TM	R.LQAQDSGFYECYTPSTDTQYLGN#YSAK.V	0.9997	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00321348	"ImmunoglobulIn superfamIly, member 8"	TM	R.IGPGEPLELLCN#VSGALPPPGR.H	0.9999	5	0	0	0	0	0	0	0	0	0	0	0	5
+IPI00321362	AIE-75 binding protein	I	M.GKVWDSEN#VSQELSASLAR.A	0.9274	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00321365	CAR-like membrane protein	TM	R.HVYNN#LTEEQK.G	1	0	3	3	0	0	0	3	0	0	2	3	0	14
+IPI00321375	"12 days embryo female mullerian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6820408J04 product:biotinidase, full insert sequence"	S	R.FN#DTEVLQR.L	0.9997	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00321407	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630116E23 product:cullin 4A, full insert sequence"	I	D.RPRLPDN#YTQDTWR.K	0.8152	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00321477	Endoglin	TM	R.VN#ITVLPSLTSR.K	0.9816	0	0	0	0	0	1	0	0	0	3	0	0	4
+IPI00321717	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1210001G01 product:solute carrier family 34"	TM	K.VIQQIAMGDSAAQN#K.S	1	0	0	8	0	0	0	1	2	0	0	0	0	11
+IPI00321919	G-protein coupled receptor 56 	TM	K.VSHN#ASVDMCDLKK.E	0.8684	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00321919	G-protein coupled receptor 56 	TM	K.VTN#LSDPVVLTFQHQPQPK.N	0.995	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00322304	Histidine-rich glycoprotein HRG	S	R.LPPLNIGEVLTLPEANFPSFSLPNCN#R.S	0.9992	0	0	0	3	0	0	0	0	0	0	0	0	3
+IPI00322304	Histidine-rich glycoprotein HRG	S	R.N#CSTQHFPR.S	1	0	1	0	1	0	2	1	2	0	0	4	0	11
+IPI00322447	RA175	TM	R.FQLLN#FSSSELK.V	0.9997	0	0	0	0	0	0	0	0	0	1	0	8	9
+IPI00322447	RA175	TM	R.VDDEMPQHAVLSGPNLFINNLN#K.T	0.9982	12	0	0	0	0	0	0	0	0	2	0	5	19
+IPI00322463	Beta-2-glycoprotein I 	S	K.DYRPSAGN#NSLYQDTVVFK.C	1	0	8	0	7	5	10	10	5	2	6	7	4	64
+IPI00322569	"Neural cell adhesion molecule 1, 120 kDa isoform "	S	R.DGQLLPSSN#YSNIK.I	0.9981	0	0	2	0	0	0	0	1	0	0	0	0	3
+IPI00322712	Splice Isoform 2 of Lactadherin 	S	K.N#NTIPDSQMSASSSYK.T	0.9914	0	3	0	0	0	0	0	0	0	0	0	0	3
+IPI00322867	Itih1 protein	S	R.AN#LSSQVLK.M	0.9999	0	3	4	0	1	0	0	1	2	4	1	2	18
+IPI00323436	"11 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:I530028M11 product:amiloride binding protein 1 (amine oxidase, copper-containing), full insert sequence"	S	R.AIIFFGAQDHPN#VTEFAVGPLPR.P	0.997	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00329841	Brain-specific homeobox protein homolog	I	-.MNLN#FTSPLHPASSQR.P	0.9709	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00329890	Hypothetical protein BC049730	S	K.FGQN#FSR.T	0.8601	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00329927	Neurofascin 	TM	K.IHETAPDEQSIWN#VTVLPNSK.W	0.9981	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00329927	Neurofascin 	TM	R.PGTDFVVEYIDSN#HTK.K	0.9951	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00329927	Neurofascin 	TM	K.QMVEN#FSPN#QTK.F	0.9785	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00329962	L-fucose kinase	I	R.QGAGMYLN#MSWNEFFK.K	0.982	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00330068	MUC6	S	R.NSVDN#CTVPCTGN#R.T	0.9999	0	0	0	0	0	0	0	0	0	0	4	0	4
+IPI00330539	Splice Isoform 1 of Kin of IRRE-like protein 1 	TM	R.IDGGPVILLQAGTPYN#LTCR.A	0.9738	0	1	0	0	0	0	1	0	0	0	0	0	2
+IPI00330542	Hepatocyte growth factor-like protein 	S	R.GTTN#TTSAGVPCQR.W	1	0	1	0	0	0	0	0	0	0	0	0	1	2
+IPI00330594	C-type lectin domain family 4 member F	TM	R.LRDYEEN#SSSCHK.E	0.844	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00330632	Splice Isoform 1 of Collagen alpha 1(XIV) chain 	S	K.VVDKGN#GSKPTSPEEVK.F	0.9998	0	3	1	2	2	1	1	0	3	3	2	2	20
+IPI00330680	RIKEN cDNA 2310036D22	TM	R.LNN#ITNIGPLDMK.Q	0.9972	0	0	0	0	0	3	0	0	0	0	0	0	3
+IPI00330683	Serine protease inhibitor A3F	I	K.YTGN#ASAMFILPDQGK.M	1	0	0	0	0	0	0	0	1	0	0	0	1	2
+IPI00330719	"CDNA, RIKEN full-length enriched library, clone:G630001M04 product:murinoglobulin 1, full insert sequence"	A	R.N#ASFVYTK.A	1	0	0	0	0	0	0	0	1	0	1	0	0	2
+IPI00330719	"CDNA, RIKEN full-length enriched library, clone:G630001M04 product:murinoglobulin 1, full insert sequence"	A	R.NYEVQLFHVN#ATVTEEGTGLEFSR.S	1	0	0	0	0	0	0	2	0	1	0	0	0	3
+IPI00330719	"CDNA, RIKEN full-length enriched library, clone:G630001M04 product:murinoglobulin 1, full insert sequence"	A	K.YLN#ETQQLTQK.I	1	0	3	2	2	0	0	1	2	0	0	0	0	10
+IPI00330719	"CDNA, RIKEN full-length enriched library, clone:G630001M04 product:murinoglobulin 1, full insert sequence"	A	K.ELIFYYLVMAQGSIIQTGN#HTHQVEPGEAPVK.G	1	0	8	0	4	5	7	1	1	0	8	6	4	44
+IPI00330729	"Splice Isoform 1 of Casein kinase I, alpha isoform"	I	R.TRQHIPYREDKN#LTGTAR.Y	0.9449	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00330866	Integrin alpha 5	TM	R.TEKDPQNDPVGTCYLSTEN#FTR.I	0.9938	0	0	0	0	0	1	0	0	0	0	1	0	2
+IPI00330866	Integrin alpha 5	TM	R.HPGN#FSSLSCDYFAVN#QSR.Q	0.9999	0	0	1	0	0	5	5	1	0	0	4	0	16
+IPI00330883	147 kDa protein	I	R.SQTN#NTCSFTCPDNQVYQPCGPSNPHYCYR.D	0.9414	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00330883	147 kDa protein	I	K.N#SSLIVTYEEGACCPTQN#CSSQK.G	1	0	0	0	0	0	0	0	0	0	0	3	0	3
+IPI00330883	147 kDa protein	I	K.GCEVN#GTLYQPGDVVSSSLCER.C	1	0	0	0	0	0	0	0	0	0	0	5	0	5
+IPI00330883	147 kDa protein	I	R.GETWPMPN#CSQATCEGNNVISLSPR.Q	0.9936	0	0	0	0	0	0	0	0	0	0	5	0	5
+IPI00331214	Platelet glycoprotein IV	TM	R.N#LSYWPSYCDMIN#GTDAASFPPFVEK.S	0.9999	0	7	0	3	0	0	0	0	0	0	0	0	10
+IPI00331214	Platelet glycoprotein IV	TM	K.DPFLSLVPYPISTTVGVFYPYN#DTVDGVYK.V	1	0	3	0	4	0	0	0	0	0	3	0	0	10
+IPI00331214	Platelet glycoprotein IV	TM	K.RPYIVPILWLN#ETGTIGDEK.A	1	0	8	0	6	0	0	1	4	0	3	0	1	23
+IPI00331214	Platelet glycoprotein IV	TM	K.EN#ITQDPEDH.T	0.9999	0	9	1	4	2	5	1	0	2	1	0	2	27
+IPI00331214	Platelet glycoprotein IV	TM	K.VISNN#CTSYGVLDIGK.C	1	0	18	0	2	0	0	1	0	3	8	2	1	35
+IPI00331259	Splice Isoform 1 of Desmoglein-1 gamma 	S	K.LN#ATDADEPNNLNSMIAFK.I	0.9999	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00331269	"Adult male epididymis cDNA, RIKEN full-length enriched library, clone:9230110E19 product:complement component 4 binding protein, full insert sequence"	I	R.LACLN#GTVLR.G	1	0	1	0	0	1	1	0	0	0	1	0	0	4
+IPI00331318	Palmitoyl-protein thioesterase	S	R.N#YSIFLADINQER.C	1	0	0	1	0	0	0	2	0	0	1	0	4	8
+IPI00331413	"Adult male diencephalon cDNA, RIKEN full-length enriched library, clone:9330162A08 product:integrin alpha 6, full insert sequence"	TM	K.YQTLN#CSVNVR.C	0.9999	0	0	1	0	0	1	1	0	0	0	0	0	3
+IPI00331487	Dickkopf-like protein 1 	S	K.VTDN#QTGEVLISEK.V	0.9998	0	0	0	0	0	0	0	0	0	0	0	3	3
+IPI00331550	Dipeptidyl-peptidase II 	S	R.ALAGLVYN#SSGTEPCYDIYR.L	1	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00331617	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732448M22 product:Hypothetical olfactomedin-like domain containing protein, full insert sequence"	S	R.VDKLEEEVSKN#LTK.E	0.9995	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00331631	Stromal interaction molecule 1	TM	R.LAVTN#TTMTGTVLK.M	1	0	0	2	0	0	0	0	1	0	1	0	2	6
+IPI00337974	Splice Isoform 1 of Sodium channel protein type VIII alpha subunit	TM	K.LMEGN#NTEIR.W	0.9994	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00338094	Bone morphogenetic protein receptor type II 	TM	R.ISHEN#GTILCSK.G	0.9992	1	0	0	0	0	0	0	0	0	0	0	1	2
+IPI00338202	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430024D23 product:putative homeodomain transcription factor, full insert sequence"	TM	R.LYGLTMNPLIYN#ITR.V	0.9692	0	0	0	1	0	2	0	0	0	0	0	0	3
+IPI00338561	Endoplasmic reticulum chaperone SIL1 homolog	S	R.LINKFN#SSSSSLEEK.V	0.9382	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00338565	Mutant fibrillin-1	S	R.VLPFN#VTDYCQLVR.Y	1	0	4	0	0	0	0	0	4	5	0	2	1	16
+IPI00338738	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200019A09 product:complement receptor related protein, full insert sequence"	TM	R.IN#YTCNQGYR.L	1	1	4	4	0	1	3	3	3	4	3	3	3	32
+IPI00338785	"CDNA, RIKEN full-length enriched library, clone:M5C1012G13 product:laminin B1 subunit 1, full insert sequence"	I	K.QADEDIQGTQNLLTSIESETAASEETLTN#ASQR.I	1	0	0	0	3	0	0	0	0	0	0	0	0	3
+IPI00338785	"CDNA, RIKEN full-length enriched library, clone:M5C1012G13 product:laminin B1 subunit 1, full insert sequence"	I	K.MEMPSTPQQLQN#LTEDIR.E	1	0	3	4	1	1	0	4	0	1	0	5	2	21
+IPI00338785	"CDNA, RIKEN full-length enriched library, clone:M5C1012G13 product:laminin B1 subunit 1, full insert sequence"	I	K.LTDTASQSN#STAGELGALQAEAESLDK.T	1	0	7	3	8	4	0	6	0	0	2	5	1	36
+IPI00338785	"CDNA, RIKEN full-length enriched library, clone:M5C1012G13 product:laminin B1 subunit 1, full insert sequence"	I	R.VN#ASTTDPN#STVEQSALTR.D	1	1	5	5	7	4	0	2	5	3	4	6	6	48
+IPI00338983	Contactin-associated protein 1 	TM	Y.VYQLTTRPVTDGQPHSVN#ITR.V	0.8637	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00338983	Contactin-associated protein 1 	TM	R.AN#ASEGTFPN#CTGHCTHPR.F	0.9984	5	0	0	0	0	0	0	0	0	0	0	0	5
+IPI00340463	PREDICTED: similar to hypothetical protein A030003A19	S	K.LLNDYVSN#QTQGMIK.E	1	6	54	17	20	19	38	40	13	29	21	24	36	317
+IPI00341098	Calcium activated chloride channel	TM	K.GTQTTN#FTMDSASK.M	1	0	0	5	0	0	0	0	0	0	0	0	0	5
+IPI00343568	CD180 antigen 	TM	R.N#LSHLQSLN#LSYNEPLSLK.T	0.9994	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00343568	CD180 antigen 	TM	R.LIN#LTFLDLTR.C	1	0	0	0	0	0	0	0	0	0	8	0	0	8
+IPI00345199	PREDICTED: similar to calcium binding protein P22	TM	M.MVGVN#ISDEQLGSIADK.I	0.9584	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00345286	"0 day neonate lung cDNA, RIKEN full-length enriched library, clone:E030028C07 product:hypothetical Threonine-rich region profile containing protein, full insert sequence"	TM	K.AADYGN#TTVR.H	0.9984	0	0	0	0	0	0	0	0	0	0	4	0	4
+IPI00345941	"PREDICTED: similar to Angiotensin-converting enzyme, testis-specific isoform  (ACE-T) (Dipeptidyl carboxypeptidase I) (Kininase II)"	TM	R.EVLQEVTGESN#ISTK.A	0.8593	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00347009	"Adult male vesicular gland cDNA, RIKEN full-length enriched library, clone:G630068N03 product:hypothetical protein, full insert sequence"	S	R.LN#SSGICETAETSCEATNNR.K	1	0	0	0	0	0	0	0	37	0	0	1	0	38
+IPI00347894	"PREDICTED: protein disulfide isomerase, pancreatic"	S	K.EPAASAPEAQAN#STLGPK.E	1	0	0	0	0	0	0	0	0	0	5	4	0	9
+IPI00348586	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530016O06 product:hypothetical SUR2-type hydroxylase/desaturase catalytic domain containing protein, full insert sequence"	TM	R.SPGAQDN#VSVSQGMR.A	0.9999	0	0	4	0	0	0	0	0	0	0	0	0	4
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.IKPN#GSN#FTNIVTYGIGANGIR.G	0.92	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.SFLDCTN#R.T	0.8293	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.SCN#STTEFTCSNGR.C	1	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.YN#QSVSNPCK.Q	0.9957	0	0	0	0	3	0	0	0	0	0	0	0	3
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.EDFLIYSLN#NSLR.S	1	0	0	0	0	5	0	0	0	0	0	0	0	5
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.N#QSVVMYSVPQPLGIIAIHPSR.Q	1	0	0	0	0	5	0	0	0	0	0	0	0	5
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.DGN#CTSPQALCNAR.Q	0.9999	0	0	0	0	6	0	0	0	0	0	0	0	6
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	K.MLAQHCVDAN#NTFCFENPR.G	0.9995	1	0	0	0	5	0	0	0	0	0	0	0	6
+IPI00349520	PREDICTED: similar to low density lipoprotein receptor-related protein 2	TM	R.IYYSDFSN#QTINSMAEDGSNR.A	1	0	0	0	0	7	0	0	0	0	0	0	0	7
+IPI00350143	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930048J18 product:hypothetical protein, full insert sequence"	TM	R.LFQN#CSELYK.A	0.9967	0	0	0	0	0	0	1	0	0	0	4	0	5
+IPI00352845	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830129A12 product:Similar to liver regeneration p-53 related protein, full insert sequence"	TM	K.GN#STLAVPK.R	0.9028	1	0	0	0	0	1	0	0	0	1	0	0	3
+IPI00352845	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830129A12 product:Similar to liver regeneration p-53 related protein, full insert sequence"	TM	Y.LIESN#ITSDAHK.G	0.9336	0	0	0	0	0	7	0	0	0	0	0	0	7
+IPI00354461	PREDICTED: gene model 542	TM	K.VCDPNSDVCN#TTR.S	0.9892	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00355482	SLC10A5	TM	K.VLQVVN#VTK.T	0.9904	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00355606	PREDICTED: expressed sequence AL022779	I	M.QN#NSVFGDLK.S	0.956	0	0	0	0	0	1	1	0	0	0	0	0	2
+IPI00355673	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830007J16 product:similar to Serine protease inhibitor 2- 2"	I	K.YTGN#ASAMFILPDQGR.M	0.951	0	1	1	0	0	0	0	0	0	0	0	1	3
+IPI00355825	50 kDa protein	S	K.KPLSQEFEAYVN#ASGEHGI.V	0.9985	0	0	0	0	0	4	0	0	0	0	0	0	4
+IPI00356063	"Sodium channel, voltage-gated, type II, beta"	TM	S.MEVTAPTTLSVLN#GSDTR.L	1	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00356462	PREDICTED: multimerin 1	S	R.QAVLQVN#QSFVSSTAQK.D	0.9942	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00356462	PREDICTED: multimerin 1	S	R.ISEHALETEDGLN#K.T	0.9972	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00356462	PREDICTED: multimerin 1	S	K.LNQLNFQNIYQLFN#ETTSQVNK.C	0.9857	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00356462	PREDICTED: multimerin 1	S	K.KVDN#ASLVADDMR.N	0.9998	0	1	0	0	0	0	0	0	0	4	0	0	5
+IPI00356530	PREDICTED: similar to dachsous 2 isoform 1	TM	K.CN#KSTSVVTVK.A	0.8202	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00357770	PREDICTED: v-erb-a erythroblastic leukemia viral oncogene homolog 4	TM	K.ILN#ETTGPK.A	0.8026	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00377642	Pituitary tumor-transforming gene 1 protein-interacting protein 	TM	R.VGCSEYTN#R.S	0.9971	0	2	3	0	4	3	4	1	3	4	4	5	33
+IPI00378130	TESP1	S	R.ILLGYNQLSN#PSN#YSR.Q	0.9999	0	0	0	0	0	0	0	0	0	0	0	4	4
+IPI00378162	ADAM 2 	TM	R.AFSN#CSMEDFSK.F	0.9997	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00378200	PREDICTED: hypothetical protein LOC71027	TM	R.VHAFAEGLPAGN#YSLSISYRRVK.L	0.8943	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00378224	Disulfide isomerase	TM	R.N#VTGLEN#FTLK.I	0.8636	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00378366	N-acetylated-alpha-linked acidic dipeptidase-like protein	S	K.QN#ISLGPLVTAVANFK.A	0.9999	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00378366	N-acetylated-alpha-linked acidic dipeptidase-like protein	S	R.LDPHN#TSGFPPIPTQPIGFEDAR.D	0.9981	0	0	4	0	0	0	0	0	0	0	0	0	4
+IPI00378366	N-acetylated-alpha-linked acidic dipeptidase-like protein	S	K.LGPGFEPN#GSFPAGSEVK.V	1	0	0	4	0	0	0	0	0	0	0	0	0	4
+IPI00378512	PREDICTED: similar to hypothetical protein FLJ30294	TM	R.GEHN#STSYDSAIIYR.G	0.9999	0	0	0	2	0	0	0	0	1	0	0	0	3
+IPI00378539	PREDICTED: similar to nonsyndromic hearing impairment protein	I	R.SNHIVNDVGIN#VTGSDSIAVK.A	0.8536	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00379131	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930513K05 product:integrin alpha X, full insert sequence"	TM	R.LN#LSLAGDSAPSR.N	0.9979	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00379131	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4930513K05 product:integrin alpha X, full insert sequence"	TM	R.AIFDETKN#CTLTR.R	0.9998	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00380296	O-acetyltransferase	TM	K.IHN#GSEEALAQYK.M	0.9448	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00380371	Hypothetical protein 2210415F13Rik	S	K.GCSDISN#STCQFLSPGN#TTVGEFVFK.S	0.993	0	0	1	0	0	0	0	0	0	0	2	0	3
+IPI00380371	Hypothetical protein 2210415F13Rik	S	F.IIAEMVN#GSGR.V	0.9997	0	0	5	0	0	0	0	1	0	0	2	0	8
+IPI00380717	"13 days embryo heart cDNA, RIKEN full-length enriched library, clone:D330004H12 product:gamma-glutamyltransferase-like activity 1, full insert sequence"	S	R.LWDPSSHPGIQN#ISR.D	0.9987	0	2	1	0	0	0	4	0	0	1	1	1	10
+IPI00381059	Leucine rich repeat containing 4B	TM	P.N#GTLMTHGSYR.V	0.913	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00381178	Liver carboxylesterase 31 	A	K.NVN#ISYTVN#DSFFPQRPQK.L	0.9997	0	0	0	0	0	4	0	0	0	0	0	0	4
+IPI00381208	PREDICTED: similar to coxsackie-adenovirus receptor-like	A	R.SGEASIN#ITDAR.L	0.9941	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00381213	PREDICTED: hypothetical protein LOC68553	I	K.ALN#FTLPFFDSSR.G	0.9965	0	0	0	0	0	0	5	0	0	0	0	0	5
+IPI00381303	Lysosomal alpha-mannosidase 	S	R.DDYRPTWTLN#QTEPVAGNYYPVNTR.I	0.9993	0	2	0	0	0	4	1	0	0	6	0	5	18
+IPI00387289	Carboxylesterase 3 	S	K.N#TTSYPPMCSQDAVGGQVLSELFTNR.K	0.9974	0	1	0	0	0	2	0	0	0	0	0	0	3
+IPI00387418	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830033I22 product:glycoprotein 5 (platelet), full insert sequence"	TM	R.NN#LTHLPK.G	0.9901	0	0	0	1	0	0	0	0	0	4	0	0	5
+IPI00387418	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830033I22 product:glycoprotein 5 (platelet), full insert sequence"	TM	R.ELWLN#GTHLSTLPAAAFR.N	1	0	0	0	0	0	0	0	0	0	5	0	0	5
+IPI00387418	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830033I22 product:glycoprotein 5 (platelet), full insert sequence"	TM	H.IAELGLPTN#LTHILLFR.M	1	0	0	0	0	0	0	0	0	0	6	0	0	6
+IPI00395031	"Adult pancreas islet cells cDNA, RIKEN full-length enriched library, clone:C820003N21 product:similar to DJ5O6.2"	TM	R.VDN#GSQGAPQLFLTSALAR.G	0.9955	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00396687	Inactive dipeptidyl peptidase 10	TM	K.AGVN#YTLQVYPDEGYHISDK.S	0.9906	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00396796	Beta-defensin 50 	S	K.MTAVFGDN#CSFYSSMGDLCN#NTK.S	1	0	0	0	0	0	0	0	25	0	0	0	0	25
+IPI00396840	Endothelin-converting enzyme-1b	TM	K.HLLEN#ATASVSEAER.K	0.9999	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00400016	Laminin gamma-1 chain 	S	R.CDQCEENYFYN#R.S	0.985	0	0	0	0	0	0	2	0	0	0	0	0	2
+IPI00400016	Laminin gamma-1 chain 	S	K.LLNN#LTSIK.I	0.9998	0	4	0	0	0	0	0	0	0	0	0	0	4
+IPI00400016	Laminin gamma-1 chain 	S	K.TAN#ETSAEAYNLLLR.T	1	0	0	0	1	1	0	1	0	0	0	1	1	5
+IPI00400016	Laminin gamma-1 chain 	S	R.TLAGEN#QTALEIEELNR.K	1	0	0	0	1	0	0	1	1	1	2	0	0	6
+IPI00400016	Laminin gamma-1 chain 	S	K.MAAAN#VSITQPESTGEPNN#MTLLAEEAR.R	0.9998	0	1	0	6	0	0	0	0	0	0	2	0	9
+IPI00400016	Laminin gamma-1 chain 	S	R.VN#SSLHSQISR.L	1	1	3	4	5	2	0	2	8	0	1	6	6	38
+IPI00400202	HMW kininogen-II	S	K.HAIEYFNN#NTGHSHLFALR.E	0.9999	0	0	0	0	0	0	0	0	0	0	0	3	3
+IPI00402778	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230328N06 product:neurotrimin, full insert sequence"	S	K.LTFFN#VSEHDYGN#YTCVASNK.L	0.9974	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00403226	"0 day neonate skin cDNA, RIKEN full-length enriched library, clone:4631409B15 product:hypothetical protein, full insert sequence"	TM	R.VDNFN#DSNYMMVFAPESEATHEIMNK.V	0.9998	0	2	0	0	0	0	1	0	2	0	0	0	5
+IPI00403544	"7 days embryo whole body cDNA, RIKEN full-length enriched library, clone:C430017I08 product:KIAA1454-LIKE PROTEIN homolog"	I	M.TDPSDISN#VSAADWSMAEVLAK.K	0.9164	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00403586	"Adult male corpora quadrigemina cDNA, RIKEN full-length enriched library, clone:B230106I24 product:hypothetical Lipolytic enzymes/Esterase/lipase/thioesterase family active site containing protein, full insert sequence"	S	M.IVNN#HTSLDVER.A	0.9997	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00403831	F10 protein	S	L.NLN#ETQPER.S	0.9986	0	2	1	0	0	8	0	0	0	0	0	0	11
+IPI00403938	Tenascin C	A	K.GPN#CSEPDCPGNCNLR.G	1	0	0	1	0	0	0	0	0	0	2	2	0	5
+IPI00403938	Tenascin C	A	R.ESGLN#MTLPEENQPVVFNHIYNIK.L	0.995	0	0	0	0	0	0	5	0	0	4	0	0	9
+IPI00403938	Tenascin C	A	R.LLQTAEHN#ISGAER.T	1	0	0	1	0	0	0	8	0	0	4	1	0	14
+IPI00404062	65 kDa protein	TM	K.LHCHTGCLTN#TTR.C	0.9994	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00404128	"0 day neonate eyeball cDNA, RIKEN full-length enriched library, clone:E130009H02 product:KDEL containing protein 1, full insert sequence"	S	R.EMN#CSETISQIQK.D	0.8785	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00404529	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530023M13 product:cell adhesion molecule with homology to L1CAM, full insert sequence"	TM	R.IIAAN#NSGTFK.I	0.9964	0	0	2	0	0	0	0	1	3	0	1	0	7
+IPI00404529	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530023M13 product:cell adhesion molecule with homology to L1CAM, full insert sequence"	TM	K.DGEAFEMN#GTEDGR.I	1	2	2	2	0	0	0	0	1	2	1	2	0	12
+IPI00404733	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430002H24 product:CD48 antigen, full insert sequence"	S	G.FQGHSIPDIN#ATTGSN#VTLK.I	0.9761	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00404733	"2 days neonate thymus thymic cells cDNA, RIKEN full-length enriched library, clone:E430002H24 product:CD48 antigen, full insert sequence"	S	K.ILEYNYN#STK.T	0.9999	0	1	0	1	0	2	0	0	2	4	0	0	10
+IPI00405742	"14 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:M5C1068G03 product:plexin B2, full insert sequence"	A	K.QDLALSGN#LSSLYAMTQDK.V	0.9459	0	0	0	0	0	2	0	0	0	0	0	1	3
+IPI00405742	"14 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:M5C1068G03 product:plexin B2, full insert sequence"	A	K.LQVTLYN#CSFGR.S	0.9999	0	0	0	0	0	3	0	0	0	0	0	0	3
+IPI00405742	"14 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:M5C1068G03 product:plexin B2, full insert sequence"	A	R.QGPQAGGTTLTIN#GTHLDTGSK.E	0.9996	0	0	0	0	0	3	0	0	0	0	0	1	4
+IPI00406204	PREDICTED: G protein-coupled receptor 116	TM	K.MDYNSFQGTPSN#ETK.F	0.9996	0	1	0	0	0	1	1	0	0	0	0	0	3
+IPI00406302	Alpha-1-antitrypsin 1-1 	S	N.ATAVFLLPDDGK.M	1	0	5	2	0	0	3	2	0	2	0	5	2	21
+IPI00406302	Alpha-1-antitrypsin 1-1 	S	K.GDTHTQILEGLQFN#LTQTSEADIHK.S	1	0	28	1	27	3	2	7	10	2	6	0	7	93
+IPI00406302	Alpha-1-antitrypsin 1-1 	S	R.ELVHQSN#TSNIFFSPVSIATAFAMLSLGSK.G	1	5	27	3	7	3	10	10	15	3	17	7	9	116
+IPI00406434	Mini-agrin	S	K.NELMLN#SSLMR.I	0.9999	0	0	0	0	0	0	2	0	0	0	0	1	3
+IPI00406603	Coagulation factor V	S	R.SSSYHENDMENPQSN#ITMVYLLPLGPK.G	0.9836	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00406603	Coagulation factor V	S	K.LTNSPQNQN#ITVPR.G	0.9998	0	0	0	2	0	0	0	0	0	0	0	0	2
+IPI00406609	Receptor-type tyrosine-protein phosphatase eta 	A	R.LTWSNAN#GTASYR.M	0.9996	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00406693	AstrotActin 2 isoform A	TM	R.VVPLYTLIQDN#GTK.E	0.9576	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00406901	"16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130026C24 product:platelet/endothelial cell adhesion molecule, full insert sequence"	TM	K.GHAIGISCQSEN#GTAPITYHLMK.A	0.9962	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00406901	"16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130026C24 product:platelet/endothelial cell adhesion molecule, full insert sequence"	TM	K.EETVLSQYQN#FSK.I	1	0	0	2	1	0	2	0	1	0	4	0	0	10
+IPI00406901	"16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130026C24 product:platelet/endothelial cell adhesion molecule, full insert sequence"	TM	K.DDAMVYN#VTSR.E	1	0	1	3	0	1	0	1	0	0	3	1	1	11
+IPI00407613	"Mitochondrial tumor suppressor gene 1, isoform 3"	I	M.EKLVDN#NTALVDK.L	0.9758	0	0	0	0	0	0	1	0	0	1	0	0	2
+IPI00408007	Zwilch	I	R.QLIGLYTMAHNPN#MTHLK.I	0.8996	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00408895	Trans-Golgi network integral membrane protein 1 	TM	K.TDAELN#ETARP.L	0.998	0	2	2	1	0	1	3	0	0	0	2	1	12
+IPI00408931	Carcinoembryonic antigen-related cell adhesion molecule 10 	S	V.PPN#VTADNNVLLLVHNLPQTLR.V	0.9997	0	0	0	0	0	0	0	9	0	0	0	0	9
+IPI00408931	Carcinoembryonic antigen-related cell adhesion molecule 10 	S	R.ETIYSN#GSLFFQSVTK.N	1	0	0	0	0	0	0	0	10	0	0	0	0	10
+IPI00408931	Carcinoembryonic antigen-related cell adhesion molecule 10 	S	R.EIIYNN#GSLFFQGVTK.N	1	0	0	0	0	0	0	0	25	0	0	0	0	25
+IPI00409148	Haptoglobin 	S	K.CVVHYEN#STVPEK.K	1	0	6	0	0	0	1	0	11	0	0	1	13	32
+IPI00409148	Haptoglobin 	S	K.NLFLN#HSETASAK.D	1	0	2	0	0	0	0	0	6	1	0	0	25	34
+IPI00409148	Haptoglobin 	S	K.N#LTSPVGVQPILNEHTFCAGLTK.Y	1	0	4	0	0	0	0	0	14	0	0	1	15	34
+IPI00409148	Haptoglobin 	S	K.VVLHPN#HSVVDIGLIK.L	1	0	5	0	0	0	5	0	13	0	0	0	20	43
+IPI00409393	"Latent transforming growth factor beta binding protein, isoform 1L "	S	R.YGQEQGTAPFQVSN#HTGR.I	0.9999	0	0	0	0	0	0	2	0	0	0	0	2	4
+IPI00410796	"Adult inner ear cDNA, RIKEN full-length enriched library, clone:F930021G24 product:Hypothetical quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence"	TM	H.YKPDTLAVVIEN#GTSIDR.Q	1	0	0	3	0	0	2	0	0	0	0	0	0	5
+IPI00410985	Nectin-like molecule 2	TM	K.VSLTN#VSISDEGR.Y	1	3	0	0	0	0	0	4	0	1	5	5	4	22
+IPI00411071	Splice Isoform 1 of Lactadherin 	S	K.FEFIQDESGGDKEFLGNLDN#NSLK.V	0.9572	1	4	0	0	0	0	0	0	0	0	0	0	5
+IPI00415339	Fc receptor-like protein 3	TM	K.ISQVN#ISDAGEYHCEATNSR.R	0.9998	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00420204	PREDICTED: maltase-glucoamylase	I	K.IFGTRPLYN#VTVK.H	0.8707	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00420204	PREDICTED: maltase-glucoamylase	I	R.VILILDPAISGN#ETEPYPAFTR.G	0.9997	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00420204	PREDICTED: maltase-glucoamylase	I	R.YGYEN#DSEIASLYDEMVDK.K	0.9999	0	0	3	1	0	0	0	0	0	0	0	0	4
+IPI00420457	Thyroid hormone receptor-associated protein 2	I	K.KN#KSEDGFGTK.D	0.8439	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00420489	Splice Isoform 1 of Von Willebrand factor 	S	R.HCDGN#TS.F	0.9694	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00420489	Splice Isoform 1 of Von Willebrand factor 	S	R.VPLHCTN#GSVVYHEVINAMQCR.C	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00420554	Splice Isoform 1 of Contactin-associated protein-like 2 	TM	K.VGVHIN#NTQTK.T	0.9998	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00420656	 tenascin protein 	A	R.LN#YSLPTGQSMEVQLPK.D	0.9999	0	0	0	0	0	0	5	0	0	0	1	0	6
+IPI00420955	Sortilin 1	TM	K.DITNLIN#NTFIR.T	0.9999	1	4	0	0	0	0	2	0	0	1	0	6	14
+IPI00420973	Hypothetical protein	S	K.ETN#ATYPSSDVPCDATLTEK.S	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00421157	Torsin A interacting protein 2	I	K.HLN#ASN#PSEPATIIFTAAR.E	1	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00453537	"10 days neonate cortex cDNA, RIKEN full-length enriched library, clone:A830029E02 product:weakly similar to BK134P22.1"	TM	R.VDHESLN#ATPQVAMQVLEIHYTPSVK.I	0.9991	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00453537	"10 days neonate cortex cDNA, RIKEN full-length enriched library, clone:A830029E02 product:weakly similar to BK134P22.1"	TM	R.ELNILFLN#KTDN#GTYR.C	0.9962	5	0	0	0	0	0	0	0	0	0	0	0	5
+IPI00453537	"10 days neonate cortex cDNA, RIKEN full-length enriched library, clone:A830029E02 product:weakly similar to BK134P22.1"	TM	R.VDQNDN#TSLQWSNPAQQTLYFDDK.K	0.9556	6	0	0	0	0	0	0	0	0	0	0	0	6
+IPI00453571	Splice Isoform 1 of Hyaluronidase-1 	S	R.EELGTYPYYTPTGEPVFGGLPQN#ASLVTHLAH.T	0.9626	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00453571	Splice Isoform 1 of Hyaluronidase-1 	S	K.EQSFQGSN#MTIFYR.E	1	0	0	0	0	1	6	1	0	0	1	0	1	10
+IPI00453778	"Mammary gland RCB-0526 Jyg-MC(A) cDNA, RIKEN full-length enriched library, clone:G830037C08 product:MEGF10 protein (Hypothetical protein KIAA1780) homolog"	TM	K.NCAGVCTCTNN#GTCNPIDR.S	0.8812	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00453791	Tiam2 protein	I	R.DLN#NTHTNSMEAPTESH.D	0.8415	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00454033	Platelet receptor Gi24 	TM	Y.SLYVCPEGQN#ATLTCR.I	0.9994	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00454043	Choline transporter-like protein 4	TM	R.N#STGAYCGVGDNK.D	0.8062	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00454115	Semaphorin 4D	TM	R.VLQPLSSTSLYVCGTNAFQPTCDHLN#LTSFK.F	0.9788	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00454159	Splice Isoform 1 of Chondroitin sulfate proteoglycan 5 	TM	K.DLASGEN#GTECR.V	1	6	0	0	0	0	0	0	0	0	0	0	0	6
+IPI00457532	Splice Isoform 1 of Peptidyl-prolyl cis-trans isomerase-like 3	I	S.MANNGPNTN#GSQFFITYGK.Q	0.8413	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00457636	HMW kininogen-I variant	S	T.YTIVQTN#CSK.E	0.9999	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00457636	HMW kininogen-I variant	S	K.EGN#CSAQSGLAWQDCDFK.D	1	0	0	0	1	0	0	1	0	2	1	1	0	6
+IPI00457636	HMW kininogen-I variant	S	K.HSIEHFNN#NTDHSHLFTLR.K	1	0	5	0	0	0	0	1	8	0	1	0	3	18
+IPI00457819	"9.5 days embryo parthenogenote cDNA, RIKEN full-length enriched library, clone:B130018C03 product:weakly similar to HRG22"	I	R.NSGN#DSEADPLSEPPAK.Q	0.8959	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00458003	Ectonucleotide pyrophosphatase/phosphodiesterase 3	TM	R.LN#LSEGEVAATVK.A	0.9995	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00458077	"4 days neonate male adipose cDNA, RIKEN full-length enriched library, clone:B430217G19 product:N-acylsphingosine amidohydrolase 2, full insert sequence"	TM	R.N#FSGYYIGVGR.A	0.9999	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00458077	"4 days neonate male adipose cDNA, RIKEN full-length enriched library, clone:B430217G19 product:N-acylsphingosine amidohydrolase 2, full insert sequence"	TM	K.AIATDTVAN#MSSGPEPPFFK.N	1	0	0	6	0	0	2	2	0	0	0	0	0	10
+IPI00458099	PREDICTED: similar to Ubiquitin-conjugating enzyme E2 E1 (Ubiquitin-protein ligase E1) (Ubiquitin carrier protein E1) (UbcM3)	I	K.QRAGITLDPLPN#CSVGPKGDNIYEWR.S	0.8405	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00458467	"PREDICTED: similar to Maltase-glucoamylase, intestinal"	TM	R.IDCYPDEHGASEAN#CSAR.G	0.9974	0	0	7	0	0	0	0	0	0	0	0	0	7
+IPI00458467	"PREDICTED: similar to Maltase-glucoamylase, intestinal"	TM	K.DQDPASFGN#NSLLLN#SSR.H	1	0	0	5	2	0	1	0	0	0	0	0	0	8
+IPI00458893	Tetraspanin-13	TM	R.SYNPN#DTCPASCAK.S	1	0	0	1	0	0	0	1	0	0	2	0	0	4
+IPI00459077	"10 days lactation, adult female mammary gland cDNA, RIKEN full-length enriched library, clone:D730047H02 product:similar to MACROPHAGE GALACTOSE N-ACETYL-GALACTOSAMINE SPECIFIC LECTIN"	TM	R.AILDN#TTSK.I	0.9979	0	2	0	0	0	0	0	0	3	0	2	0	7
+IPI00459329	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4921539A16 product:stromal cell derived factor receptor 1, full insert sequence"	TM	K.ENGVFEEISN#SSGR.F	1	24	1	2	0	1	4	1	3	1	3	2	0	42
+IPI00459432	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830015H17 product:Kidney predominant protein (RIKEN cDNA 0610031J06 gene), full insert sequence"	TM	R.GN#HSLFGLEVATLGQGPDCPSVNER.N	0.9594	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00459432	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830015H17 product:Kidney predominant protein (RIKEN cDNA 0610031J06 gene), full insert sequence"	TM	R.LLEFDSTN#ASEGAQPPGKPYPPYSLAK.F	1	0	0	0	0	0	6	0	0	0	2	0	1	9
+IPI00459432	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830015H17 product:Kidney predominant protein (RIKEN cDNA 0610031J06 gene), full insert sequence"	TM	S.ADFQGRPVDDPTGAFAN#GSLTFK.V	1	0	3	0	0	0	2	0	0	2	1	1	2	11
+IPI00459866	PREDICTED: similar to hypothetical protein FLJ35802	I	K.KHQPVMAHN#ISAYLREA.R	0.8564	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00460038	Orosomucoid 3	S	N.LIN#DTMELR.E	1	0	0	0	0	0	0	0	2	1	0	0	2	5
+IPI00460063	Prenylcysteine oxidase 	S	K.MSN#ITFR.N	0.868	2	0	0	0	0	0	2	0	1	0	0	0	5
+IPI00460063	Prenylcysteine oxidase 	S	K.GELN#STLFSSRPK.D	1	1	5	2	0	1	3	10	0	2	0	2	3	29
+IPI00460291	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830013H06 product:Sad1/unc-84-like protein 2 homolog"	TM	K.ALSPN#STISSAPK.D	0.9984	0	1	0	0	0	0	2	0	0	0	1	0	4
+IPI00460756	PREDICTED: similar to hypothetical protein	I	R.FPDN#NSEDFVVR.N	0.8625	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00461132	Leucocyte common antigen	TM	R.KCNSDN#ISYVLHCEPEN#NTK.C	1	0	1	0	0	0	0	0	0	0	5	0	0	6
+IPI00461132	Leucocyte common antigen	TM	R.AQTN#YTCVAEILYR.G	1	0	2	2	0	0	0	0	0	0	7	0	0	11
+IPI00461244	Novel protein	I	R.VNKKVNNDASLRIHN#LSILVK.Q	0.8028	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00461384	"15 days embryo head cDNA, RIKEN full-length enriched library, clone:D930033O22 product:MYELOBLAST KIAA0230 homolog"	A	R.ILCDNSDN#ITR.V	0.9515	0	2	0	0	0	0	0	0	0	0	0	0	2
+IPI00461438	"10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732483D01 product:long chain fatty acyl elongase, full insert sequence"	TM	-.MN#MSVLTLQEYEFEK.Q	0.9661	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00461440	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4921511K13 product:a disintegrin and metalloprotease domain 5, full insert sequence"	TM	K.AN#LSVAYAQIR.D	0.983	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00461517	OTTMUSP00000000503	TM	M.SMNLIHSITSTDLN#MSQRK.N	0.9898	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00461577	"Adult male tongue cDNA, RIKEN full-length enriched library, clone:2310038C11 product:ATPase, H+/K+ transporting, beta polypeptide, gastric specific, full insert sequence"	TM	K.ISYN#VSEN#SSWAGLTHTLH.S	0.9999	0	0	0	0	0	0	0	0	0	0	14	0	14
+IPI00461822	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730011L11 product:P300 TRANSCRIPTION COACTIVATOR homolog"	I	I.MPNQVMN#GSIGAGR.G	0.8298	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00461861	Neprilysin	TM	R.SCIN#ESAIDSR.G	0.9995	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00461861	Neprilysin	TM	K.EIAN#ATTKPEDR.N	0.9995	0	2	4	1	4	3	1	0	1	0	0	1	17
+IPI00461962	Developmentally regulated G-protein-coupled receptor	TM	K.GLSFN#SSVNEMHVSFSSDF.S	0.802	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00462199	Basigin	TM	K.SQLTISNLDVNVDPGTYVCN#ATNAQGTTR.E	1	1	4	1	4	1	10	0	0	1	0	2	0	24
+IPI00462199	Basigin	TM	K.TQLTCSLN#SSGVDIVGHR.W	1	10	5	5	7	3	8	1	3	4	5	10	7	68
+IPI00462199	Basigin	TM	K.TSDTGEEEAITN#STEANGK.Y	1	4	4	6	5	5	16	5	4	4	6	6	7	72
+IPI00462364	PREDICTED: membrane protein CH1	A	K.ALEVN#MSLSGR.Y	0.9956	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00462371	PREDICTED: similar to hypothetical protein MGC33370	S	K.IPESCKVEN#TTSPK.T	0.9646	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00463311	PREDICTED: similar to RIKEN cDNA E330026B02	I	R.DLQNFLEN#VTSSVDVK.D	0.9987	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00463311	PREDICTED: similar to RIKEN cDNA E330026B02	I	R.DLGMFAPN#MTR.I	0.9916	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00463311	PREDICTED: similar to RIKEN cDNA E330026B02	I	K.SN#DSVLEPANR.L	0.9998	0	0	1	0	0	0	0	0	0	0	1	2	4
+IPI00463311	PREDICTED: similar to RIKEN cDNA E330026B02	I	R.SSAN#QSEFQQQIQK.L	1	0	0	1	0	0	0	1	0	0	1	0	4	7
+IPI00463489	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K230009E18 product:Opioid binding protein/cell adhesion molecule (OBCAM) (Opioid-binding cell adhesion molecule) (OPCML) homolog"	A	R.ISTLTFFN#VSEK.D	0.9985	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00463489	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K230009E18 product:Opioid binding protein/cell adhesion molecule (OBCAM) (Opioid-binding cell adhesion molecule) (OPCML) homolog"	A	K.DYGN#YTCVATNK.L	1	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00463492	Tmem2 protein	TM	K.FDTHEYHN#ESR.R	0.9057	0	0	0	0	0	1	0	0	0	0	0	1	2
+IPI00463764	"6 days neonate spleen cDNA, RIKEN full-length enriched library, clone:F430112M20 product:Hypothetical protein (Hypothetical UDP- glucoronosyl and UDP-glucosyl transferase containing protein), full insert sequence"	TM	R.VSQVLHEGGHN#VTK.L	1	0	0	0	0	2	2	0	0	0	0	0	0	4
+IPI00464135	Semaphorin-4B 	TM	R.KIN#SSLQLPDR.V	0.9985	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00464136	"PREDICTED: zinc finger, CCHC domain containing 2"	I	N.VVAN#TSGSGPKK.N	0.8338	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00464151	"16 days embryo head cDNA, RIKEN full-length enriched library, clone:C130073M18 product:UNKNOWN (PROTEIN FOR MGC:11927) homolog"	S	R.VQQVGHYPPAN#SSLASR.S	0.9999	4	0	0	0	0	0	1	0	0	0	0	0	5
+IPI00464348	"10 days embryo whole body cDNA, RIKEN full-length enriched library, clone:2610305J08 product:thymopoietin, full insert sequence."	I	K.ASSN#ESLVANR.L	0.8556	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00465769	Solute carrier family 12 member 5	TM	K.LAWEGN#ETVTTR.L	0.9984	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00465769	Solute carrier family 12 member 5	TM	R.NN#VTEIQGIPGAASGLIK.E	1	9	0	0	0	0	0	0	0	0	0	0	0	9
+IPI00465769	Solute carrier family 12 member 5	TM	R.LLN#ATCDEYFTR.N	0.9998	12	0	0	0	0	0	0	0	0	0	0	0	12
+IPI00465810	Ca2+ regulator SV2A	TM	R.VEHVTFN#FTLENQIHR.G	0.9836	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00465810	Ca2+ regulator SV2A	TM	R.LVN#STFLHNK.E	0.9999	19	0	0	0	0	0	0	0	1	0	0	0	20
+IPI00466061	FAD123	TM	R.N#LSTCFSSGDLFAAHN#LSER.S	1	0	0	0	0	0	4	0	0	0	0	0	0	4
+IPI00466061	FAD123	TM	R.YGKN#DSLTLTQLK.S	0.9999	0	0	1	0	0	3	2	0	0	0	0	0	6
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	K.EN#MTFGSTLVTNPK.G	0.9816	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	K.QTQVGIVQYGAN#VTHEFNLNK.Y	0.9243	0	0	0	0	0	1	0	0	0	0	1	0	2
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	K.ANQIVIPHN#TTFQTEPTK.M	0.9999	0	0	0	0	1	0	0	1	0	1	0	0	3
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	R.GELQSEN#SSLTLSSSNR.K	1	0	1	0	0	0	3	0	0	0	0	2	0	6
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	K.DSCESNQN#ITCR.V	0.9999	0	0	2	0	1	0	0	0	0	1	2	1	7
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	K.VYVYAVN#QTR.F	0.9998	0	2	0	0	0	2	2	0	1	1	1	0	9
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	K.LDLPVN#TSIPN#VTEIK.E	1	0	1	1	0	3	0	1	1	0	3	1	0	11
+IPI00466371	"16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630012J05 product:integrin alpha 1, full insert sequence"	TM	R.YN#HTGQVVIYK.M	0.9999	0	0	1	0	1	0	4	0	0	1	3	2	12
+IPI00466999	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330029H11 product:hypothetical Quinoprotein alcohol dehydrogenase structure containing protein, full insert sequence"	TM	K.APDSN#SSSLLITTR.Q	0.9987	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00467180	Translocon-associated protein beta subunit 	TM	R.IAPASN#VSHTVVLRPLK.A	1	0	0	1	0	0	12	5	4	0	7	3	1	33
+IPI00467237	36 kDa protein	I	K.KAGNVVN#VTNVLPR.K	0.9197	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00467285	77 kDa protein	TM	R.IHPSN#YSSEFSLAK.Q	0.8353	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00467505	CEA-related cell adhesion molecule 10	S	N.VTADNNVLLLVHNLPQTLR.V	0.9997	0	0	0	0	0	0	0	9	0	0	0	0	9
+IPI00467600	Stabilin-2 	A	R.VLLN#LTTVAANHGYTK.F	0.8271	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00467793	RIKEN cDNA 4931406P16	I	R.TTDPSQSSQN#SSNPMVNGFLLERR.E	0.8079	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00467883	Glycosyltransferase 8 domain containing 1	TM	K.RQN#VTNQLEK.W	0.9945	0	0	0	0	0	0	0	0	1	0	0	2	3
+IPI00467944	61 kDa protein	TM	F.VPQN#STIESPENSLQFR.L	1	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00467944	61 kDa protein	TM	K.EN#DTGVVQQLEECQVK.G	0.9984	0	1	0	0	0	0	1	0	1	0	0	0	3
+IPI00467944	61 kDa protein	TM	K.VVN#VSELYGTPCTK.R	1	0	1	2	0	0	3	4	4	2	1	3	0	20
+IPI00467985	"ES cells cDNA, RIKEN full-length enriched library, clone:C330026G04 product:low density lipoprotein receptor-related protein 2, full insert sequence"	S	K.VCDGVPDCPEGEDENN#ATSGR.Y	1	0	0	0	0	4	0	0	0	0	0	0	0	4
+IPI00467985	"ES cells cDNA, RIKEN full-length enriched library, clone:C330026G04 product:low density lipoprotein receptor-related protein 2, full insert sequence"	S	R.DSSDEAN#CTTLCSQK.E	1	0	0	0	0	6	0	0	0	0	0	0	0	6
+IPI00468198	334 kDa protein	S	K.EAGN#ITTDGYEILGK.L	0.9997	0	0	0	0	0	0	0	0	0	0	2	0	2
+IPI00468236	Splice Isoform 1 of Transmembrane protein 16F	TM	R.LN#ITCESSK.K	0.8257	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00468236	Splice Isoform 1 of Transmembrane protein 16F	TM	K.NPN#GTDPIQK.Y	0.9996	0	0	3	0	2	0	0	0	0	0	1	1	7
+IPI00468387	22 kDa protein	I	K.VPMMVQSGN#ISYFR.D	1	0	13	2	3	5	4	5	1	8	4	7	3	55
+IPI00468458	PREDICTED: lactase-phlorizin hydrolase	TM	K.ASDMN#SSALISMMHQDVPWGMR.R	0.9998	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00468458	PREDICTED: lactase-phlorizin hydrolase	TM	K.GPSIWDN#FTHTPGNGVK.D	1	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00468458	PREDICTED: lactase-phlorizin hydrolase	TM	R.RGDPELN#DTDR.I	0.9998	0	0	10	0	0	0	0	0	0	0	0	0	10
+IPI00468949	78 kDa protein	I	-.EHSPFSASENSN#GSLQIHK.R	0.9083	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00469000	Zinc transporter SLC39A6 	TM	R.NTNDNIQECFN#TTK.L	0.9842	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00469000	Zinc transporter SLC39A6 	TM	R.YGEN#DSLSVEGFR.K	0.9982	2	0	0	0	0	1	0	0	0	0	0	2	5
+IPI00469073	83 kDa protein	I	R.VILILDPAISGN#ETQPYPAFTR.G	1	0	0	7	1	0	0	0	0	0	0	0	0	8
+IPI00469123	Melanoma cell adhesion molecule	TM	R.ASGN#FSQVDWFLIHK.E	0.9763	0	0	0	0	0	0	1	1	0	0	0	0	2
+IPI00469218	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200007I01 product:lysosomal membrane glycoprotein 1, full insert sequence"	TM	K.EN#VSDPSLTITFGR.G	0.9993	0	0	0	0	0	5	0	0	0	1	0	1	7
+IPI00469218	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200007I01 product:lysosomal membrane glycoprotein 1, full insert sequence"	TM	R.YSVQHMYFTYN#LSDTEHFPNAISK.E	1	0	1	0	0	0	12	1	0	0	7	2	0	23
+IPI00469218	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200007I01 product:lysosomal membrane glycoprotein 1, full insert sequence"	TM	K.N#VTVVLR.D	0.9971	0	4	1	2	1	4	2	1	2	0	2	4	23
+IPI00469218	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200007I01 product:lysosomal membrane glycoprotein 1, full insert sequence"	TM	R.AFN#ISPN#DTSSGSCGINLVTLK.V	1	0	7	0	0	0	13	2	0	0	6	0	4	32
+IPI00469218	"Adult male lung cDNA, RIKEN full-length enriched library, clone:1200007I01 product:lysosomal membrane glycoprotein 1, full insert sequence"	TM	R.LN#MTLPDALVPTFSISN#HSLK.A	1	0	5	0	0	3	5	9	5	1	7	0	9	44
+IPI00469221	"Splice Isoform 1 of Inositol 1,4,5-trisphosphate receptor type 1"	TM	R.VETGEN#CTSPAPK.E	1	3	0	0	0	1	0	3	0	0	0	1	0	8
+IPI00469280	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830025I04 product:solute carrier family 30"	TM	K.N#VSPVILLNTQT.R	0.8807	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00469387	GUGU alpha	S	R.VLYLPAYN#CTLRPVSK.R	1	0	6	0	0	2	0	4	2	0	3	6	8	31
+IPI00469426	137 kDa protein	A	K.TN#STQVSDVR.A	0.9971	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00469426	137 kDa protein	A	A.VAEEVPDAN#GTK.R	0.8197	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00469426	137 kDa protein	A	R.PSSVSHIEVN#TTTTTAAIR.W	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00469426	137 kDa protein	A	R.LEN#CTSDDDTECR.T	1	0	0	0	0	0	3	0	0	0	1	0	0	4
+IPI00469426	137 kDa protein	A	R.GPDGTEGLSSTVN#GSTDPSAVTDIR.V	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00469466	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830226M16 product:integrin alpha 7, full insert sequence"	TM	R.N#VTLDCAQGTAK.C	0.8972	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00469490	49 kDa protein	S	K.GTSNDLVLQSIN#STCSYYECAFLGGLK.T	1	0	1	0	0	0	0	0	0	0	0	0	1	2
+IPI00469490	49 kDa protein	S	R.LGN#FTLAYSAKPETADNQR.V	1	0	2	0	0	0	0	0	3	1	0	0	8	14
+IPI00469541	Bone morphogenetic protein 1	S	K.AAGN#SSALGGQGTSGQPQR.E	0.9528	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00469542	Histidine-rich calcium-binding protein	S	R.EVGEEN#VSEEVFR.G	0.9999	0	0	0	1	0	0	0	0	0	0	0	0	1
+IPI00469773	PREDICTED: similar to Fc fragment of IgG binding protein	I	R.LCGLCGNFNGN#QSDDFVLPSGVVAPNVEAFGAAWR.A	0.9367	0	0	0	0	0	0	0	4	0	0	0	0	4
+IPI00469773	PREDICTED: similar to Fc fragment of IgG binding protein	I	H.APPTGTEYFN#VTVVNEHR.C	1	0	0	0	0	0	0	0	7	0	0	0	0	7
+IPI00469773	PREDICTED: similar to Fc fragment of IgG binding protein	I	K.ALN#HSEYFHQCVFDLCTHHGDR.D	1	0	0	0	0	0	0	0	12	0	0	0	0	12
+IPI00469941	Protein C14orf4 homolog	I	R.RN#SSSPVSPASVPGQRR.L	0.859	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00470049	85 kDa protein	I	R.N#VTAYFPK.A	0.9613	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00470049	85 kDa protein	I	R.YGYEN#DTEIANLYDEMVAK.Q	0.9998	0	0	4	0	0	0	0	0	0	0	0	0	4
+IPI00470184	Splice Isoform Glt-1 of Excitatory amino acid transporter 2	TM	K.AVISMLN#ETMNEAPEETK.I	1	42	0	0	0	0	11	0	0	7	0	0	0	60
+IPI00470184	Splice Isoform Glt-1 of Excitatory amino acid transporter 2	TM	K.VLVAPPSEEAN#TTK.A	1	63	0	0	0	0	5	0	0	4	0	0	0	72
+IPI00470960	"Glutamate receptor, metabotropic 4"	TM	R.INNDPDLLPN#ITLGAR.I	0.9951	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00471080	RIKEN cDNA 1300017J02	S	K.DLLFSDDTECLSNLQN#K.T	1	0	0	0	0	0	0	0	1	2	0	0	1	4
+IPI00471081	RIKEN cDNA 1100001H23	A	K.NGDAYGYYN#DSIK.T	0.9976	0	0	1	0	0	0	1	0	0	3	0	0	5
+IPI00471089	"Adult male aorta and vein cDNA, RIKEN full-length enriched library, clone:A530081G07 product:purinergic receptor P2X, ligand-gated ion channel 4, full insert sequence"	TM	N.MIVTVN#QTQGTCPEIPDK.T	0.9998	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00471102	"Adult male tongue cDNA, RIKEN full-length enriched library, clone:2310021E09 product:hypothetical protein, full insert sequence"	A	R.FCYN#VSDCQSAVPGTMNR.W	0.998	0	0	1	0	0	0	0	2	0	0	0	0	3
+IPI00471176	Hepatocyte cell adHesion molecule	TM	K.DGKPLLN#DSR.M	0.8763	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00471176	Hepatocyte cell adHesion molecule	TM	G.VN#ITSPVR.L	0.9037	2	0	0	0	0	0	0	0	0	0	0	0	2
+IPI00471231	"Adult male liver tumor cDNA, RIKEN full-length enriched library, clone:C730037I10 product:similar to UDP GLUCURONOSYLTRANSFERASE UGT2A3"	TM	S.ELTDN#MTFTER.V	0.9999	0	0	0	0	0	2	0	0	1	0	0	0	3
+IPI00471273	Splice Isoform 1 of Apoptosis-related protein 3 	TM	A.LPEICTLCPGGMHN#LSR.V	0.9972	0	0	0	0	0	4	0	0	0	0	0	1	5
+IPI00471289	Chloride channel calcium activated 3	S	K.ASIQGQNLVN#LTWTAPGDDYDHGR.A	0.975	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00471339	L1 cell adhesion molecule	I	D.N#QTYMAVEGSTAYLLCK.A	0.9333	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00473181	"Adult inner ear cDNA, RIKEN full-length enriched library, clone:F930119J08 product:complement component 4"	A	K.ALN#VTLSSMGR.N	1	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00473357	19 kDa protein	I	R.EVNSQLDNNGCSTQEVN#ITELQSK.K	0.9999	0	2	0	0	0	3	1	0	0	0	0	0	6
+IPI00473419	"12 days embryo eyeball cDNA, RIKEN full-length enriched library, clone:D230045N10 product:SIMILAR TO SERINE THREONINE PROTEIN KINASE homolog"	I	M.AMTGSTPCSSMSN#HTK.E	0.87	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00473578	67 kDa protein	S	R.WGEVDLIGN#CSQFYPDR.Y	1	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00473578	67 kDa protein	S	K.FSHN#GTCAAEGK.F	1	0	0	0	0	0	0	0	0	0	0	0	2	2
+IPI00473680	"17 days embryo kidney cDNA, RIKEN full-length enriched library, clone:I920072N22 product:Glycoprotein 25L2 homolog"	TM	R.FTFTSHTPGEHQICLHSN#STK.F	0.9999	0	1	0	0	0	0	0	3	0	3	0	0	7
+IPI00473830	Biliary glycoprotein 	TM	R.TLTLLN#VTR.N	0.996	0	0	0	0	0	4	0	0	0	0	0	0	4
+IPI00473830	Biliary glycoprotein 	TM	R.N#DTGPYVCETR.N	0.9997	0	0	1	0	0	2	0	3	0	0	0	0	6
+IPI00473830	Biliary glycoprotein 	TM	R.MTLSQN#NSILR.I	1	0	1	10	0	2	15	0	1	1	4	1	0	35
+IPI00474395	MHC class I-alpha	TM	R.VNLRILLGYYN#QSAGGSHTIQR.M	1	0	10	5	2	1	20	7	1	4	9	2	3	64
+IPI00474726	110 kDa protein	I	R.VPGADTQYFVYSN#DSIHPYTPFEVK.I	0.9995	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00474734	Splice Isoform 2 of Protein Z-dependent protease inhibitor 	S	G.N#ATMLVVLMEK.T	1	0	2	2	0	0	0	0	0	1	2	0	1	8
+IPI00474787	"MRNA, . "	TM	Y.N#QSAGGSHTLQR.L	0.9999	0	6	7	2	3	4	4	2	2	12	2	3	47
+IPI00474965	Epidermal growth factor receptor	I	R.DCVSCQN#VSR.G	1	0	0	0	3	0	1	3	4	2	1	4	3	21
+IPI00475055	406 kDa protein	I	R.AAKLEAASGNSN#GTGNS.G	0.9644	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00475157	Serpina1b protein	TM	W.VLLMDYVGN#ASAVFLLPEDGK.M	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00475164	113 kDa protein	I	K.VHYMTHGANN#NSAR.R	0.9809	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00480532	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630047E11 product:hypothetical protein, full insert sequence"	TM	R.VIETLPAN#YSLN#SSK.K	0.9994	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00515319	Prostaglandin F2 receptor negative regulator	TM	R.YSVLITAEKPVGDLSSPN#ETK.Y	0.9996	0	0	1	0	0	0	3	1	0	0	7	0	12
+IPI00515360	"14 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:M5C1029N18 product:perlecan"	A	R.CDGDFDCEDRTDEAN#CSVK.Q	0.9996	0	0	0	0	0	0	1	2	0	1	0	0	4
+IPI00515360	"14 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:M5C1029N18 product:perlecan"	A	K.GVN#VTMPSQPGVPPLSSTQLQIDPALQEFQLVDLSR.R	1	0	0	0	2	0	0	0	0	0	4	0	0	6
+IPI00515360	"14 days pregnant adult female placenta cDNA, RIKEN full-length enriched library, clone:M5C1029N18 product:perlecan"	A	R.ALVN#FTR.S	0.9916	0	1	1	0	1	2	2	0	0	5	2	0	14
+IPI00515389	CEA-related cell adhesion molecule 1	A	K.GN#TTAIDKEIAR.F	0.9892	0	0	0	0	0	0	0	2	0	0	0	0	2
+IPI00515389	CEA-related cell adhesion molecule 1	A	R.FVPNSNMN#FTGQAYSGR.E	1	0	5	6	1	0	13	1	5	1	5	0	0	37
+IPI00551297	Glycosylphosphatidylinositol specific phospholipase D1	I	R.LSSSPN#VTISCK.D	1	0	4	0	0	0	2	1	0	0	2	0	2	11
+IPI00553253	53 kDa protein	TM	R.IDPVTGN#ITLEEKPAPTDVGLHR.L	0.9972	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00553259	"Adult male colon cDNA, RIKEN full-length enriched library, clone:9030416A10 product:solute carrier family 5, member 1, full insert sequence"	TM	K.VSNGN#FTAK.E	0.9986	0	0	8	0	0	0	0	0	0	0	0	0	8
+IPI00553338	"ATPase, Na+\/K+ transporting, beta 2 polypeptide"	I	R.DEDAENLGHFVMFPAN#GSIDLMYFPYYGK.K	1	7	0	0	0	0	0	0	0	0	0	0	0	7
+IPI00553586	PREDICTED: similar to Es1 protein	S	R.FHSDLN#ISESLIPAVIEK.Y	0.9997	0	0	0	2	0	0	0	0	0	0	0	0	2
+IPI00553651	PREDICTED: similar to secreted gel-forming mucin	A	R.IECCTVVNN#CSTASVTTHPTSHGVSTK.T	0.9864	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00553651	PREDICTED: similar to secreted gel-forming mucin	A	K.ATGEVFVNQIYTQLPVSTAN#ATFFR.P	1	0	0	0	0	0	0	0	0	0	0	3	0	3
+IPI00553651	PREDICTED: similar to secreted gel-forming mucin	A	K.MDGPTEQCQDPLPVPQKN#CSAR.S	1	0	0	0	0	0	0	0	0	0	0	5	0	5
+IPI00553651	PREDICTED: similar to secreted gel-forming mucin	A	R.YSFNGDCEYTLLQDNCGGN#GSSQDAFR.V	0.9899	0	0	0	0	0	0	0	1	0	0	6	0	7
+IPI00553651	PREDICTED: similar to secreted gel-forming mucin	A	R.AQFFPNTPLEELGQN#VTCSR.E	1	0	1	0	0	0	0	0	0	0	0	13	0	14
+IPI00553651	PREDICTED: similar to secreted gel-forming mucin	A	R.VQESN#TTTLSR.V	1	0	3	0	0	0	0	1	0	0	0	19	0	23
+IPI00553772	52 kDa protein	S	R.LSGKPTN#VSVS.V	0.8719	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00553773	Secreted gel-forming mucin	A	T.YRPGETIQVGCNN#CTCENR.M	1	0	0	0	0	0	0	0	0	0	0	9	0	9
+IPI00554925	"H-2 class II histocompatibility antigen, A-Q alpha chain"	TM	R.SN#FTPATNEAPQATVFPK.S	1	0	5	0	0	0	12	0	1	12	12	0	0	42
+IPI00556843	Ace protein	I	K.TFDVSNFQN#SSIK.R	0.9999	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00556843	Ace protein	I	K.STEVSN#HTLK.Y	0.9978	0	0	1	0	1	0	0	0	0	0	0	0	2
+IPI00605187	"0 day neonate lung cDNA, RIKEN full-length enriched library, clone:E030019D07 product:similar to GPI-ANCHORED CERULOPLASMIN"	S	Y.APSGTDIFTGEN#LTALESDSR.V	1	0	2	0	0	0	0	1	0	0	0	0	4	7
+IPI00605524	PREDICTED: v-erb-b2 erythroblastic leukemia viral oncogene homolog 3	A	R.HFN#DSGACVPR.C	0.9991	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00605837	PREDICTED: similar to Nogo receptor	I	R.VPPGDTPPGN#GSGPR.H	0.9998	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00606550	"Ig gamma-2B chain C region, membrane-bound form"	TM	R.EDYN#STIR.V	0.9994	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00606589	PREDICTED: similar to integrin associated protein	TM	R.DAMVGN#YTCEVTELSR.E	1	0	2	1	3	2	1	4	1	4	7	0	0	25
+IPI00606589	PREDICTED: similar to integrin associated protein	TM	K.N#STTTDQN#FTSAK.I	1	4	0	0	0	0	8	4	0	4	4	4	0	28
+IPI00606886	32 kDa protein	TM	K.KDIEGAMAPSN#LTVN.I	0.9998	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00607976	"PREDICTED: serine (or cysteine) proteinase inhibitor, clade A, member 3A"	TM	M.QSTVMELNYIGN#ASFLFILPDQGR.I	0.9499	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00608066	Splice Isoform 1 of Carboxypeptidase M 	S	R.NFPDAFENNN#VTK.Q	0.9993	2	0	0	0	2	0	0	1	0	0	0	0	5
+IPI00619986	49 kDa protein	TM	R.DEVGN#SSQVSLQGPVGPDAN#FTVR.D	0.8962	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00620014	"12 days embryo spinal ganglion cDNA, RIKEN full-length enriched library, clone:D130011M18 product:hypothetical CENP-B protein containing protein, full insert sequence"	I	R.SDRVTVLLAAN#LTGSHKLK.P	0.9185	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00620249	69 kDa protein	S	R.EN#YSSVDANGIQSQMLSR.W	1	0	0	0	0	0	0	0	0	0	2	0	0	2
+IPI00620485	21 kDa protein	S	G.LWCQDCTLAN#SSHCAPK.Q	1	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00620550	"0 day neonate skin cDNA, RIKEN full-length enriched library, clone:4631424C05 product:macrophage scavenger receptor 1, full insert sequence"	TM	R.FQN#FSMATDQR.L	1	0	1	2	0	0	1	0	0	0	0	0	0	4
+IPI00620550	"0 day neonate skin cDNA, RIKEN full-length enriched library, clone:4631424C05 product:macrophage scavenger receptor 1, full insert sequence"	TM	R.VLNN#ITNDLR.L	0.9999	0	2	2	0	0	3	0	0	0	0	0	0	7
+IPI00620795	48 kDa protein	S	K.EVMNLLQPLN#VTK.V	0.9999	0	2	0	0	0	2	2	0	0	2	0	3	11
+IPI00621027	111 kDa protein	S	R.MALLQYGSQNQQQVAFPLTYN#VTTIHEALER.A	1	0	4	0	0	0	0	0	3	0	4	0	1	12
+IPI00621027	111 kDa protein	S	R.N#MTLFSDLVAEK.F	1	0	0	0	2	1	0	0	3	3	7	3	1	20
+IPI00621027	111 kDa protein	S	R.GTFTDCALAN#MTQQIR.Q	1	0	4	2	0	0	0	4	2	2	2	1	3	20
+IPI00621319	43 kDa protein	I	K.RLFLLDLLN#ATGK.D	0.9248	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00621392	162 kDa protein	S	R.VGLVTYSN#ETR.V	0.9999	0	0	0	3	0	0	2	1	0	0	0	3	9
+IPI00621393	24 kDa protein	TM	R.ALICN#TTN#LTAGDDGPPHR.G	0.8895	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00621410	"Adult male testis cDNA, RIKEN full-length enriched library, clone:4931440N24 product:prominin, full insert sequence"	TM	K.DALQN#MSSSLK.S	0.9976	0	0	0	0	1	0	2	0	0	0	2	0	5
+IPI00621513	58 kDa protein	TM	R.GDHGAN#FSCR.T	0.9328	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00621513	58 kDa protein	TM	K.QEMN#GTYVCHAFSSHGN#VTR.N	1	0	0	0	0	0	3	0	0	0	2	0	0	5
+IPI00621532	"Adult male kidney cDNA, RIKEN full-length enriched library, clone:F530209O08 product:uromodulin, full insert sequence"	S	M.TNCYATPSSN#STDPVK.Y	0.9729	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00621532	"Adult male kidney cDNA, RIKEN full-length enriched library, clone:F530209O08 product:uromodulin, full insert sequence"	S	R.RN#ETHATYSNTLYLAN.A	0.9954	0	0	0	0	3	0	0	0	0	0	0	0	3
+IPI00622022	88 kDa protein	I	R.SRPSSDLN#NSTLQSPAHLK.V	0.9167	0	1	0	0	0	0	0	0	0	0	0	0	1
+IPI00622082	Angiopoietin-1 receptor 	TM	K.VPGN#LTSVLLSNLVPR.E	0.9996	0	0	0	0	2	0	0	0	0	0	0	0	2
+IPI00622442	35 kDa protein	TM	L.LAVQFTN#LTVDTEIR.V	0.9999	0	0	0	0	1	1	0	0	0	0	0	0	2
+IPI00622442	35 kDa protein	TM	K.N#ESLETYPLMMK.Y	0.9986	9	0	0	0	2	0	0	0	0	0	0	0	11
+IPI00622562	53 kDa protein	S	K.TLFLFPN#QTGFPSK.Q	0.9999	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00622651	13 kDa protein	I	K.ERGLN#FSESLVSGFFKEI.D	0.8831	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00622675	319 kDa protein	I	K.VFQAESHAAQLN#DSSAVLDGILDEAK.N	1	0	1	0	1	0	0	0	0	0	0	0	0	2
+IPI00622675	319 kDa protein	I	R.HMQN#LTEEQPIEVK.K	1	0	4	0	2	0	0	0	0	0	0	0	0	6
+IPI00622675	319 kDa protein	I	K.ILYGLEN#TTQELK.H	0.9999	0	2	1	2	0	0	1	0	0	0	1	0	7
+IPI00622675	319 kDa protein	I	R.LEQMTMNIN#LTGPLPAPYK.I	1	0	5	0	3	0	0	0	0	1	0	1	0	10
+IPI00622675	319 kDa protein	I	K.LSAITN#DTAAK.L	0.9997	0	2	3	2	0	0	4	1	0	0	3	0	15
+IPI00622983	"6 days neonate skin cDNA, RIKEN full-length enriched library, clone:A030009B04 product:prominin 2, full insert sequence"	TM	R.ALN#TTSVELQEAQR.H	0.9118	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00623136	Brain epsilon-sarcoglycan	TM	R.LNAIN#ITSALDR.G	0.8309	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00623148	93 kDa protein	TM	K.FTGTVLYN#ATK.T	1	0	0	0	0	0	0	0	0	0	6	0	0	6
+IPI00623148	93 kDa protein	TM	K.VN#PTEVEKN#NSVTMTCR.V	1	0	0	0	0	0	0	0	0	0	13	0	0	13
+IPI00623158	287 kDa protein	S	R.GPPGVN#GTQGFQGCPGQR.G	1	0	0	0	0	0	0	0	0	1	1	0	1	3
+IPI00623158	287 kDa protein	S	R.QLINALQIN#NTAVGHALVLPAR.R	1	0	4	0	2	0	0	3	5	11	3	2	1	31
+IPI00623218	139 kDa protein	TM	R.VSVVN#STLAEVHWDPVPPK.S	1	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00623398	42 kDa protein	I	K.YIENHGVVHNMFYN#TTSTVR.L	1	0	0	6	0	0	0	0	0	0	0	0	0	6
+IPI00623532	85 kDa protein	TM	K.VPYNVGPGFAGN#FSTQK.V	0.9999	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00623668	78 kDa protein	TM	K.VYEN#VTSHN#ASGYQFFPSGEK.Q	1	0	0	8	0	0	0	0	0	0	0	0	1	9
+IPI00624157	Hypothetical protein	I	R.GLCSISVGAN#LTTFDGAHNAISSPGVYELSSR.C	0.9999	0	2	0	0	0	0	0	0	0	0	0	0	2
+IPI00624157	Hypothetical protein	I	M.PVN#SSLMSSDCSER.C	0.9999	0	0	0	0	0	0	0	4	0	0	0	0	4
+IPI00624310	Splice Isoform 1 of Mesoderm induction early response protein 1	S	A.NN#LTTDPK.L	0.891	0	0	2	0	0	2	1	1	1	1	0	0	8
+IPI00624477	69 kDa protein	TM	R.N#HSHGSHVPGFGR.H	0.9138	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00624544	184 kDa protein	S	K.KN#VTLILDCK.K	0.9978	0	0	0	0	0	0	0	0	4	0	0	0	4
+IPI00624584	39 kDa protein	I	R.TGVNSGVMLMN#MTR.M	0.9307	0	0	0	0	0	1	0	0	0	1	0	0	2
+IPI00624663	Pzp protein	S	K.ACVSLNHVN#ETVM.L	0.9888	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00624699	"0 day neonate thymus cDNA, RIKEN full-length enriched library, clone:A430106M06 product:Lutheran blood group"	S	K.GN#LTLER.V	0.8542	0	0	0	0	0	0	0	2	0	1	0	0	3
+IPI00624761	44 kDa protein	TM	R.PVDDPTGAFAN#GSLTFK.V	1	0	3	0	0	0	2	0	0	2	1	1	2	11
+IPI00624807	107 kDa protein	TM	R.VNYEGGTWDWIAEALSSN#HTR.F	0.9228	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00624807	107 kDa protein	TM	K.IALN#LTMYLK.S	0.9999	0	0	4	0	0	5	0	0	0	0	0	0	9
+IPI00625065	40 kDa protein	A	K.N#ASSEYSGTYSCTVQNR.V	1	0	0	2	0	0	1	0	0	0	0	0	0	3
+IPI00625100	"12 days embryo male wolffian duct includes surrounding region cDNA, RIKEN full-length enriched library, clone:6720458D05 product:A kinase"	I	R.KRN#GSH.L	0.9539	0	0	0	0	0	0	0	0	0	0	1	0	1
+IPI00625116	198 kDa protein	I	L.ELN#ETGHK.L	0.9961	0	0	0	0	0	0	1	0	0	0	0	0	1
+IPI00625307	179 kDa protein	TM	K.FDGLWIDMNEPSSFVN#GTVTNK.C	0.9533	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00625307	179 kDa protein	TM	R.NHNAEGYAEQDPAFWGADSLLVN#TSR.H	0.9993	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00625307	179 kDa protein	TM	R.N#TSEIEQLYNDMK.A	0.9998	0	0	2	0	0	0	0	0	0	0	0	0	2
+IPI00625307	179 kDa protein	TM	D.PAISGN#ETQPYPAFER.G	1	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00625530	RGPR-p117	I	R.EKHN#GTFGANSGTQFQFTSK.N	0.9605	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00625552	71 kDa protein	I	K.AIVVEN#ASVLVHCSDGWDR.T	0.8869	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00625835	Solute carrier organic anion transporter family member 1A1	TM	T.ISPTSN#LSSNSFLCIEN#R.T	0.9994	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00625941	32 kDa protein	TM	K.DTAVEGEEIEVN#CTAMASKPATTIR.W	1	0	0	1	0	0	0	0	1	0	1	0	4	7
+IPI00626010	"3 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A630052C15 product:laminin, alpha 2, full insert sequence"	S	R.ICNQN#SSNPYQR.H	1	0	4	0	0	0	0	0	2	6	0	0	0	12
+IPI00626567	100 kDa protein	TM	K.AN#FTILK.G	0.9937	0	0	0	0	0	0	0	0	3	0	0	0	3
+IPI00626624	"16 days embryo head cDNA, RIKEN full-length enriched library, clone:C130075O19 product:mannosidase 2, alpha 1, full insert sequence."	TM	M.HSPPDAQN#MSEVSLSPMEISTFR.I	0.9814	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00626793	114 kDa protein	I	K.DAVNN#ITAK.G	0.9788	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00626894	"Adult male hippocampus cDNA, RIKEN full-length enriched library, clone:C630004D13 product:calcium channel, voltage-dependent, alpha 2/delta subunit 2, full insert sequence."	I	K.VN#YSYTAVQIPTDIYK.G	0.9959	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00626906	66 kDa protein	TM	N.YQN#NTEVIQGIR.T	0.9999	0	0	0	0	0	1	0	0	1	2	1	0	5
+IPI00626906	66 kDa protein	TM	K.IMESHPN#GTFSAK.G	1	0	5	0	2	0	0	1	0	2	5	0	3	18
+IPI00627008	175 kDa protein	S	K.SEMMYGN#ETELK.M	1	3	0	0	0	0	0	0	0	0	0	0	0	3
+IPI00627008	175 kDa protein	S	K.QAALDPFVLQNLLPN#STDK.Y	0.9992	4	0	0	0	0	0	0	0	0	0	0	0	4
+IPI00627008	175 kDa protein	S	K.CN#VSSEGSEHSLEGQK.F	0.9999	9	0	0	0	0	0	0	0	0	0	0	0	9
+IPI00648026	Endothelin-converting enzyme-1a	TM	N.TIFYPVEIN#ESEPIVVYDK.E	0.9515	0	0	0	0	0	1	0	0	0	0	0	0	1
+IPI00648076	OTTMUSP00000000543	TM	R.VSLSIAIIAMVN#STQHQDPAN#ASTEGPVMDLLSN#Q.S	0.9486	0	3	0	5	0	0	1	1	0	5	1	1	17
+IPI00648237	Itga3 protein	TM	R.VWN#STFIEDYKDFDR.V	0.9844	0	0	0	0	0	0	0	2	0	0	0	0	2
+IPI00648237	Itga3 protein	TM	R.DLAVGDDYTN#R.T	0.9499	0	0	3	0	1	1	2	0	0	0	0	0	7
+IPI00648243	"13 days embryo liver cDNA, RIKEN full-length enriched library, clone:2510008B09 product:apolipoprotein H, full insert sequence"	S	K.N#ISFACNPGFFLN#GTSSSK.C	1	0	1	4	2	3	4	5	2	4	2	1	3	31
+IPI00648480	15 kDa protein	A	M.QSALAAMQQFYGIN#MTGK.V	0.8034	0	0	0	0	1	0	0	0	0	0	0	0	1
+IPI00648855	20 kDa protein	S	K.DADEGDTLAN#SSDLLK.E	0.9988	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00649103	31 kDa protein	I	R.GVFITN#ETGQPLIGK.V	0.9999	0	0	0	0	1	0	1	0	0	0	0	0	2
+IPI00649133	32 kDa protein	TM	A.SN#VTSSGGGVQEPAVAR.E	0.9995	0	0	0	0	0	0	0	0	0	0	0	4	4
+IPI00649186	Splice Isoform 1 of Choline transporter-like protein 2	TM	R.KN#ITDLVEGAK.K	0.9998	2	0	2	0	0	0	0	0	0	2	0	5	11
+IPI00649292	"Myosin, heavy polypeptide 2, skeletal muscle, adult"	I	K.KMEGDLNEMEIQLN#HSNR.M	0.9428	0	0	0	0	0	0	0	1	0	0	0	0	1
+IPI00649313	120 kDa protein	A	K.KPN#ATVEPIQPDR.W	0.9989	0	1	0	0	1	0	3	0	0	0	0	0	5
+IPI00649313	120 kDa protein	A	R.VTPVCN#ASLPAQR.W	0.9995	0	2	0	0	0	0	4	0	0	0	0	0	6
+IPI00649378	81 kDa protein	S	R.IFQAN#VSEDAAVGSR.V	0.9991	0	0	3	0	0	0	0	0	0	0	0	0	3
+IPI00649671	Butyrylcholinesterase	TM	K.YGHPN#GTQGN#STMWPVFTSTEQK.Y	0.9405	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00649920	53 kDa protein	I	R.YLYLASN#HSNK.W	0.9999	0	13	3	0	0	0	6	0	1	0	3	1	27
+IPI00651893	"Adult male cecum cDNA, RIKEN full-length enriched library, clone:9130019N24 product:similar to Calcium-activated chloride channel protein 2"	TM	K.GTQTTN#FTMDFVSK.M	0.9589	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00652132	"Adult male pituitary gland cDNA, RIKEN full-length enriched library, clone:5330407E20 product:N-acetyl galactosaminidase, alpha, full insert sequence"	A	K.VN#YTEVSR.V	0.9987	0	2	1	0	0	0	2	3	2	2	0	4	16
+IPI00652132	"Adult male pituitary gland cDNA, RIKEN full-length enriched library, clone:5330407E20 product:N-acetyl galactosaminidase, alpha, full insert sequence"	A	K.MAAALN#ATGRPIAF.S	0.9998	0	2	4	1	0	0	3	2	4	3	2	2	23
+IPI00652358	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630001N08 product:arylsulfatase B, full insert sequence"	S	E.HSAFN#TSIHAGIR.Y	0.9936	0	0	0	0	0	0	2	0	0	1	0	0	3
+IPI00652358	"NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630001N08 product:arylsulfatase B, full insert sequence"	S	R.IYAGMVSLMDEAVGN#VTK.A	1	0	1	0	0	0	0	4	0	1	2	0	1	9
+IPI00652452	"In vitro fertilized eggs cDNA, RIKEN full-length enriched library, clone:7420422A16 product:synaptotagmin-like 2, full insert sequence."	I	K.SNSEN#LSQQGTHK.V	0.9404	0	0	0	0	0	0	0	0	1	0	0	0	1
+IPI00652459	"Adult inner ear cDNA, RIKEN full-length enriched library, clone:F930013C23 product:carbonic anyhydrase 12, full insert sequence"	S	K.LLN#LTNDGHSVR.L	0.9996	0	0	3	0	5	0	1	0	0	0	0	0	9
+IPI00652463	"10 days neonate medulla oblongata cDNA, RIKEN full-length enriched library, clone:B830048K18 product:solute carrier family 26, member 6, full insert sequence"	TM	K.AFVQGLN#ATADDAR.V	1	0	0	1	0	0	0	0	0	0	0	0	0	1
+IPI00652675	"Visual cortex cDNA, RIKEN full-length enriched library, clone:K230301B18 product:limbic system-associated membrane protein, full insert sequence"	A	K.LGVTN#ASLVLFRPGSVR.G	1	5	0	0	0	0	0	0	1	0	0	0	0	6
+IPI00652813	"CDNA, RIKEN full-length enriched library, clone:M5C1012H16 product:fibronectin 1, full insert sequence"	S	R.N#YTDCTSEGR.R	1	0	1	1	2	0	3	1	0	1	1	0	1	11
+IPI00652813	"CDNA, RIKEN full-length enriched library, clone:M5C1012H16 product:fibronectin 1, full insert sequence"	S	K.LDAPTNLQFVN#ETDR.T	1	0	0	5	1	6	11	8	4	4	8	6	3	56
+IPI00653054	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830083M04 product:interferon alpha responsive"	TM	K.HLN#SSLPR.P	0.9948	1	3	0	0	2	0	2	0	1	4	1	5	19
+IPI00653175	"8 days embryo whole body cDNA, RIKEN full-length enriched library, clone:5730407E21 product:acid phosphatase 2, lysosomal, full insert sequence"	S	R.YHGFLN#TSYHR.Q	1	0	0	0	0	0	0	0	0	0	2	0	2	4
+IPI00653175	"8 days embryo whole body cDNA, RIKEN full-length enriched library, clone:5730407E21 product:acid phosphatase 2, lysosomal, full insert sequence"	S	R.YEQLQN#ETR.Q	0.9969	0	3	0	0	0	0	2	0	1	1	4	2	13
+IPI00653201	"Bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:I830078D18 product:cathepsin C, full insert sequence"	S	S.DTPAN#CTYPDLLGTWVFQVGPR.S	1	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00653571	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330077N24 product:vascular cell adhesion molecule 1, full insert sequence"	TM	R.PVTVN#CTVPNVYPFDHLEIELLK.G	1	0	0	0	0	0	0	0	0	0	3	0	0	3
+IPI00653571	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330077N24 product:vascular cell adhesion molecule 1, full insert sequence"	TM	R.N#TTISVHPSTR.L	0.9994	0	0	0	0	0	0	0	1	0	2	0	1	4
+IPI00653571	"Adult male spinal cord cDNA, RIKEN full-length enriched library, clone:A330077N24 product:vascular cell adhesion molecule 1, full insert sequence"	TM	K.ETTIWVSPSPILEEGSPVN#LTCSSDGIPAPK.I	0.9997	0	0	0	0	0	0	0	0	0	4	0	0	4
+IPI00653575	"16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130072K23 product:elastin microfibril interfacer 1, full insert sequence"	I	R.LN#LTAAQLSQLEGLLQAR.G	1	0	1	1	0	0	0	2	0	0	9	1	0	14
+IPI00653610	"Adult male diencephalon cDNA, RIKEN full-length enriched library, clone:9330011K09 product:Interleukin-1 receptor accessory protein (IL- 1 receptor accessory protein) (IL-1RAcP) homolog"	TM	K.DVLWFRPTLLN#DTGN#YTCMLR.N	0.9999	0	2	0	0	0	0	0	0	0	0	1	0	3
+IPI00653619	"Activated spleen cDNA, RIKEN full-length enriched library, clone:F830219M05 product:hypothetical protein, full insert sequence"	I	R.TTTIN#FSLAK.S	0.9074	0	0	0	0	0	0	1	0	0	1	0	0	2
+IPI00653954	"Adult male epididymis cDNA, RIKEN full-length enriched library, clone:9230005G05 product:hypothetical protein, full insert sequence"	A	M.IRRTWYAN#ETILYLK.R	0.9119	0	0	0	0	0	0	0	0	0	0	0	1	1
+IPI00654122	"7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730073F09 product:phosphatidylinositol glycan, class S, full insert sequence"	TM	K.IYN#ASELPVR.V	0.9991	1	0	0	0	0	0	0	0	0	0	0	0	1
+IPI00654393	"13 days embryo stomach cDNA, RIKEN full-length enriched library, clone:D530038N07 product:stabilin 2, full insert sequence"	A	K.ITN#GTVGVR.D	0.9366	0	0	0	0	0	2	0	0	0	0	0	0	2
+IPI00654907	Hypothetical protein CEACAM1/2sec	A	R.FHVHQPVTQPFLQVTN#TTVK.E	1	0	4	2	2	0	7	0	0	0	3	0	0	18
+IPI00654909	H2-L protein	TM	R.TLLGYYN#QSAGGTHTIQR.M	1	0	11	3	0	0	22	2	0	6	8	4	1	57
+IPI00655047	Muc5AC protein	I	K.N#NSGSTYFYQPGELWAEPGNPCVTHK.C	0.9967	0	0	0	0	0	0	0	0	0	0	4	0	4
+IPI00655054	"0 day neonate lung cDNA, RIKEN full-length enriched library, clone:E030034K24 product:chloride channel calcium activated 1, full insert sequence"	S	R.MSQHPLDLQEDFNN#ATLVN#ASSLIPK.E	0.9807	0	0	0	0	0	0	0	0	0	1	0	0	1
+IPI00655188	Class I MHC H2-D-beta transplantation antigen mRNA	TM	K.NGN#ATLLR.T	0.9995	0	6	3	0	0	9	1	0	5	13	1	1	39
