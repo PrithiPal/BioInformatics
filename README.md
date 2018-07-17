@@ -4,20 +4,20 @@ Visit Wiki for Project Overview.
 
 ### Preview
 
-Glycoanalysis is the compilation of Stastics after obtaining the final Loopstat outputs.It employs use of FirstLoopstat output to produce appropriate stastics.  
+Glycoanalysis is the compilation of statistics after obtaining the final Loopstat outputs.It employs use of FirstLoopstat output to produce appropriate stastics.  
 Below is the given format required for the presentation of statistics\(One Table for each species\) 
 
 ### ![](/assets/table.jpg)
 
 ### Explanation
 
-Non-Glycosylation stastics are obtained from non\_glyco\_file for each species. For the rest, refer to the .awk programes below to obtain the stats.
+Non-Glycosylation statistics are obtained from non\_glyco\_file for each species. For the rest, refer to the .awk programmes below to obtain the stats.
 
 > $19 = FirstDomain.Glyco.Length
 >
 > $21 = LastDomain.Glyco.Length
 
-Based on the the values of above fields, four possible categories are possible
+Based on the values of the above fields, four categories are possible
 
 > onlyfirst.awk : if $19!=0 && $22==0
 >
