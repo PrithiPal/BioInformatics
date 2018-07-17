@@ -33,17 +33,17 @@ Based on the values of the above fields, four categories are possible
 
 ### Steps
 
-1. Store the all above mentioned files in one directory along with the firstLoopstatOutput. Make this directory as current.
+1. Store the all the above mentioned files in one directory along with the firstLoopstatOutput. Make this directory as current.
 
-2. Runs all the stastics on the mouseloopstatoutput1 file.
+2. Runs all stastics on the mouseloopstatoutput1 file.
 
 `ls | grep ".awk" | sort | xargs -n1 -i {} sh -c './{} mouseLoopstatOutput1'`
 
-1. Runs the sequons stastics for the mouse1loopstatoutput1 File.
+1. Runs the sequons statistics for the mouse1loopstatoutput1 File.
 
 `for i in {0..4};do ./sequons.sh mouseLoopstatOutput1 $i; done`
 
-1. The Non-glyco stastics are likely to remain same because only Sequons information is altered during the course from experimental to theoretical data creation.
+1. The Non-glyco stastics are likely to remain unchanges because only Sequons information is altered during the course from experimental to theoretical data creation.
 
 At the end NL\(onlyfirst\) + NL\(onlylast\) + NL\(both\) + NL\(last\) = NL\(overall\)
 
